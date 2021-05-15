@@ -4,11 +4,10 @@ Original EPG repository is in an archived state. See https://github.com/wearebla
 No Problems.
 ## Solved problems
 - HITZ FM EPG Unavailable.
-  - Fixed: Re-added HITZ FM (aa6my)
+- BBC World News HD (String was not recognized as a valid DateTime)
+  - Now using SiteIni by aa6my ([See here](https://github.com/weareblahs/epg/issues/2#issuecomment-841613022)), most of the channels that returned "String was not recognized as a valid DateTime" are fixed. All of the EPG data should be working now.
 - Some channels unavailable on Astro.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
-- BBC World News HD (String was not recognized as a valid DateTime)
-    - Changed the source to bbc.co.uk
 
 ## Updates
 FOUND: unifi PlayTV is powered by Huawei's Envision Video Platform.
@@ -41,7 +40,9 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 - MYTV Broadcasting: 21
 ## Channel Source
 - Astro: astro.com.my
-- unifi TV: astro.com.my / i-cable.com / singtel.com.sg
+- unifi TV: astro.com.my / i-cable.com / singtel.com.sg / nowtv.now.com / peotv.com / sfr.fr (Luxe TV and France24) / sky.com
+  - Inaccurate EPGs are Star Movies HD (+1), Now Jelli (Feed from Hong Kong, different from other areas), Sony SAB and Sony SET (Modified Feed by unifi TV to add local content), Colors Cineplex (UK Feed)
+  - See Fix [Here](https://github.com/weareblahs/unifi-tv#epg-for-polimer-and-jaya-max) for Polimer and Jaya Max EPGs (Note that you must have a IPTV player capable of multiple EPG sources)
 - RTM Klik: rtmklik.rtm.gov.my
 - MYTV Broadcasting: rtmklik.rtm.gov.my / astro.com.my  
 ## XMLTV ID Type
