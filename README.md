@@ -1,10 +1,7 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
 ## Currently encountered problems
-- Unavailable channels on Astro follows (due to an error):
-  - ABO Movies Tayangan Hebat HD (String was not recognized as a valid DateTime)
-  - BOO HD (String was not recognized as a valid DateTime)
-  - FOX Family Movies HD (String was not recognized as a valid DateTime)
+No Problems.
 ## Solved problems
 - HITZ FM EPG Unavailable.
   - Fixed: Re-added HITZ FM (aa6my)
