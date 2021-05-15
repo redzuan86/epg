@@ -6,8 +6,8 @@ Original EPG repository is in an archived state. See https://github.com/wearebla
   - BOO HD (String was not recognized as a valid DateTime)
   - FOX Family Movies HD (String was not recognized as a valid DateTime)
 ## Solved problems
-- Radio channels EPG unavailable on Astro.
-  - Solved: Caused by Hitz FM (which Astro didn't set the time properly, according to WebGrab++). Removed this channel (temporarily).
+- HITZ FM EPG Unavailable.
+  - Fixed: Re-added HITZ FM (aa6my)
 - Some channels unavailable on Astro.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
 - BBC World News HD (String was not recognized as a valid DateTime)
