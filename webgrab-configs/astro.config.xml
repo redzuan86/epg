@@ -54,7 +54,7 @@
     <channel update="i" site="astro.com.my" site_id="167" xmltv_id="202">Astro Vinmeen HD</channel>
     <channel update="i" site="astro.com.my" site_id="61" xmltv_id="203">Astro Vellithirai</channel>
     <channel update="i" site="astro.com.my" site_id="47" xmltv_id="204">Makkal TV</channel>
-    <channel update="i" site="astro.com.my" site_id="4" xmltv_id="211">SUN TV</channel>
+    <channel update="i" site="astro.com.my" site_id="358" xmltv_id="211">SUN TV</channel>
     <channel update="i" site="astro.com.my" site_id="417" xmltv_id="212">Sun Music HD</channel>
     <channel update="i" site="astro.com.my" site_id="51" xmltv_id="213">Chutti TV</channel>
     <channel update="i" site="astro.com.my" site_id="67" xmltv_id="214">Adithya</channel>
@@ -72,7 +72,7 @@
     <channel update="i" site="astro.com.my" site_id="158" xmltv_id="308">Astro Quan Jia HD</channel>
     <channel update="i" site="astro.com.my" site_id="134" xmltv_id="309">Celestial Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="203" xmltv_id="310">TVB Jade</channel>
-    <channel update="i" site="astro.com.my" site_id="172" xmltv_id="311">Astro On Demand HD 311</channel>
+    <channel update="i" site="astro.com.my" site_id="172" xmltv_id="311">Astro AOD HD 311</channel>
     <channel update="i" site="astro.com.my" site_id="388" xmltv_id="315">Star Chinese Channel HD</channel>
     <channel update="i" site="astro.com.my" site_id="424" xmltv_id="316">CTI Asia</channel>
     <channel update="i" site="astro.com.my" site_id="427" xmltv_id="317">TVB Entertainment News</channel>
@@ -85,10 +85,10 @@
     <channel update="i" site="astro.com.my" site_id="43" xmltv_id="326">Phoenix Info News HD</channel>
     <channel update="i" site="astro.com.my" site_id="162" xmltv_id="333">Astro Hua Hee Dai HD</channel>
     <channel update="i" site="astro.com.my" site_id="385" xmltv_id="335">CCTV4 HD</channel>
-    <channel update="i" site="astro.com.my" site_id="87" xmltv_id="352">Astro On Demand 352</channel>
-    <channel update="i" site="astro.com.my" site_id="114" xmltv_id="353">Astro On Demand 353</channel>
-    <channel update="i" site="astro.com.my" site_id="65" xmltv_id="354">Astro On Demand 354</channel>
-    <channel update="i" site="astro.com.my" site_id="66" xmltv_id="355">Astro On Demand 355</channel>
+    <channel update="i" site="astro.com.my" site_id="87" xmltv_id="352">Astro AOD 352</channel>
+    <channel update="i" site="astro.com.my" site_id="114" xmltv_id="353">Astro AOD 353</channel>
+    <channel update="i" site="astro.com.my" site_id="65" xmltv_id="354">Astro AOD 354</channel>
+    <channel update="i" site="astro.com.my" site_id="66" xmltv_id="355">Astro AOD 355</channel>
     <channel update="i" site="astro.com.my" site_id="161" xmltv_id="392">KBS World HD</channel>
     <channel update="i" site="astro.com.my" site_id="133" xmltv_id="393">ONE HD</channel>
     <channel update="i" site="astro.com.my" site_id="191" xmltv_id="394">Oh!K HD</channel>
@@ -102,30 +102,29 @@
     <channel update="i" site="astro.com.my" site_id="170" xmltv_id="414">FOX Family Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="184" xmltv_id="415">FOX Action Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="274" xmltv_id="416">tvN Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="150" xmltv_id="487">Astro PPV (487)</channel>
-    <channel update="i" site="astro.com.my" site_id="152" xmltv_id="475">Astro PPV (475)</channel>
-    <channel update="i" site="astro.com.my" site_id="168" xmltv_id="490">Astro PPV (490)</channel>
-    <channel update="i" site="astro.com.my" site_id="169" xmltv_id="491">Astro PPV (491)</channel>
-    <channel update="i" site="astro.com.my" site_id="173" xmltv_id="477">Astro PPV (477)</channel>
-    <channel update="i" site="astro.com.my" site_id="174" xmltv_id="479">Astro PPV (479)</channel>
-    <channel update="i" site="astro.com.my" site_id="175" xmltv_id="472">Astro PPV (472)</channel>
-    <channel update="i" site="astro.com.my" site_id="238" xmltv_id="476">Astro PPV (476)</channel>
-    <channel update="i" site="astro.com.my" site_id="240" xmltv_id="489">Astro PPV (489)</channel>
-    <channel update="i" site="astro.com.my" site_id="242" xmltv_id="482">Astro PPV (482)</channel>
-    <channel update="i" site="astro.com.my" site_id="265" xmltv_id="483">Astro PPV (483)</channel>
-    <channel update="i" site="astro.com.my" site_id="360" xmltv_id="499">Astro PPV (499)</channel>
-    <channel update="i" site="astro.com.my" site_id="404" xmltv_id="485">Astro PPV (485)</channel>
-    <channel update="i" site="astro.com.my" site_id="413" xmltv_id="486">Astro PPV (486)</channel>
-    <channel update="i" site="astro.com.my" site_id="416" xmltv_id="488">Astro PPV (488)</channel>
-    <channel update="i" site="astro.com.my" site_id="120" xmltv_id="492">Astro PPV (492)</channel>
-    <channel update="i" site="astro.com.my" site_id="125" xmltv_id="478">Astro PPV (478)</channel>
-    <channel update="i" site="astro.com.my" site_id="142" xmltv_id="484">Astro PPV (484)</channel>
-    <channel update="i" site="astro.com.my" site_id="146" xmltv_id="474">Astro PPV (474)</channel>
-    <channel update="i" site="astro.com.my" site_id="148" xmltv_id="473">Astro PPV (473)</channel>
-    <channel update="i" site="astro.com.my" site_id="381" xmltv_id="498">Astro PPV (498)</channel>
-    <channel update="i" site="astro.com.my" site_id="84" xmltv_id="501">Astro Awani</channel>
+    <channel update="i" site="astro.com.my" site_id="150" xmltv_id="487">Astro Best (487)</channel>
+    <channel update="i" site="astro.com.my" site_id="152" xmltv_id="475">Astro First (475)</channel>
+    <channel update="i" site="astro.com.my" site_id="168" xmltv_id="490">Astro Best (490)</channel>
+    <channel update="i" site="astro.com.my" site_id="169" xmltv_id="491">Astro Best (491)</channel>
+    <channel update="i" site="astro.com.my" site_id="173" xmltv_id="477">Astro First (477)</channel>
+    <channel update="i" site="astro.com.my" site_id="174" xmltv_id="479">Astro First (479)</channel>
+    <channel update="i" site="astro.com.my" site_id="175" xmltv_id="472">Astro First (472)</channel>
+    <channel update="i" site="astro.com.my" site_id="238" xmltv_id="476">Astro First (476)</channel>
+    <channel update="i" site="astro.com.my" site_id="240" xmltv_id="489">Astro Best (489)</channel>
+    <channel update="i" site="astro.com.my" site_id="242" xmltv_id="482">Astro Best (482)</channel>
+    <channel update="i" site="astro.com.my" site_id="265" xmltv_id="483">Astro Best (483)</channel>
+    <channel update="i" site="astro.com.my" site_id="360" xmltv_id="499">Astro UHD PPV (499)</channel>
+    <channel update="i" site="astro.com.my" site_id="404" xmltv_id="485">Astro Best (485)</channel>
+    <channel update="i" site="astro.com.my" site_id="413" xmltv_id="486">Astro Best (486)</channel>
+    <channel update="i" site="astro.com.my" site_id="416" xmltv_id="488">Astro Best (488)</channel>
+    <channel update="i" site="astro.com.my" site_id="120" xmltv_id="492">Astro Best (492)</channel>
+    <channel update="i" site="astro.com.my" site_id="125" xmltv_id="478">Astro First (478)</channel>
+    <channel update="i" site="astro.com.my" site_id="142" xmltv_id="484">Astro Best (484)</channel>
+    <channel update="i" site="astro.com.my" site_id="146" xmltv_id="474">Astro First (474)</channel>
+    <channel update="i" site="astro.com.my" site_id="148" xmltv_id="473">Astro First (473)</channel>
+    <channel update="i" site="astro.com.my" site_id="381" xmltv_id="498">Astro UHD PPV (498)</channel>
+    <channel update="i" site="astro.com.my" site_id="436" xmltv_id="501">Astro Awani</channel>
     <channel update="i" site="astro.com.my" site_id="160" xmltv_id="502">BERNAMA</channel>
-    <channel update="i" site="astro.com.my" site_id="44" xmltv_id="503">CGTN</channel>
     <channel update="i" site="astro.com.my" site_id="336" xmltv_id="511">CNN HD</channel>
     <channel update="i" site="astro.com.my" site_id="366" xmltv_id="512">BBC World News HD</channel>
     <channel update="i" site="astro.com.my" site_id="374" xmltv_id="513">Al Jazeera English HD</channel>
