@@ -57,9 +57,9 @@
     <channel update="i" site="singteltv.com.sg" site_id="5573" xmltv_id="226">SCM Legend</channel>
     <channel update="i" site="astro.com.my" site_id="388" xmltv_id="232">Star Chinese Channel</channel>
     <channel update="i" site="nowtv.now.com" site_id="774" xmltv_id="342">Sony SAB</channel>
-    <channel update="i" site="nowtv.now.com" site_id="771" xmltv_id="343">Sony SET</channel>
+    <channel update="i" site="tudonumclick.com" site_id="set-asia" xmltv_id="343">SET Asia</channel>
+    <channel update="i" site="tudonumclick.com" site_id="set-max" xmltv_id="331">SET MAX</channel>
     <channel update="i" site="sfr.fr" site_id="531" xmltv_id="529">Luxe TV</channel>
-    <channel update="i" site="uk-sky.com" site_id="2603" xmltv_id="331">SONY MAX</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5418" xmltv_id="408">Paramount Network (HD)</channel>
     <channel update="i" site="astro.com.my" site_id="270" xmltv_id="451">Warner TV HD</channel>
     <channel update="i" site="astro.com.my" site_id="137" xmltv_id="455">FOXlife HD</channel>
