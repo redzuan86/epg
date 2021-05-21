@@ -125,6 +125,7 @@
     <channel update="i" site="astro.com.my" site_id="381" xmltv_id="498">Astro UHD PPV (498)</channel>
     <channel update="i" site="astro.com.my" site_id="436" xmltv_id="501">Astro Awani</channel>
     <channel update="i" site="astro.com.my" site_id="160" xmltv_id="502">BERNAMA</channel>
+    <channel update="i" site="astro.com.my" site_id="426" xmltv_id="503">CGTN</channel>
     <channel update="i" site="astro.com.my" site_id="336" xmltv_id="511">CNN HD</channel>
     <channel update="i" site="astro.com.my" site_id="366" xmltv_id="512">BBC World News HD</channel>
     <channel update="i" site="astro.com.my" site_id="374" xmltv_id="513">Al Jazeera English HD</channel>
