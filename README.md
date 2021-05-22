@@ -49,7 +49,7 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 ## Channel Source
 - Astro: astro.com.my
 - unifi TV: astro.com.my / i-cable.com / singtel.com.sg / nowtv.now.com / peotv.com / sfr.fr (Luxe TV and France24) / sky.com
-  - Inaccurate EPGs are Star Movies HD (+1), Now Jelli (Feed from Hong Kong, different from other areas), Sony SAB and Sony SET (Modified Feed by unifi TV to add local content), Colors Cineplex (UK Feed)
+  - Inaccurate EPGs are Star Chinese Movies (Singapore Feed?), Now Jelli (Feed from Hong Kong, different from other areas), Sony SAB and Sony SET (Modified Feed by unifi TV to add local content), Colors Cineplex (UK Feed)
   - See Fix [Here](https://github.com/weareblahs/unifi-tv#epg-for-polimer-and-jaya-max) for Polimer and Jaya Max EPGs (Note that you must have a IPTV player capable of multiple EPG sources)
 - RTM Klik: rtmklik.rtm.gov.my
 - MYTV Broadcasting: rtmklik.rtm.gov.my / astro.com.my  
