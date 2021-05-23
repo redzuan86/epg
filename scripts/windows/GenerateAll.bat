@@ -1,4 +1,10 @@
 @echo off
+cd G:\git-working\epg
+echo %date:~4,11% %date:~0,3% >> GeneratedDate
+echo Script started at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
+git add .
+git commit -m "GeneratedDate Start"
+git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
@@ -18,6 +24,11 @@ echo Generated successfully.
 echo Website: astro.com.my
 echo Name: Astro
 echo Astro EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT
+cd G:\git-working\epg
+echo Astro EPG Generated at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
+git add .
+git commit -m "GeneratedDate Astro"
+git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
@@ -37,6 +48,11 @@ echo Generated successfully.
 echo Website: Various
 echo Name: unifi TV
 echo unifitv EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT
+cd G:\git-working\epg
+echo unifi TV EPG Generated at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
+git add .
+git commit -m "GeneratedDate unifi TV"
+git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
@@ -56,6 +72,11 @@ echo Generated successfully.
 echo Website: rtmklik.rtm.gov.my
 echo Name: rtmklik
 echo rtmklik EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT
+cd G:\git-working\epg
+echo RTM Klik EPG Generated at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
+git add .
+git commit -m "GeneratedDate RTMKlik"
+git push
 @echo off
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
@@ -76,3 +97,12 @@ echo Generated successfully.
 echo Website: Various
 echo Name: MYTV Broadcasting
 echo MYTV Broadcasting EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT
+cd G:\git-working\epg
+echo MYTV Broadcasting EPG Generated at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
+git add .
+git commit -m "GeneratedDate MYTV Broadcasting"
+git push
+echo Generating of EPG ended at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
+git add .
+git commit -m "All Generated Successfully (%date:~4,11% %date:~0,3%)"
+git push
