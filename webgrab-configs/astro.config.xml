@@ -164,7 +164,7 @@
     <channel update="i" site="astro.com.my" site_id="199" xmltv_id="710">Nat Geo People HD</channel>
     <channel update="i" site="astro.com.my" site_id="270" xmltv_id="712">Warner TV HD</channel>
     <channel update="i" site="astro.com.my" site_id="132" xmltv_id="713">FX HD</channel>
-    <channel update="i" site="astro.com.my" site_id="369" xmltv_id="714">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="astro.com.my" site_id="369" xmltv_id="714">Crime and Investigation HD</channel>
     <channel update="i" site="astro.com.my" site_id="198" xmltv_id="715">HGTV HD</channel>
     <channel update="i" site="astro.com.my" site_id="367" xmltv_id="716">DMAX HD</channel>
     <channel update="i" site="astro.com.my" site_id="420" xmltv_id="718">MTV Asia HD</channel>
@@ -172,6 +172,7 @@
     <channel update="i" site="astro.com.my" site_id="308" xmltv_id="780">Astro UHD</channel>
     <channel update="i" site="astro.com.my" site_id="206" xmltv_id="800">eGG Network HD</channel>
     <channel update="i" site="astro.com.my" site_id="235" xmltv_id="801">Astro Arena HD</channel>
+    <channel update="i" site="astro.com.my" site_id="276" xmltv_id="809">Special Event Sports HD 02 - EURO2</channel>
     <channel update="i" site="astro.com.my" site_id="280" xmltv_id="810">ASSP PLUS</channel>
     <channel update="i" site="astro.com.my" site_id="154" xmltv_id="811">Astro SuperSport HD</channel>
     <channel update="i" site="astro.com.my" site_id="138" xmltv_id="812">Astro SuperSport 2 HD</channel>
