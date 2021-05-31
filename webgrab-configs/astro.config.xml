@@ -38,7 +38,6 @@
     <channel update="i" site="astro.com.my" site_id="401" xmltv_id="112">Astro Rania HD</channel>
     <channel update="i" site="astro.com.my" site_id="400" xmltv_id="113">Astro Aura HD</channel>
     <channel update="i" site="astro.com.my" site_id="149" xmltv_id="114">Al-Hijrah</channel>
-    <channel update="i" site="astro.com.my" site_id="176" xmltv_id="115">ABO Movies Tayangan Hebat HD</channel>
     <channel update="i" site="astro.com.my" site_id="365" xmltv_id="116">Colors Hindi HD</channel>
     <channel update="i" site="astro.com.my" site_id="192" xmltv_id="118">Go Shop 118</channel>
     <channel update="i" site="astro.com.my" site_id="294" xmltv_id="120">Go Shop GAAYA</channel>
@@ -172,8 +171,8 @@
     <channel update="i" site="astro.com.my" site_id="308" xmltv_id="780">Astro UHD</channel>
     <channel update="i" site="astro.com.my" site_id="206" xmltv_id="800">eGG Network HD</channel>
     <channel update="i" site="astro.com.my" site_id="235" xmltv_id="801">Astro Arena HD</channel>
-    <channel update="i" site="astro.com.my" site_id="276" xmltv_id="809">Special Event Sports HD 02 - EURO2</channel>
-    <channel update="i" site="astro.com.my" site_id="280" xmltv_id="810">Special Event Sports HD 01 - EURO1</channel>
+    <channel update="i" site="astro.com.my" site_id="276" xmltv_id="809">EURO2</channel>
+    <channel update="i" site="astro.com.my" site_id="280" xmltv_id="810">EURO1</channel>
     <channel update="i" site="astro.com.my" site_id="154" xmltv_id="811">Astro SuperSport HD</channel>
     <channel update="i" site="astro.com.my" site_id="138" xmltv_id="812">Astro SuperSport 2 HD</channel>
     <channel update="i" site="astro.com.my" site_id="164" xmltv_id="813">Astro SuperSport 3 HD</channel>
