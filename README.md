@@ -12,7 +12,7 @@ No Problems.
 ## Updates
 FOUND: unifi PlayTV is powered by Huawei's Envision Video Platform.
  - [Here is an example of the EPG data for this platform.](https://gist.github.com/weareblahs/89fc50e4011094628749b6362187e669)
- - If someone made a SiteIni for unifi TV (Unencrypted), please contact me through [my email](https://gist.github.com/weareblahs/dccd48e74be31ec770a09036d97c02a8) and I will process it as soon as possible to update the unifi TV Guide through unifi.com.my.
+ - If someone made a SiteIni for unifi TV (Unencrypted), please contact me through my email (tanyuxuan2005@gmail.com) and I will process it as soon as possible to update the unifi TV Guide through unifi.com.my.
    - the SiteIni file will not be uploaded into GitHub.
 ## Auto-update bot information
 The auto-update process will run daily.
