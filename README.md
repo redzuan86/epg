@@ -17,8 +17,10 @@ FOUND: unifi PlayTV is powered by Huawei's Envision Video Platform.
 ## Auto-update bot information
 The auto-update process will run daily.
 
-# About
+## Important information
+Do not fork it unless you want to change something on the configuration files, as it will not update the EPG by itself! If you want to update it, modify "GenerateAll.bat" to point to your WebGrab directory and repository directory. Make sure you have git setted up on the epg directory (you might have to use ``del .git`` to delete the existing one, then link it to your own fork). If you want to update it locally, delete all lines that contain the "git" command.
 
+# About
 This repository is for Malaysian TV Channels (and some Southeast Asian ones, too) and anyone can use it.
 
 # What to know before using this EPG
