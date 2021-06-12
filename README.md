@@ -10,6 +10,7 @@ No Problems.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
 
 ## Updates
+No guide updates tomorrow. Guide updates will continue on 14/6/2021.
 FOUND: unifi PlayTV is powered by Huawei's Envision Video Platform.
  - [Here is an example of the EPG data for this platform.](https://gist.github.com/weareblahs/89fc50e4011094628749b6362187e669)
  - If someone made a SiteIni for unifi TV (Unencrypted), please contact me through my email (tanyuxuan2005@gmail.com) and I will process it as soon as possible to update the unifi TV Guide through unifi.com.my.
