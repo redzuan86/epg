@@ -37,7 +37,6 @@ C:
 del "WebGrab++.config.xml"
 copy G:\git-working\epg_encrypted\unifitv.config.xml "WebGrab++.config.xml"
 Run.lnk
-
 G:
 ren unifitv-debug.xml unifitv.xml
 fart unifitv.xml "(n)</desc>" "</desc>"
