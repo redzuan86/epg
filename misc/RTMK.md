@@ -4,9 +4,9 @@ RTM Klik Channels List
 
 - RTMK01: TV1
 - RTMK02: TV2
-- RTMK03: TV6
-- RTMK04: TV Okey
-- RTMK05: Berita RTM
-- RTMK06: TV Sukan (RTM Sports HD)
+- RTMK03: TV Okey
+- RTMK04: Berita RTM
+- RTMK05: TV Sukan (RTM Sports HD)
+- RTMK06: TV6
 - RTMK07: Dewan Rakyat
 - RTMK08: Dewan Negara
