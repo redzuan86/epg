@@ -25,6 +25,7 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 Thanks to Khalis (@hantu08 on Telegram) for helping me doing some WebGrab+Plus stuffs, including:
  - Access to unifi TV Channel Guide directly from playtv@unifi  
  - Access to the new Astro Guide page (content.astro.com.my)
+ - Access to the new RTM Klik SiteIni
 
 # Currently available providers (Slowly Updating Right Now)
 - Astro
@@ -42,14 +43,12 @@ Thanks to Khalis (@hantu08 on Telegram) for helping me doing some WebGrab+Plus s
 # Current Channel Statistics
 ## Total Channels
 - Astro: 192 (including Astro First, Astro Best and Radio Channels)
-- unifi TV: 57 (Partial Channels Only)
+- unifi TV: 71
 - RTM Klik: 8
 - MYTV Broadcasting: 21
 ## Channel Source
-- Astro: astro.com.my
-- unifi TV: astro.com.my / i-cable.com / singtel.com.sg / nowtv.now.com / peotv.com / sfr.fr (Luxe TV and France24) / sky.com
-  - Inaccurate EPGs are Star Chinese Movies (Singapore Feed?), Now Jelli (Feed from Hong Kong, different from other areas), Sony SAB and Sony SET (Modified Feed by unifi TV to add local content), Colors Cineplex (UK Feed)
-  - See Fix [Here](https://github.com/weareblahs/unifi-tv#epg-for-polimer-and-jaya-max) for Polimer and Jaya Max EPGs (Note that you must have a IPTV player capable of multiple EPG sources)
+- Astro: content.astro.com.my
+- unifi TV: playtv.unifi.com.my
 - RTM Klik: rtmklik.rtm.gov.my
 - MYTV Broadcasting: rtmklik.rtm.gov.my / astro.com.my  
 ## XMLTV ID Type
