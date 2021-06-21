@@ -1,4 +1,9 @@
 @echo off
+echo Check if the files are deleted
+del %USERPROFILE%\AppData\Local\WebGrab+Plus\astro.xml /Q
+del %USERPROFILE%\AppData\Local\WebGrab+Plus\unifitv.xml /Q
+del %USERPROFILE%\AppData\Local\WebGrab+Plus\rtmklik.xml /Q
+del %USERPROFILE%\AppData\Local\WebGrab+Plus\mytv.xml /Q
 cd G:\git-working\epg
 echo %date:~4,11% %date:~0,3% >> GeneratedDate
 echo Script started at %time:~0,2%:%time:~3,2%:%time:~6,2% >> GeneratedDate
@@ -10,11 +15,8 @@ C:
 del "WebGrab++.config.xml"
 copy G:\git-working\epg_encrypted\astro.config.xml "WebGrab++.config.xml"
 Run.lnk
-del G:\git-working\epg\astro.xml /Q
-cd G:\git-working\epg
 G:
-copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\astro.xml" G:\git-working\epg\astro.xml
-copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\astro-debug.xml" G:\git-working\epg\astro.xml
+ren astro-debug.xml astro.xml
 fart astro.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\astro.xml.gz astro.xml
 git add astro.xml compressed/astro.xml.gz
@@ -35,11 +37,9 @@ C:
 del "WebGrab++.config.xml"
 copy G:\git-working\epg_encrypted\unifitv.config.xml "WebGrab++.config.xml"
 Run.lnk
-del G:\git-working\epg\unifitv.xml /Q
-cd G:\git-working\epg
+
 G:
-copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\unifitv.xml" G:\git-working\epg\unifitv.xml
-copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\unifitv-debug.xml" G:\git-working\epg\unifitv.xml
+ren unifitv-debug.xml unifitv.xml
 fart unifitv.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\unifitv.xml.gz unifitv.xml
 git add unifitv.xml compressed/unifitv.xml.gz
@@ -60,10 +60,7 @@ C:
 del "WebGrab++.config.xml"
 copy G:\git-working\epg_encrypted\rtmklik.config.xml "WebGrab++.config.xml"
 Run.lnk
-del G:\git-working\epg\rtmklik.xml /Q
-cd G:\git-working\epg
 G:
-copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\rtmklik.xml" G:\git-working\epg\rtmklik.xml
 fart rtmklik.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\rtmklik.xml.gz rtmklik.xml
 git add rtmklik.xml compressed/rtmklik.xml.gz
@@ -85,10 +82,7 @@ C:
 del "WebGrab++.config.xml"
 copy G:\git-working\epg_encrypted\mytv.config.xml "WebGrab++.config.xml"
 Run.lnk
-del G:\git-working\epg\mytv.xml /Q
-cd G:\git-working\epg
 G:
-copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\mytv.xml" G:\git-working\epg\mytv.xml
 fart mytv.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\mytv.xml.gz mytv.xml
 git add mytv.xml compressed/mytv.xml.gz
