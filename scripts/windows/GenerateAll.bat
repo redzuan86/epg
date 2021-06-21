@@ -14,6 +14,7 @@ del G:\git-working\epg\astro.xml /Q
 cd G:\git-working\epg
 G:
 copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\astro.xml" G:\git-working\epg\astro.xml
+copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\astro-debug.xml" G:\git-working\epg\astro.xml
 fart astro.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\astro.xml.gz astro.xml
 git add astro.xml compressed/astro.xml.gz
@@ -38,6 +39,7 @@ del G:\git-working\epg\unifitv.xml /Q
 cd G:\git-working\epg
 G:
 copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\unifitv.xml" G:\git-working\epg\unifitv.xml
+copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\unifitv-debug.xml" G:\git-working\epg\unifitv.xml
 fart unifitv.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\unifitv.xml.gz unifitv.xml
 git add unifitv.xml compressed/unifitv.xml.gz
