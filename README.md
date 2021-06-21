@@ -9,12 +9,6 @@ No Problems.
 - Some channels unavailable on Astro.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
 
-## Updates
-No guide updates tomorrow. Guide updates will continue on 14/6/2021.
-FOUND: unifi PlayTV is powered by Huawei's Envision Video Platform.
- - [Here is an example of the EPG data for this platform.](https://gist.github.com/weareblahs/89fc50e4011094628749b6362187e669)
- - If someone made a SiteIni for unifi TV (Unencrypted), please contact me through my email (tanyuxuan2005@gmail.com) and I will process it as soon as possible to update the unifi TV Guide through unifi.com.my.
-   - the SiteIni file will not be uploaded into GitHub.
 ## Auto-update bot information
 The auto-update process will run daily.
 
@@ -27,15 +21,17 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 # What to know before using this EPG
 - This EPG is free-of-charge and **NOT for sale** at any platforms! You can use these links for your YouTube tutorials, blogs, and more.
 - All rights reserved to the respective companies. Special thanks to Astro and RTM for providing channel guide (and SingtelTV / Hong Kong Cable TV (Mainly for BBC Channels on unifi TV) for some of the channels).
+# Credits
+Thanks to Khalis (@hantu08 on Telegram) for helping me doing some WebGrab+Plus stuffs, including:
+ - Access to unifi TV Channel Guide directly from playtv@unifi  
+ - Access to the new Astro Guide page (content.astro.com.my)
 
 # Currently available providers (Slowly Updating Right Now)
 - Astro
 
-- unifi TV (Partial Channels, **not including unifi Sports and unifi TV in-house channels** (like HyppSensasi and Dunia Sinema))
-    
-    - **Extra Stuffs Available!** [Watch unifi TV on your IPTV player, legally!](https://github.com/weareblahs/unifi-tv) (I made that repository, too)
-    
-- RTM Klik (RTM-operated Channels only, not including radio stations)
+- unifi TV
+
+- RTM Klik
 
 - MYTV Broadcasting (aka myFreeview) (Including RTM Radio Stations)
 

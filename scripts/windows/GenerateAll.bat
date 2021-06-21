@@ -8,7 +8,7 @@ git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
-copy G:\git-working\epg\webgrab-configs\astro.config.xml "WebGrab++.config.xml"
+copy G:\git-working\epg_encrypted\astro.config.xml "WebGrab++.config.xml"
 Run.lnk
 del G:\git-working\epg\astro.xml /Q
 cd G:\git-working\epg
@@ -32,7 +32,7 @@ git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
-copy G:\git-working\epg\webgrab-configs\unifitv.config.xml "WebGrab++.config.xml"
+copy G:\git-working\epg_encrypted\unifitv.config.xml "WebGrab++.config.xml"
 Run.lnk
 del G:\git-working\epg\unifitv.xml /Q
 cd G:\git-working\epg
@@ -56,7 +56,7 @@ git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
-copy G:\git-working\epg\webgrab-configs\rtmklik.config.xml "WebGrab++.config.xml"
+copy G:\git-working\epg_encrypted\rtmklik.config.xml "WebGrab++.config.xml"
 Run.lnk
 del G:\git-working\epg\rtmklik.xml /Q
 cd G:\git-working\epg
@@ -81,7 +81,7 @@ git push
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
 C:
 del "WebGrab++.config.xml"
-copy G:\git-working\epg\webgrab-configs\mytv.config.xml "WebGrab++.config.xml"
+copy G:\git-working\epg_encrypted\mytv.config.xml "WebGrab++.config.xml"
 Run.lnk
 del G:\git-working\epg\mytv.xml /Q
 cd G:\git-working\epg
