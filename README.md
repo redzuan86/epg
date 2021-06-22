@@ -27,44 +27,18 @@ Thanks to Khalis (@hantu08 on Telegram) for helping me doing some WebGrab+Plus s
  - Access to the new Astro Guide page (content.astro.com.my)
  - Access to the new RTM Klik SiteIni
 
-# Currently available providers (Slowly Updating Right Now)
-- Astro
+# What's Available in the guides
+This part is messy in weareblahs.github.io/epg. See original page (https://github.com/weareblahs/epg) for correct formatting.
+| (Provider) | Astro | unifi TV | RTM Klik | MYTV Broadcasting / myFreeview |
+|--|--|--|--|--|
+| Channel Logos | ✓ | ✓ | ✓ (Not Transparent) | ✓ (RTM Klik sources are not transparent) |
+| Channel Guide Images | ✓ | - (Except Astro sources) | - | - |
+| Source | content.astro.com.my | playtv.unifi.com.my (Some channels uses same source as Astro) | rtmklik.rtm.gov.my | rtmklik.gov.my / content.astro.com.my |
+| How many channels? | 192 | 71 | 8 | 21 |
+| XMLTV EPG ID (tvg-id) | Channel Number ([See here for IDs for Astro GO Exclusive Channels](https://weareblahs.github.io/epg/misc/AGEC.md)) | Channel Number | [See Here](https://weareblahs.github.io/epg/misc/RTMK.md) | Channel Number |
+| XMLTV Links | https://weareblahs.github.io/epg/astro.xml  https://weareblahs.github.io/epg/astro.xml.gz | https://weareblahs.github.io/epg/unifitv.xml  https://weareblahs.github.io/epg/unifitv.xml.gz | https://weareblahs.github.io/epg/rtmklik.xml  https://weareblahs.github.io/epg/rtmklik.xml.gz | https://weareblahs.github.io/epg/mytv.xml  https://weareblahs.github.io/epg/mytv.xml.gz |
+| Guide Update Estimated Time | 56 minutes - 1 hours 30 minutes | 2 minutes - 10 minutes | 36 seconds - 2 minutes | 3 minutes - 4 minutes |
+| Additional Channel Information ( "-" means Title and Description only) | Categories, Program Rating, Credits, Episode Number | Episode Number | Episode Number, Category | Program Rating, Episode Number |
 
-- unifi TV
-
-- RTM Klik
-
-- MYTV Broadcasting (aka myFreeview) (Including RTM Radio Stations)
-
-    # Providers Coming Soon
-
-    - Sirius TV
-
-# Current Channel Statistics
-## Total Channels
-- Astro: 192 (including Astro First, Astro Best and Radio Channels)
-- unifi TV: 71
-- RTM Klik: 8
-- MYTV Broadcasting: 21
-## Channel Source
-- Astro: content.astro.com.my
-- unifi TV: playtv.unifi.com.my
-- RTM Klik: rtmklik.rtm.gov.my
-- MYTV Broadcasting: rtmklik.rtm.gov.my / astro.com.my  
-## XMLTV ID Type
-- Astro: Channel Number
-   - [Astro GO Exclusive Channels XMLID](https://weareblahs.github.io/epg/misc/AGEC.md)
-- unifi TV: Channel Number  
-- RTM Klik: [Channel List Here](https://weareblahs.github.io/epg/misc/RTMK.md)
-- MYTV Broadcasting: Channel Number  
-## Download Links / Links to copy into your IPTV player
-- Astro: https://weareblahs.github.io/epg/astro.xml
-  - Astro (Compressed): https://weareblahs.github.io/epg/compressed/astro.xml.gz
-- unifi TV: https://weareblahs.github.io/epg/unifitv.xml  
-  - unifi TV (Compressed): https://weareblahs.github.io/epg/compressed/unifitv.xml.gz
-- RTM Klik: https://weareblahs.github.io/epg/rtmklik.xml  
-  - RTM Klik (Compressed): https://weareblahs.github.io/epg/compressed/rtmklik.xml.gz
-- MYTV Broadcasting: https://weareblahs.github.io/epg/mytv.xml    
-  - MYTV Broadcasting (Compressed): https://weareblahs.github.io/epg/compressed/mytv.xml.gz
 # Extras
 No information available for any of your channels? Change the XMLTV ID to CHN to display a "Channel Information Not Available" notice on your EPG guide.
