@@ -20,7 +20,7 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 
 # What to know before using this EPG
 - This EPG is free-of-charge and **NOT for sale** at any platforms! You can use these links for your YouTube tutorials, blogs, and more.
-- All rights reserved to the respective companies. Special thanks to Astro and RTM for providing channel guide (and SingtelTV / Hong Kong Cable TV (Mainly for BBC Channels on unifi TV) for some of the channels).
+- All rights reserved to the respective companies. Special thanks to Astro, RTM and unifi TV for providing the channel guide.
 # Credits
 Thanks to Khalis (@hantu08 on Telegram) for helping me doing some WebGrab+Plus stuffs, including:
  - Access to unifi TV Channel Guide directly from playtv@unifi  
