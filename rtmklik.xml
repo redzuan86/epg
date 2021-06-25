@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CHN">
     <display-name lang="en">Not Available</display-name>
   </channel>
@@ -244,7 +244,7 @@
   </programme>
   <programme start="20210625131300 +0800" stop="20210625140000 +0800" channel="RTMK01">
     <title lang="en">Siaran Langsung: Solat Jumaat (25 Jun 2021)</title>
-    <desc lang="en">Siaran langsung Solat Jumaat.</desc>
+    <desc lang="en">Saksikan Solat Jumaat edisi 25 Jun 2021M dengan khutbah yang bertajuk KEPIMPINAN YANG DIBERKATI bersama Sufian Amrin (Pengacara), Ustaz Mohd faizul Razali (Imam/Khatib), Ustaz Mohd Muslim Mostaffa (Muazzin/Bilal) dan Hafidah Awaluddin (Jurubahasa Isyarat).</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -433,7 +433,7 @@
   </programme>
   <programme start="20210626060000 +0800" stop="20210626070000 +0800" channel="RTMK01">
     <title lang="en">My Halal 26 Jun 2021</title>
-    <desc lang="en">Rancangan bualbicara eksklusif untuk tontonan anda.</desc>
+    <desc lang="en">Saksikan diskusi lanjut tentang KORBAN : DULU LAIN SEKARANG LAIN bersama Ustaz Hj. Mohd Amri Abdullah (Pengacara/Penganalisis Halal) serta Panel Undangan, Dr Mohammad Razli Abdul Razak, Datuk Haji Mohd Ajib Ismail dan Ustaz Haslin Baharim.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -447,7 +447,7 @@
   </programme>
   <programme start="20210626071000 +0800" stop="20210626080000 +0800" channel="RTMK01">
     <title lang="en">Siaran Langsung: Salam Pagi</title>
-    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al-Muzamil bersama pengacara Jalaluddin Mohd Zaiki serta tetamu undangan, Ustaz Rahimi P. Ramlee (Imam Masjid Saidina Umar Al-Khatta, Bukit Damansara) dan Qari Jemputan, Ustazah Awatif.</desc>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah As-Saf bersama pengacara Wasiril Aswad serta tetamu undangan, Ustaz Mohd Radhi Abdul Ghani (Imam Masjid Tunku Mizan Zainal Abidin, Putrajaya) dan Qari jemputan, Husaini Mahmur.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -461,14 +461,14 @@
   </programme>
   <programme start="20210626110000 +0800" stop="20210626120000 +0800" channel="RTMK01">
     <title lang="en">Pesona XY 26 Jun 2021</title>
-    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu jemputan, Abdul Saman Taip, Melda Taip, Mohamed Nasiruddin Hassan, Mohd Shafiq Zulkarnain dan Penampilan Khas, Danial Chuer.</desc>
+    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu undangan, Datuk Saidatu Akhma Hassan, Timbalan Ketua Pengarah Penyiaran (Strategik), Jabatan Penyiaran Malaysia dan Dr. Nik Norma Nik Hassan (Pensyarah Kanan, Pusat Pengajian Komunikasi, Universiti Sains Malaysia).</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626120000 +0800" stop="20210626130000 +0800" channel="RTMK01">
     <title lang="en">SELEKSI WIDURI : Dilema Wanita</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Sarah seorang wanita yang baik dan sering membantu kawan dan keluarganya mula mengenali Iskandar. Sarah mula menyayangi Iskandar dan hubungan mereka bertambah rapat. Iskandar berjanji akan berkahwin dengan Sarah dan mengajak Sarah melaburkan modal dalam projek hotelnya di sebuah pulau.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -482,7 +482,7 @@
   </programme>
   <programme start="20210626133000 +0800" stop="20210626134000 +0800" channel="RTMK01">
     <title lang="en">Cerita Kita</title>
-    <desc lang="en">Program mingguan yang memaparkan mengenai keharmonian, kesepakatam dan nilai-nilai murni dalam kalangan masyarakat berbilang kaum di Malaysia.</desc>
+    <desc lang="en">Saksikan paparan lanjut tentang 'AMARAH JELATA'.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -496,21 +496,21 @@
   </programme>
   <programme start="20210626140000 +0800" stop="20210626143000 +0800" channel="RTMK01">
     <title lang="en">Memo Cergas</title>
-    <desc lang="en">Bersama Norman Hakim, Kit Mah dan Dr. Ezani berkongsi teknik-teknik senaman Tabata dan menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.</desc>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi teknik-teknik senaman Tabata &amp; menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626143000 +0800" stop="20210626150000 +0800" channel="RTMK01">
     <title lang="en">Sinei Kita Tok 26 Jun 2021</title>
-    <desc lang="en">Rancangan travelog yang menjelajah tempat-tempat menarik di seluruh Sarawak.</desc>
+    <desc lang="en">Bersama Azam Pitt yang berada di Kampung Bukit Luba, Limbang untuk keindahan panoramanya serta mengenali budaya masyarakat Kedayan di sana.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626150000 +0800" stop="20210626170000 +0800" channel="RTMK01">
     <title lang="en">MEMORI: Cinta Kapcai</title>
-    <desc lang="en">Telefilem menarik untuk tontonan anda.</desc>
+    <desc lang="en">Awin berperwatakan kasar,pekerja baru di Syarikat Dato' Amran sebagai Despatch. Bos Awin, En Hassan sangat baik dengannya. Roslan pula anak kepada Dato' Amran bekerja bersama Awin dan suka membulinya dengan menghantar surat-surat ikut masa yang ditetapnya. Awin kemalangan motor semasa menghantar surat-surat!  Apakah seterusnya yang terjadi kepada Awin?</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -524,21 +524,21 @@
   </programme>
   <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="RTMK01">
     <title lang="en">Bajet Bijak Belanja</title>
-    <desc lang="en">Bersama pengacara, Munarwar Azmi berkongsi topik mengenai Pengurusan Hutang.</desc>
+    <desc lang="en">Bersama pengacara Munarwar Azmi berkongsi topik mengenai Pengurusan Hutang.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626183000 +0800" stop="20210626190000 +0800" channel="RTMK01">
     <title lang="en">Nasyid Minggu Ini</title>
-    <desc lang="en">Saksikan perkembangan terkini, Muhamad Razin Che Mud (Kumpulan Mestica) bersama Mohd Shoem Sairi serta klip video pilihan.</desc>
+    <desc lang="en">Saksikan perkembangan terkini Azmi Saat bersama pengacara Mohd Shoem Sairi serta klip video pilihan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626190000 +0800" stop="20210626200000 +0800" channel="RTMK01">
     <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
-    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.</desc>
+    <desc lang="en">Saksikan BORAK DULU Sampai Menang #MenangBersama tentang topik REZEKI ORANG, LAIN TAKDIRNYA bersama Amin Idris, Khir Rahman serta Panel Undangan, Mohamed Zambri Mohamed (Setiausaha Agung Persatuan Penjaja &amp; Peniaga Kecil Melayu Malaysia), Azad Jasmin, Azrin Mohamad Zawawi dan Nur Shareen Mohd Zaini.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -552,21 +552,21 @@
   </programme>
   <programme start="20210626210000 +0800" stop="20210626213000 +0800" channel="RTMK01">
     <title lang="en">Covid Itu Benar</title>
-    <desc lang="en">Saksikan rancangan khas Covid Itu Benar memaparkan fakta, menangkis pelbagai konspirasi dan kenyataan kewujudan pandemik Covid-19.</desc>
+    <desc lang="en">Saksikan dari dekat pengurusan uri pasca kehamilan ibu dijangkiti, menyingkap kisah benar di balik kawat duri PKPD, selain mengetengahkan realiti wira-wira tak didendang di medan juang memerangi pandemik.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626213000 +0800" stop="20210626230000 +0800" channel="RTMK01">
     <title lang="en">PANGGUNG RTM: Hijrah Cinta</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Erni merupakan pemilik sebuah Restoran. Walaupun, penampilannya agak kasar dan brutal, tanggungjawab kepada agama dan Allah tidak pernah diabaikan. Shahid pula seorang Ustaz di sebuah Masjid yang baru sahaja kecewa akibat kekasihnya telahpun berkahwin. Namun, pertemuan Shahid dan Erni di Masjid telah menimbulkan pelbagai konflik.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210626230000 +0800" stop="20210626235900 +0800" channel="RTMK01">
     <title lang="en">Opah</title>
-    <desc lang="en">Kisah Opah yang penyabar, penyayang dalam menghadapi pelbagai karenah anak-anaknya. Opah juga sering menjadi tempat rujukan keluarganya apabila menghadapi masalah.</desc>
+    <desc lang="en">Saksikan kisah KABUS DI HATI.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -580,21 +580,21 @@
   </programme>
   <programme start="20210627003000 +0800" stop="20210627013000 +0800" channel="RTMK01">
     <title lang="en">SELEKSI WIDURI : Dilema Wanita</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Sarah seorang wanita yang baik dan sering membantu kawan dan keluarganya mula mengenali Iskandar. Sarah mula menyayangi Iskandar dan hubungan mereka bertambah rapat. Iskandar berjanji akan berkahwin dengan Sarah dan mengajak Sarah melaburkan modal dalam projek hotelnya di sebuah pulau.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210627013000 +0800" stop="20210627020000 +0800" channel="RTMK01">
     <title lang="en">Memo Cergas</title>
-    <desc lang="en">Bersama Norman Hakim, Kit Mah dan Dr. Ezani berkongsi teknik-teknik senaman Tabata dan menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.</desc>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi teknik-teknik senaman Tabata &amp; menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210627020000 +0800" stop="20210627023000 +0800" channel="RTMK01">
     <title lang="en">Nasyid Minggu Ini</title>
-    <desc lang="en">Saksikan perkembangan terkini, Muhamad Razin Che Mud (Kumpulan Mestica) bersama Mohd Shoem Sairi serta klip video pilihan.</desc>
+    <desc lang="en">Saksikan perkembangan terkini Azmi Saat bersama pengacara Mohd Shoem Sairi serta klip video pilihan.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -615,7 +615,7 @@
   </programme>
   <programme start="20210627053000 +0800" stop="20210627060000 +0800" channel="RTMK01">
     <title lang="en">Misi Dania Cun</title>
-    <desc lang="en">Misi Dania mula bertugas di klinik desa dan melayani beberapa orang pesakit yang datang meminta bantuan kesihatan. Selain itu, Misi Dania juga menghadapi seorang bomoh yang menjalankan aktiviti pengubatan tanpa mempunyai tauliah pengubatan yang betul.</desc>
+    <desc lang="en">Marah sungguh Iliya dengan Pakcik Kasim. Cerewet sangat bila diminta buat pemeriksaan kesihatan, tapi kalau dengan Misi Dania senang sahaja dia berurusan. Misi Dania dapat cek bernilai 10 ribu?!</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -636,7 +636,7 @@
   </programme>
   <programme start="20210627071000 +0800" stop="20210627080000 +0800" channel="RTMK01">
     <title lang="en">Siaran Langsung: Salam Pagi</title>
-    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah As-Sajadah bersama pengacara Jalaluddin Zaiki dan tetamu undangan, Ustaz Mohd Rahimi serta Qari Jemputan Ustaz Husaini Mahmur.</desc>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah As-Saf bersama pengacara Wasiril Aswad serta tetamu undangan, Ustaz Mohd Radhi Abdul Ghani (Imam Masjid Tunku Mizan Zainal Abidin, Putrajaya) dan Qari jemputan, Husaini Mahmur.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -699,7 +699,7 @@
   </programme>
   <programme start="20210627143000 +0800" stop="20210627150000 +0800" channel="RTMK01">
     <title lang="en">Rona Sabah (S8)</title>
-    <desc lang="en">Saksikan kru Rona Sabah mengikuti aktiviti sebuah kelab Pacuan Empat Roda iaitu Kelab Ranau G6 melaksanakan misi kemasyarakatan dalam episod 'Pacuan Empat Roda Bukan Sekadar Hobi'.</desc>
+    <desc lang="en">Saksikan tentang kuih Penjaram yang mula tular semasa Perintah Kawalan Pergerakan dan menarik perhatian seorang pelajar Universiti Malaysia Sabah (UMS) untuk menjadikan penjaram sebagai tajuk kajian kursusnya dalam episod 'Penjaram'.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -7726,15 +7726,15 @@
     </rating>
   </programme>
   <programme start="20210626233000 +0800" stop="20210626235900 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (2A VS 2B)</title>
-    <desc lang="en">ikuti siaran langsung perlawanan bola sepak EURO 2020 antara  2A menentang 2B.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Wales VS Denmark)</title>
+    <desc lang="en">ikuti siaran langsung perlawanan bola sepak EURO 2020 antara  Wales menentang Denmark.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210627000000 +0800" stop="20210627023000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (2A VS 2B)</title>
-    <desc lang="en">ikuti siaran langsung perlawanan bola sepak EURO 2020 antara  2A menentang 2B.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Wales VS Denmark)</title>
+    <desc lang="en">ikuti siaran langsung perlawanan bola sepak EURO 2020 antara  Wales menentang Denmark.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -7915,15 +7915,15 @@
     </rating>
   </programme>
   <programme start="20210627233000 +0800" stop="20210627235900 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020</title>
-    <desc lang="en">Saksikan siaran langsung EURO 2020.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Netherlands VS Czech Republic)</title>
+    <desc lang="en">Saksikan siaran langsung EURO 2020 antara Netherlands menentang Czech Republic.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210628000000 +0800" stop="20210628023000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020</title>
-    <desc lang="en">Saksikan siaran langsung EURO 2020.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Netherlands VS Czech Republic)</title>
+    <desc lang="en">Saksikan siaran langsung EURO 2020 antara Netherlands menentang Czech Republic.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -8139,22 +8139,22 @@
     </rating>
   </programme>
   <programme start="20210628233000 +0800" stop="20210628235900 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (2D VS 2E)</title>
-    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 2D VS 2E.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Croatia VS Spain)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara Croatia menentang Spain.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210629000000 +0800" stop="20210629023000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (2D VS 2E)</title>
-    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 2D VS 2E.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Croatia VS Spain)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara Croatia menentang Spain.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210629023000 +0800" stop="20210629053000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (1F VS 3A/B/C)</title>
-    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 1F VS 3A/B/C.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (France VS Switzerland)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara France menentang Switzerland.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -8279,8 +8279,8 @@
     </rating>
   </programme>
   <programme start="20210629150000 +0800" stop="20210629170000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (2D VS 2E)</title>
-    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 2D VS 2E.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (Croatia VS Spain)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara Croatia menentang Spain.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -8328,15 +8328,15 @@
     </rating>
   </programme>
   <programme start="20210629233000 +0800" stop="20210629235900 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (1D VS 2F)</title>
-    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 1D VS 2F.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (England VS Germany)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara England menentang Germany.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
   <programme start="20210630000000 +0800" stop="20210630023000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (1D VS 2F)</title>
-    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 1D VS 2F.</desc>
+    <title lang="en">Siaran Langsung : EURO 2020 (England VS Germany)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara England menentang Germany.</desc>
     <rating>
       <value>U</value>
     </rating>
