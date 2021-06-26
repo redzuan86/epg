@@ -95,230 +95,6 @@
     <title lang="en">Channel Information Not Available</title>
     <desc lang="en">There are no channel informations for this channel yet.</desc>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626003000 +0800" channel="RTMK01">
-    <title lang="en">Berita Tengah Malam</title>
-    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626003000 +0800" stop="20210626004500 +0800" channel="RTMK01">
-    <title lang="en">Khutbah Jumaat 26 Jun 2021</title>
-    <desc lang="en">Ikuti Khutbah Jumaat yang bertajuk Bijak Memanfaat Peluang yang disampaikan oleh Haji Nor Azamir Haji Alias dari Masjid Tuanku Mizan Zainal Abidin.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626004500 +0800" stop="20210626010000 +0800" channel="RTMK01">
-    <title lang="en">Sfera</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626010000 +0800" stop="20210626013000 +0800" channel="RTMK01">
-    <title lang="en">Al Mulk Nusantara</title>
-    <desc lang="en">Kembali ke masa lampau dan saksikan kehebatan kerajaan Melayu lama seperti Melaka, Acheh dan Pasai di seluruh Nusantara.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="RTMK01">
-    <title lang="en">Mukjizat Dan Sains</title>
-    <desc lang="en">Menghayati tajuk Lautan, Ombak Dan Sungai dalam Mukjizat dan Sains.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="RTMK01">
-    <title lang="en">Aksi Ikan Malaysia</title>
-    <desc lang="en">Saksikan kehebatan kru aksi ikan Malaysia memancing di Lubuk Pulai (Api Boreng) yang terletak di Kuala Besut, Terengganu.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="RTMK01">
-    <title lang="en">Destinasi Hikmah Bersama Omar Mokhtar</title>
-    <desc lang="en">Omar berkunjung ke Teluk Intan, Perak dan memilih Hotel Merge Summit yang berkonsepkan hotel butik klasik sebagai tempat penginapannya.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626030000 +0800" stop="20210626033000 +0800" channel="RTMK01">
-    <title lang="en">Simfoni Alam 26 Jun 2021</title>
-    <desc lang="en">Saksikan paparan lanjut tentang kerakusan manusia dan juga faktor pemanasan global merupakan antara penyumbang kepada terjejasnya hidupan marin yang unik.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626033000 +0800" stop="20210626043000 +0800" channel="RTMK01">
-    <title lang="en">Bicara DR (26 Jun 2021)</title>
-    <desc lang="en">Saksikan diskusi lanjut tentang VAKSINASI COVID-19: KEPENTINGAN KEPADA WARGA EMAS bersama YTM Dato' Dr Tunku Muzafar Shah Tunku Jaafar (Pakar Perunding Kanan &amp; Ketua Unit Geriatrik Hospital Selayang).</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626043000 +0800" stop="20210626050000 +0800" channel="RTMK01">
-    <title lang="en">Tahiyyatul Masjid</title>
-    <desc lang="en">Bersama Narzul Izwan Zolkiflee menikmati keunikan senibina Masjid Kampung Laut yang terletak di Negeri Kelantan dan menyaksikan sendiri kesungguhan Warga Kolej Islam Antarabangsa Sultan Ismail Petra yang sentiasa mengimarahkan Masjid ini.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626050000 +0800" stop="20210626053000 +0800" channel="RTMK01">
-    <title lang="en">Singgah Sini</title>
-    <desc lang="en">Saksikan Arja Lee berkongsi tentang inap desa yang menarik serta unik juga keindahan dan aktiviti yang boleh dilakukan di Lost World of Tambun dan Soham Valley Resort, Kampar Lost World of Tambun di Tambun, Perak.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626053000 +0800" stop="20210626060000 +0800" channel="RTMK01">
-    <title lang="en">Misi Dania Cun</title>
-    <desc lang="en">Misi Dania membawa Dr. Dani berjumpa dengan mama dan papanya, tapi boleh ke Dr. Dani kawal sikapnya yang kelam kabut tu? Akibat tertekan Tasya mahu bunuh diri!</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626060000 +0800" stop="20210626070000 +0800" channel="RTMK01">
-    <title lang="en">My Halal 26 Jun 2021</title>
-    <desc lang="en">Saksikan diskusi lanjut tentang KORBAN : DULU LAIN SEKARANG LAIN bersama Ustaz Hj. Mohd Amri Abdullah (Pengacara/Penganalisis Halal) serta Panel Undangan, Dr Mohammad Razli Abdul Razak, Datuk Haji Mohd Ajib Ismail dan Ustaz Haslin Baharim.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626070000 +0800" stop="20210626071000 +0800" channel="RTMK01">
-    <title lang="en">Berita Pagi Nasional</title>
-    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626071000 +0800" stop="20210626080000 +0800" channel="RTMK01">
-    <title lang="en">Siaran Langsung: Salam Pagi</title>
-    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah As-Saf bersama pengacara Wasiril Aswad serta tetamu undangan, Ustaz Mohd Radhi Abdul Ghani (Imam Masjid Tunku Mizan Zainal Abidin, Putrajaya) dan Qari jemputan, Husaini Mahmur.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626080000 +0800" stop="20210626110000 +0800" channel="RTMK01">
-    <title lang="en">Selamat Pagi Malaysia</title>
-    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626110000 +0800" stop="20210626120000 +0800" channel="RTMK01">
-    <title lang="en">Pesona XY 26 Jun 2021</title>
-    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu undangan, Datuk Saidatu Akhma Hassan, Timbalan Ketua Pengarah Penyiaran (Strategik), Jabatan Penyiaran Malaysia dan Dr. Nik Norma Nik Hassan (Pensyarah Kanan, Pusat Pengajian Komunikasi, Universiti Sains Malaysia).</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626120000 +0800" stop="20210626130000 +0800" channel="RTMK01">
-    <title lang="en">SELEKSI WIDURI : Dilema Wanita</title>
-    <desc lang="en">Sarah seorang wanita yang baik dan sering membantu kawan dan keluarganya mula mengenali Iskandar. Sarah mula menyayangi Iskandar dan hubungan mereka bertambah rapat. Iskandar berjanji akan berkahwin dengan Sarah dan mengajak Sarah melaburkan modal dalam projek hotelnya di sebuah pulau.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626130000 +0800" stop="20210626133000 +0800" channel="RTMK01">
-    <title lang="en">Berita Tengah Hari</title>
-    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626133000 +0800" stop="20210626134000 +0800" channel="RTMK01">
-    <title lang="en">Cerita Kita</title>
-    <desc lang="en">Saksikan paparan lanjut tentang 'AMARAH JELATA'.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626134000 +0800" stop="20210626140000 +0800" channel="RTMK01">
-    <title lang="en">Promo / PSA Covid-19</title>
-    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626140000 +0800" stop="20210626143000 +0800" channel="RTMK01">
-    <title lang="en">Memo Cergas</title>
-    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi teknik-teknik senaman Tabata &amp; menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626143000 +0800" stop="20210626150000 +0800" channel="RTMK01">
-    <title lang="en">Sinei Kita Tok 26 Jun 2021</title>
-    <desc lang="en">Bersama Azam Pitt yang berada di Kampung Bukit Luba, Limbang untuk keindahan panoramanya serta mengenali budaya masyarakat Kedayan di sana.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626150000 +0800" stop="20210626170000 +0800" channel="RTMK01">
-    <title lang="en">MEMORI: Cinta Kapcai</title>
-    <desc lang="en">Awin berperwatakan kasar,pekerja baru di Syarikat Dato' Amran sebagai Despatch. Bos Awin, En Hassan sangat baik dengannya. Roslan pula anak kepada Dato' Amran bekerja bersama Awin dan suka membulinya dengan menghantar surat-surat ikut masa yang ditetapnya. Awin kemalangan motor semasa menghantar surat-surat!  Apakah seterusnya yang terjadi kepada Awin?</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626170000 +0800" stop="20210626180000 +0800" channel="RTMK01">
-    <title lang="en">Berita Wilayah</title>
-    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="RTMK01">
-    <title lang="en">Bajet Bijak Belanja</title>
-    <desc lang="en">Bersama pengacara Munarwar Azmi berkongsi topik mengenai Pengurusan Hutang.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626183000 +0800" stop="20210626190000 +0800" channel="RTMK01">
-    <title lang="en">Nasyid Minggu Ini</title>
-    <desc lang="en">Saksikan perkembangan terkini Azmi Saat bersama pengacara Mohd Shoem Sairi serta klip video pilihan.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626190000 +0800" stop="20210626200000 +0800" channel="RTMK01">
-    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
-    <desc lang="en">Saksikan BORAK DULU Sampai Menang #MenangBersama tentang topik REZEKI ORANG, LAIN TAKDIRNYA bersama Amin Idris, Khir Rahman serta Panel Undangan, Mohamed Zambri Mohamed (Setiausaha Agung Persatuan Penjaja &amp; Peniaga Kecil Melayu Malaysia), Azad Jasmin, Azrin Mohamad Zawawi dan Nur Shareen Mohd Zaini.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626200000 +0800" stop="20210626210000 +0800" channel="RTMK01">
-    <title lang="en">Berita Perdana</title>
-    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626210000 +0800" stop="20210626213000 +0800" channel="RTMK01">
-    <title lang="en">Covid Itu Benar</title>
-    <desc lang="en">Saksikan dari dekat pengurusan uri pasca kehamilan ibu dijangkiti, menyingkap kisah benar di balik kawat duri PKPD, selain mengetengahkan realiti wira-wira tak didendang di medan juang memerangi pandemik.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626213000 +0800" stop="20210626230000 +0800" channel="RTMK01">
-    <title lang="en">PANGGUNG RTM: Hijrah Cinta</title>
-    <desc lang="en">Erni merupakan pemilik sebuah Restoran. Walaupun, penampilannya agak kasar dan brutal, tanggungjawab kepada agama dan Allah tidak pernah diabaikan. Shahid pula seorang Ustaz di sebuah Masjid yang baru sahaja kecewa akibat kekasihnya telahpun berkahwin. Namun, pertemuan Shahid dan Erni di Masjid telah menimbulkan pelbagai konflik.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626230000 +0800" stop="20210626235900 +0800" channel="RTMK01">
-    <title lang="en">Opah</title>
-    <desc lang="en">Saksikan kisah KABUS DI HATI.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20210627000000 +0800" stop="20210627003000 +0800" channel="RTMK01">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
@@ -412,7 +188,7 @@
   </programme>
   <programme start="20210627120000 +0800" stop="20210627123000 +0800" channel="RTMK01">
     <title lang="en">Doku Khas FINAS: Banteras Covid 19</title>
-    <desc lang="en">Saksikan Dokumentari Khas terbitan FINAS berkait dengan penularan COVID-19 di Malaysia selain usaha dan tanggungjawab kita untuk membenterasnya.</desc>
+    <desc lang="en">Bersama Izzat Zin dalam episod kali ini memaparkan isu COVID19 yang menular di Afrika, reaksi pembeli di pasaraya mengenai pembelian panik dan kisah OKU menjalani kehidupan semasa musim COVID19 serta banyak lagi.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -1670,226 +1446,205 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626003000 +0800" channel="RTMK02">
-    <title lang="en">Syy... Rahsia</title>
-    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.</desc>
+  <programme start="20210703000000 +0800" stop="20210703003000 +0800" channel="RTMK01">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626003000 +0800" stop="20210626013000 +0800" channel="RTMK02">
-    <title lang="en">Si Capik</title>
-    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.</desc>
+  <programme start="20210703003000 +0800" stop="20210703004500 +0800" channel="RTMK01">
+    <title lang="en">Khutbah Jumaat 3 Julai 2021</title>
+    <desc lang="en">Ikuti Khutbah Jumaat yang bertajuk Bijak Memanfaat Peluang yang disampaikan oleh Haji Nor Azamir Haji Alias dari Masjid Tuanku Mizan Zainal Abidin.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="RTMK02">
-    <title lang="en">Ilaika Yusof</title>
-    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.</desc>
+  <programme start="20210703004500 +0800" stop="20210703010000 +0800" channel="RTMK01">
+    <title lang="en">Sfera</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="RTMK02">
-    <title lang="en">Mannipu</title>
-    <desc lang="en">Drama bersiri yang mengisahkan konflik diantara dua keluarga usahawan iaitu Ramamurthy dan Renganathan yang saling bersaing  untuk membina empayar perniagaan dan mereka sanggup melakukan apa sahaja untuk mencapai matlamat mereka. Lakonan : Vasant dan So. Paramjothi.</desc>
+  <programme start="20210703010000 +0800" stop="20210703013000 +0800" channel="RTMK01">
+    <title lang="en">Al-Mulk Nusantara</title>
+    <desc lang="en">Al-Mulk Nusantara episod ini membawa penonton untuk melihat islam di Kerajaan Melayu Melaka.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="RTMK02">
-    <title lang="en">Dr. Love</title>
-    <desc lang="en">Magen seorang DJ Radio online yang terkenal diberi tiga bulan untuk memperbaiki rancangannya dan beliau dinasihatkan bahawa beliau perlu mengalami alam percintaan dirinya sebelum dapat memberi nasihat mengenai percintaan.</desc>
+  <programme start="20210703013000 +0800" stop="20210703020000 +0800" channel="RTMK01">
+    <title lang="en">Mukjizat Dan Sains</title>
+    <desc lang="en">Saksikan tentang Penciptaan Langit Dan Bumi bersama Prof. Madya Dato Dr. Mohd Izhar Ariff.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626030000 +0800" stop="20210626040000 +0800" channel="RTMK02">
-    <title lang="en">Taste Of Life</title>
-    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.</desc>
+  <programme start="20210703020000 +0800" stop="20210703023000 +0800" channel="RTMK01">
+    <title lang="en">Aksi Ikan Malaysia</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626040000 +0800" stop="20210626060000 +0800" channel="RTMK02">
-    <title lang="en">Nyanyi Ayah</title>
-    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+  <programme start="20210703023000 +0800" stop="20210703051500 +0800" channel="RTMK01">
+    <title lang="en">Siaran Langsung : EURO 2020 (Winner 39 VS Winner 37)</title>
+    <desc lang="en">Saksikan siaran langsung EURO 2020 (Winner 39 VS Winner 37).</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626060000 +0800" stop="20210626070000 +0800" channel="RTMK02">
-    <title lang="en">Dia Anak Jeneral</title>
-    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.</desc>
+  <programme start="20210703051500 +0800" stop="20210703053000 +0800" channel="RTMK01">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Program mingguan yang memaparkan mengenai keharmonian, kesepakatam dan nilai-nilai murni dalam kalangan masyarakat berbilang kaum di Malaysia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626070000 +0800" stop="20210626073000 +0800" channel="RTMK02">
-    <title lang="en">CJ The DJ</title>
-    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.</desc>
+  <programme start="20210703053000 +0800" stop="20210703060000 +0800" channel="RTMK01">
+    <title lang="en">Bacaan Al-Mulk</title>
+    <desc lang="en">Bacaan Al-Mulk.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626073000 +0800" stop="20210626080000 +0800" channel="RTMK02">
-    <title lang="en">Doplo Doplo (2020)</title>
-    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.</desc>
+  <programme start="20210703060000 +0800" stop="20210703070000 +0800" channel="RTMK01">
+    <title lang="en">My Halal 3 Julai 2021</title>
+    <desc lang="en">Rancangan bualbicara eksklusif untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626080000 +0800" stop="20210626083000 +0800" channel="RTMK02">
-    <title lang="en">Raihan Rangers</title>
-    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.</desc>
+  <programme start="20210703070000 +0800" stop="20210703071000 +0800" channel="RTMK01">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626083000 +0800" stop="20210626090000 +0800" channel="RTMK02">
-    <title lang="en">Matt</title>
-    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.</desc>
+  <programme start="20210703071000 +0800" stop="20210703080000 +0800" channel="RTMK01">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al- Mulk ayat 16-30, bersama pengacara Wasiril Aswad serta tetamu undangan, Sahibus Samahah Ustaz Jamali Adnan (Timbalan Mufti Wilayah Persekutuan) dan Qari jemputan, Dr Anuar Hasin.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626090000 +0800" stop="20210626093000 +0800" channel="RTMK02">
-    <title lang="en">Max &amp; Maestro</title>
-    <desc lang="en">Max teruja menganjurkan sambutan hari jadi buat bapanya, sehingga memaksanya memikirkan kejutan yang sesuai. Pada mulanya bapa Max seolah-olah dapat meneka kejutan yang akan diberikan, namun dengan idea yang diberikan Maestro, Max akhirnya berjaya memberikan kejutan buat bapanya.</desc>
+  <programme start="20210703080000 +0800" stop="20210703110000 +0800" channel="RTMK01">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626093000 +0800" stop="20210626100000 +0800" channel="RTMK02">
-    <title lang="en">Bila Bayan Bercerita</title>
-    <desc lang="en">Sebuah cereka yang memapar kisah Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan cara menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri untuk menyelesaikan masalah yang mereka hadapi.</desc>
+  <programme start="20210703110000 +0800" stop="20210703120000 +0800" channel="RTMK01">
+    <title lang="en">Pesona XY 3 Julai 2021</title>
+    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu jemputan, Abdul Saman Taip, Melda Taip, Mohamed Nasiruddin Hassan, Mohd Shafiq Zulkarnain dan Penampilan Khas, Danial Chuer.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626100000 +0800" stop="20210626103000 +0800" channel="RTMK02">
-    <title lang="en">Pendekar Cilik</title>
-    <desc lang="en">Animasi yang mengisahkan Hang Tuah bersama 4 sahabatnya yang hidup dalam dunia siber. Mereka berganding bersama Noni dan Habib untuk menentang Daning, penjahat zalim yang berdendam dengan Hang Tuah.</desc>
+  <programme start="20210703120000 +0800" stop="20210703130000 +0800" channel="RTMK01">
+    <title lang="en">SELEKSI WIDURI : Dilema Wanita</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626103000 +0800" stop="20210626110000 +0800" channel="RTMK02">
-    <title lang="en">Kacang</title>
-    <desc lang="en">Animasi yang mengisahkan karenah pelbagai jenis kacang antaranya kacang dal, kacang kuda, kacang soya, kacang merah, kacang gajus dan kacang hijau yang mencuit hati, lucu dan menghiburkan, malah turut diselitkan dengan pelbagai nasihat yang berguna yang boleh diambil sebagai pengajaran.</desc>
+  <programme start="20210703130000 +0800" stop="20210703133000 +0800" channel="RTMK01">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626110000 +0800" stop="20210626113000 +0800" channel="RTMK02">
-    <title lang="en">Muzika</title>
-    <desc lang="en">Bersama Marsha Milan sebagai pengacara dan menampilkan penyanyi-penyanyi yang berbakat sambil berkongsi pengalaman mereka.</desc>
+  <programme start="20210703133000 +0800" stop="20210703135000 +0800" channel="RTMK01">
+    <title lang="en">TV1 KIDS: Trains</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626113000 +0800" stop="20210626120000 +0800" channel="RTMK02">
-    <title lang="en">Kelas Sebelah</title>
-    <desc lang="en">Kelas Sebelah mengisahkan mengenai pelajar kelas 4 Harapan yang mempunyai pelbagai masalah sehingga tampil seorang guru baru iaitu Cikgu Azman yang berjaya membantu mereka meningkatkan prestasi dalam pelajaran. Lakonan : Nafiez Zaidi, Afifah Nasir, Farah Wahida, Ungku Hariz, Kay Maria.</desc>
+  <programme start="20210703135000 +0800" stop="20210703140000 +0800" channel="RTMK01">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Program mingguan yang memaparkan mengenai keharmonian, kesepakatam dan nilai-nilai murni dalam kalangan masyarakat berbilang kaum di Malaysia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626120000 +0800" stop="20210626123000 +0800" channel="RTMK02">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626123000 +0800" stop="20210626130000 +0800" channel="RTMK02">
-    <title lang="en">Updates@Noon</title>
-    <desc lang="en">Brings you the latest news of national interest and trending international issues.</desc>
+  <programme start="20210703140000 +0800" stop="20210703143000 +0800" channel="RTMK01">
+    <title lang="en">Memo Cergas</title>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah dan Dr. Ezani berkongsi info tentang senaman regangan di pejabat. Dapatkan resipi menu Smoothies Pisang dan Oat. Kali ini, pelakon Mardiana Alwi akan berikan tip-tip kesihatan yang diamalkannya.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626130000 +0800" stop="20210626140000 +0800" channel="RTMK02">
-    <title lang="en">Detak Cinta Stetoskop</title>
-    <desc lang="en">Semasa Maisarah bercuti di kampung, keluarganya merancang mencari jodoh untuknya supaya Azman tidak mengganggunya lagi.</desc>
+  <programme start="20210703143000 +0800" stop="20210703150000 +0800" channel="RTMK01">
+    <title lang="en">Sinei Kita Tok 3 Julai 2021</title>
+    <desc lang="en">Rancangan travelog yang menjelajah tempat-tempat menarik di seluruh Sarawak.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626140000 +0800" stop="20210626150000 +0800" channel="RTMK02">
-    <title lang="en">Istimewa Bersama</title>
-    <desc lang="en">Rancangan hiburan terbitan RTM khas buat anda.</desc>
+  <programme start="20210703150000 +0800" stop="20210703170000 +0800" channel="RTMK01">
+    <title lang="en">MEMORI: Di Bawah Lindungan Kasih</title>
+    <desc lang="en">Syazwan, merupakan anak orang berada yang sering melibatkan diri dengan perkara-perkara negatif dan berkawan baik dengan Amir, seorang anak yang mempunyai didikan agama yang cukup. Semuanya berubah apabila Amir berjumpa dengan ibu kandungnya dan pada suatu hari ditakdirkan Amir meninggal dunia akibat kemalangan. Sebagai kawan baik kepada Amir, Syazwan perlu memberitahu perkara sebenar kepada ibu Amir yang buta iaitu Mak Leha.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626150000 +0800" stop="20210626160000 +0800" channel="RTMK02">
-    <title lang="en">Vasantham 2021</title>
-    <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan.</desc>
+  <programme start="20210703170000 +0800" stop="20210703180000 +0800" channel="RTMK01">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626160000 +0800" stop="20210626173000 +0800" channel="RTMK02">
-    <title lang="en">Running Man</title>
-    <desc lang="en">TV Game Show ini merupakan program yang mengisahkan cabaran dan dugaan yang dihadapi oleh sekumpulan selebriti semasa mereka bersaing di dalam pelbagai jenis permainan.</desc>
+  <programme start="20210703180000 +0800" stop="20210703183000 +0800" channel="RTMK01">
+    <title lang="en">Bajet Bijak Belanja</title>
+    <desc lang="en">Bersama pengacara Munarwar Azmi berkongsi topik tentang Persediaan Kewangan Dari Zaman Bujang.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626173000 +0800" stop="20210626180000 +0800" channel="RTMK02">
-    <title lang="en">Oh My Netizen</title>
-    <desc lang="en">Medina bimbang dengan perkembangan anaknya yang masih tidak dapat membaca, lalu pergi mendapatkan bantuan dengan menemui seorang ustaz yang juga dikatakan seorang saintis makanan. Pada mulanya Medina teragak-agak untuk berbuat demikian, namun bersetuju jua demi mencari penawar buat anaknya itu. Lakonan : Saliha M. Shahul Hameed, Muhammad Shafeeq dan Mimi Ernida.</desc>
+  <programme start="20210703183000 +0800" stop="20210703190000 +0800" channel="RTMK01">
+    <title lang="en">Nasyid Minggu Ini</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="RTMK02">
-    <title lang="en">SPECIAL ON 1 : NBA Action</title>
-    <desc lang="en">Saksikan persiapan pasukan Boston Celtics juga kisah hidup, Harrison Barnse serta Theo Pinson, seorang pemain bola keranjang, Lauri Markkanen dari pasukan Chicago Bulls.</desc>
+  <programme start="20210703190000 +0800" stop="20210703200000 +0800" channel="RTMK01">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626183000 +0800" stop="20210626190000 +0800" channel="RTMK02">
-    <title lang="en">Beyblade Burst Evolution</title>
-    <desc lang="en">Kisah seorang kanak-kanak Jepun yang handal bermain dengan sejenis permainan gasing yang digelar sebagai Beyblade. Dia di hantar ke negara Spain untuk menyertai European League Championship.</desc>
+  <programme start="20210703200000 +0800" stop="20210703210000 +0800" channel="RTMK01">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626190000 +0800" stop="20210626193000 +0800" channel="RTMK02">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626193000 +0800" stop="20210626200000 +0800" channel="RTMK02">
-    <title lang="en">Berita Tamil</title>
-    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626200000 +0800" stop="20210626210000 +0800" channel="RTMK02">
-    <title lang="en">Alergi Mamat Romantik</title>
-    <desc lang="en">Arjuna mengupah beberapa orang untuk mencari Ara.</desc>
+  <programme start="20210703210000 +0800" stop="20210703213000 +0800" channel="RTMK01">
+    <title lang="en">Covid Itu Benar</title>
+    <desc lang="en">Saksikan rancangan khas Covid Itu Benar memaparkan fakta, menangkis pelbagai konspirasi dan kenyataan kewujudan pandemik Covid-19.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626210000 +0800" stop="20210626223000 +0800" channel="RTMK02">
-    <title lang="en">Konsert Minggu Ini</title>
-    <desc lang="en">Rancangan hiburan terbitan Unit Hiburan TV RTM khas untuk anda.</desc>
+  <programme start="20210703213000 +0800" stop="20210703230000 +0800" channel="RTMK01">
+    <title lang="en">PANGGUNG RTM: Janji Kasih</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626223000 +0800" stop="20210626235900 +0800" channel="RTMK02">
-    <title lang="en">Mekanik</title>
-    <desc lang="en">Syamil, seorang mekanik terjumpa bungkusan mengandungi wang dalam teksi yang dibaikinya. Kerana enggan memulangkan wang tersebut, dia berada dalam kesusahan kerana diburu perompak yang tertinggal wang tersebut sewaktu dikejar polis. Lakonan : Azmil Mustapha, Julie Faridah, Susan Lankester dan Yusof Haslam.</desc>
+  <programme start="20210703230000 +0800" stop="20210703235900 +0800" channel="RTMK01">
+    <title lang="en">Opah</title>
+    <desc lang="en">Kisah Opah yang penyabar, penyayang dalam menghadapi pelbagai karenah anak-anaknya. Opah juga sering menjadi tempat rujukan keluarganya apabila menghadapi masalah.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -3154,261 +2909,226 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626010000 +0800" channel="RTMK03">
-    <title lang="en">Bagaikan Novel Cinta</title>
-    <desc lang="en">Rizal dan rakannya yang kebetulan berada di tempat Raqib dipukul, sempat menyelamatkan Raqib.</desc>
+  <programme start="20210703000000 +0800" stop="20210703003000 +0800" channel="RTMK02">
+    <title lang="en">Syy... Rahsia</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626010000 +0800" stop="20210626013000 +0800" channel="RTMK03">
-    <title lang="en">Busana Asia</title>
-    <desc lang="en">Menampilkan Atikah Suhaime sebagai pengacara yang akan membawa kita mengenal pelbagai jenis busana.</desc>
+  <programme start="20210703003000 +0800" stop="20210703013000 +0800" channel="RTMK02">
+    <title lang="en">Si Capik</title>
+    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="RTMK03">
-    <title lang="en">Eksplorasi Seni Kraf</title>
-    <desc lang="en">Berkongsi seni kraf di Malaysia.</desc>
+  <programme start="20210703013000 +0800" stop="20210703020000 +0800" channel="RTMK02">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="RTMK03">
-    <title lang="en">Ruang</title>
-    <desc lang="en">Memaparkan susun atur ruang tamu kediaman rumah.</desc>
+  <programme start="20210703020000 +0800" stop="20210703023000 +0800" channel="RTMK02">
+    <title lang="en">Panimalar</title>
+    <desc lang="en">Kisah suka duka kehidupan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="RTMK03">
-    <title lang="en">Eksplorasi Kenyalang</title>
-    <desc lang="en">Sarawak menghasilkan pelbagai jenis kraf tangan yang unik daripada pelbagai kaum dan etnik yang berbilang.Â.</desc>
+  <programme start="20210703023000 +0800" stop="20210703030000 +0800" channel="RTMK02">
+    <title lang="en">Kangal Thiranthaal</title>
+    <desc lang="en">Kisah menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626030000 +0800" stop="20210626033000 +0800" channel="RTMK03">
-    <title lang="en">Dua Dunia</title>
-    <desc lang="en">Nadzmi dan Nash berkunjung ke Tenom, Sabah untuk melihat sendiri penanaman pokok kopi.</desc>
+  <programme start="20210703030000 +0800" stop="20210703040000 +0800" channel="RTMK02">
+    <title lang="en">Taste Of Life</title>
+    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626033000 +0800" stop="20210626040000 +0800" channel="RTMK03">
-    <title lang="en">Uniknya</title>
-    <desc lang="en">Rancangan menarik khas untuk anda.</desc>
+  <programme start="20210703040000 +0800" stop="20210703060000 +0800" channel="RTMK02">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan rancangan hiburan terbitan Unit Hiburan RTM khas untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626040000 +0800" stop="20210626043000 +0800" channel="RTMK03">
-    <title lang="en">Mogindalan</title>
-    <desc lang="en">Memaparkan kehidupan dan aktiviti masyarakat beberapa kaum atau etnik di Sabah.</desc>
+  <programme start="20210703060000 +0800" stop="20210703070000 +0800" channel="RTMK02">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626043000 +0800" stop="20210626050000 +0800" channel="RTMK03">
-    <title lang="en">Jelajah Muzium</title>
-    <desc lang="en">Rancangan majalah yang memaparkan pendedahan muzium-muzium di Malaysia.</desc>
+  <programme start="20210703070000 +0800" stop="20210703073000 +0800" channel="RTMK02">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626050000 +0800" stop="20210626053000 +0800" channel="RTMK03">
-    <title lang="en">Ruang</title>
-    <desc lang="en">Memaparkan susun atur ruang tamu kediaman rumah.</desc>
+  <programme start="20210703073000 +0800" stop="20210703080000 +0800" channel="RTMK02">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626053000 +0800" stop="20210626060000 +0800" channel="RTMK03">
-    <title lang="en">Sufiyah SR2</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  <programme start="20210703080000 +0800" stop="20210703083000 +0800" channel="RTMK02">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626060000 +0800" stop="20210626060500 +0800" channel="RTMK03">
-    <title lang="en">Klip Video</title>
-    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  <programme start="20210703083000 +0800" stop="20210703090000 +0800" channel="RTMK02">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626060500 +0800" stop="20210626070000 +0800" channel="RTMK03">
-    <title lang="en">Kuppa Kopi</title>
-    <desc lang="en">Bersama pengacara Anding dan tetamu undangan yang akan membincangkan pelbagai topik menarik.</desc>
+  <programme start="20210703090000 +0800" stop="20210703093000 +0800" channel="RTMK02">
+    <title lang="en">Max &amp; Maestro</title>
+    <desc lang="en">Max teruja menganjurkan sambutan hari jadi buat bapanya, sehingga memaksanya memikirkan kejutan yang sesuai. Pada mulanya bapa Max seolah-olah dapat meneka kejutan yang akan diberikan, namun dengan idea yang diberikan Maestro, Max akhirnya berjaya memberikan kejutan buat bapanya.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626070000 +0800" stop="20210626080000 +0800" channel="RTMK03">
-    <title lang="en">Berita Pagi</title>
-    <desc lang="en">Menyiarkan berita-berita semasa dan terkini dari seluruh Malaysia.</desc>
+  <programme start="20210703093000 +0800" stop="20210703100000 +0800" channel="RTMK02">
+    <title lang="en">Bila Bayan Bercerita</title>
+    <desc lang="en">Sebuah cereka yang memapar kisah Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan cara menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri untuk menyelesaikan masalah yang mereka hadapi.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626080000 +0800" stop="20210626083000 +0800" channel="RTMK03">
-    <title lang="en">Sayau Kopusan Borneo</title>
-    <desc lang="en">Memaparkan tentang bandar Semporna, Sabah.</desc>
+  <programme start="20210703100000 +0800" stop="20210703103000 +0800" channel="RTMK02">
+    <title lang="en">Pendekar Cilik</title>
+    <desc lang="en">Animasi yang mengisahkan Hang Tuah bersama 4 sahabatnya yang hidup dalam dunia siber. Mereka berganding bersama Noni dan Habib untuk menentang Daning, penjahat zalim yang berdendam dengan Hang Tuah.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626083000 +0800" stop="20210626090000 +0800" channel="RTMK03">
-    <title lang="en">Dia Terindah</title>
-    <desc lang="en">Memaparkan pengalaman pesakit dalam mengharungi dugaan kesihatan serta penjelasan daripada doktor-doktor terlatih.</desc>
+  <programme start="20210703103000 +0800" stop="20210703110000 +0800" channel="RTMK02">
+    <title lang="en">Kacang</title>
+    <desc lang="en">Animasi yang mengisahkan karenah pelbagai jenis kacang antaranya kacang dal, kacang kuda, kacang soya, kacang merah, kacang gajus dan kacang hijau yang mencuit hati, lucu dan menghiburkan, malah turut diselitkan dengan pelbagai nasihat yang berguna yang boleh diambil sebagai pengajaran.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626090000 +0800" stop="20210626100000 +0800" channel="RTMK03">
-    <title lang="en">Kelas @ Rumah</title>
-    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulang kaji pelajaran mengikut subjek yang ditetapkan.</desc>
+  <programme start="20210703110000 +0800" stop="20210703113000 +0800" channel="RTMK02">
+    <title lang="en">Muzika</title>
+    <desc lang="en">Bersama Marsha Milan sebagai pengacara dan menampilkan penyanyi-penyanyi yang berbakat sambil berkongsi pengalaman mereka.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626100000 +0800" stop="20210626103000 +0800" channel="RTMK03">
-    <title lang="en">Roda Chef</title>
-    <desc lang="en">Pengembaraan dua orang chef bersahabat yang menjelajah tempat-tempat di Malaysia bagi mempelajari masakan tempatan.</desc>
+  <programme start="20210703113000 +0800" stop="20210703120000 +0800" channel="RTMK02">
+    <title lang="en">Kelas Sebelah</title>
+    <desc lang="en">Kelas Sebelah mengisahkan mengenai pelajar kelas 4 Harapan yang mempunyai pelbagai masalah sehingga tampil seorang guru baru iaitu Cikgu Azman yang berjaya membantu mereka meningkatkan prestasi dalam pelajaran. Lakonan : Nafiez Zaidi, Afifah Nasir, Farah Wahida, Ungku Hariz, Kay Maria.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626103000 +0800" stop="20210626104500 +0800" channel="RTMK03">
-    <title lang="en">i Kadazan</title>
-    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
+  <programme start="20210703120000 +0800" stop="20210703123000 +0800" channel="RTMK02">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210703123000 +0800" stop="20210703130000 +0800" channel="RTMK02">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626104500 +0800" stop="20210626110000 +0800" channel="RTMK03">
-    <title lang="en">i Iban</title>
-    <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
+  <programme start="20210703130000 +0800" stop="20210703140000 +0800" channel="RTMK02">
+    <title lang="en">Detak Cinta Stetoskop</title>
+    <desc lang="en">Semasa pulang dari rumah kakaknya kereta Dr. Razlan diekori dan ketika memandu ke tempat kerja keesokan harinya kereta yang dipandu Dr. Razlan terbabas dan berlaku kemalangan kerana kegagalan brek.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626110000 +0800" stop="20210626113000 +0800" channel="RTMK03">
-    <title lang="en">Kuali Sejoli</title>
-    <desc lang="en">Qi Razali memperkenalkan selebriti, seorang penyanyi iaitu Bella Astillah yang akan berpasangan dengan adiknya, Didi Astillah.</desc>
+  <programme start="20210703140000 +0800" stop="20210703150000 +0800" channel="RTMK02">
+    <title lang="en">Istimewa Bersama</title>
+    <desc lang="en">Rancangan hiburan terbitan RTM khas buat anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626113000 +0800" stop="20210626120000 +0800" channel="RTMK03">
-    <title lang="en">Beauty Reward</title>
-    <desc lang="en">Memaparkan informasi, tip-tip berkenaan kecantikan, fesyen pakaian dan aksesori khas untuk kaum wanita.</desc>
+  <programme start="20210703150000 +0800" stop="20210703160000 +0800" channel="RTMK02">
+    <title lang="en">Vasantham 2021</title>
+    <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626120000 +0800" stop="20210626130000 +0800" channel="RTMK03">
-    <title lang="en">Borak Dulu Sampai Menang #MenangBersama</title>
-    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.</desc>
+  <programme start="20210703160000 +0800" stop="20210703173000 +0800" channel="RTMK02">
+    <title lang="en">Running Man</title>
+    <desc lang="en">TV Game Show ini merupakan program yang mengisahkan cabaran dan dugaan yang dihadapi oleh sekumpulan selebriti semasa mereka bersaing di dalam pelbagai jenis permainan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626130000 +0800" stop="20210626140000 +0800" channel="RTMK03">
-    <title lang="en">Kelas @ Rumah</title>
-    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulang kaji pelajaran mengikut subjek yang ditetapkan.</desc>
+  <programme start="20210703173000 +0800" stop="20210703180000 +0800" channel="RTMK02">
+    <title lang="en">Oh My Netizen</title>
+    <desc lang="en">Kamil meluahkan perasaannya pada Alia namun cintanya ditolak. Hal ini menimbulkan kemarahan buat Kamil lantas dia bertindak merakam secara senyap segala pergerakan Alia di sekolah. Video yang dirakam ini kemudiannya dimuat naik oleh Kamil di media sosial bertujuan untuk memalukan dan mengaibkan gadis tersebut. Video-video itu kemudiannya menjadi tular dan mendapat tontonan yang tinggi di kalangan pelajar-pelajar lain sehingga menyebabkan Alia menjadi bahan ejekan di sekolah. Lakonan : Didie Astilah, Haaziq Azrai, Mimi Ernida dan Koperal Ridzuan Yaakob.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626140000 +0800" stop="20210626141500 +0800" channel="RTMK03">
-    <title lang="en">Berita i-Bajau</title>
-    <desc lang="en">Saksikan berita dalam bahasa Bajau.</desc>
+  <programme start="20210703180000 +0800" stop="20210703183000 +0800" channel="RTMK02">
+    <title lang="en">SPECIAL ON 1 : NBA Action</title>
+    <desc lang="en">Saksikan persiapan pasukan Boston Celtics juga kisah hidup, Harrison Barnse serta Theo Pinson, seorang pemain bola keranjang, Lauri Markkanen dari pasukan Chicago Bulls.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626141500 +0800" stop="20210626143000 +0800" channel="RTMK03">
-    <title lang="en">Klip Video</title>
-    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  <programme start="20210703183000 +0800" stop="20210703190000 +0800" channel="RTMK02">
+    <title lang="en">Beyblade Burst Evolution</title>
+    <desc lang="en">Kisah seorang kanak-kanak Jepun yang handal bermain dengan sejenis permainan gasing yang digelar sebagai Beyblade. Dia di hantar ke negara Spain untuk menyertai European League Championship.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626143000 +0800" stop="20210626150000 +0800" channel="RTMK03">
-    <title lang="en">Sayau Kopusan Borneo</title>
-    <desc lang="en">Memaparkan tentang bandar Semporna, Sabah.</desc>
+  <programme start="20210703190000 +0800" stop="20210703193000 +0800" channel="RTMK02">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210703193000 +0800" stop="20210703200000 +0800" channel="RTMK02">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210703200000 +0800" stop="20210703210000 +0800" channel="RTMK02">
+    <title lang="en">Ayat-ayat Halal</title>
+    <desc lang="en">Sewaktu pulang dari masjid, Eb disapa oleh Pak Ayop yang kemudiannya menjemputnya minum sambil bersembang di rumah. Pak Ayop memandang âtinggiâ Eb yang bekerja di Qatar dan dia menyampaikan hasratnya untuk belajar mengaji Al-Quran dengan bantuan Eb. Demi untuk mengambil hati Ulya, Eb bersetuju untuk mengajar Pak Ayop mengaji. Dengan cara tersebut dia akan kerap bertandang ke rumah Pak Ayob dan berpeluang memerhati Ulya. Lakonan : Amar Baharin, Nadiya Nisaa, Fikhree Bakar, Razak Ahmad dan Lan Siro.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626150000 +0800" stop="20210626160000 +0800" channel="RTMK03">
-    <title lang="en">Infiniteen</title>
-    <desc lang="en">Sebuah rancangan bual bicara santai dan berinformasi yang memfokuskan minat dan perkembangan generasi muda dalam dunia digital.</desc>
+  <programme start="20210703210000 +0800" stop="20210703223000 +0800" channel="RTMK02">
+    <title lang="en">Konsert Minggu Ini</title>
+    <desc lang="en">Rancangan hiburan terbitan Unit Hiburan TV RTM khas untuk anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626160000 +0800" stop="20210626170000 +0800" channel="RTMK03">
-    <title lang="en">Vasantham</title>
-    <desc lang="en">Membincangkan pelbagai topik mengenai ekonomi, kesihatan dan isu semasa.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626170000 +0800" stop="20210626173000 +0800" channel="RTMK03">
-    <title lang="en">Fuh...Beratur</title>
-    <desc lang="en">Hefny Sahad berada di Muar dan Melaka.Â.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626173000 +0800" stop="20210626180000 +0800" channel="RTMK03">
-    <title lang="en">Keep Calm &amp; Stay Healthy</title>
-    <desc lang="en">Agnes Wang memberi keterangan mengenai tajuk penjagaan kesihatan berkaitan warga emas.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="RTMK03">
-    <title lang="en">Jalan-Jalan Jom</title>
-    <desc lang="en">Pengembaraan Reen Rahim bersama tetamu undangannya dan berjalan-jalan di lokasi menarik yang terpilih.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626183000 +0800" stop="20210626220000 +0800" channel="RTMK03">
-    <title lang="en">Siaran Langsung : Moto GP 2021 (Qualifying)</title>
-    <desc lang="en">Ikuti siaran langsung Moto GP 2021 (Qualifying).</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626220000 +0800" stop="20210626223000 +0800" channel="RTMK03">
-    <title lang="en">Jom Pancing</title>
-    <desc lang="en">Haqiem bersama Cef Iwan masih berada di Tasik Kenyir.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626223000 +0800" stop="20210626230000 +0800" channel="RTMK03">
-    <title lang="en">Traveller's Treat</title>
-    <desc lang="en">Melawat dua buah tempat di Afrika Selatan sambil menghayati tempat-tempat menarik di sana.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626230000 +0800" stop="20210626233000 +0800" channel="RTMK03">
-    <title lang="en">Sayau Kopusan Borneo</title>
-    <desc lang="en">Memaparkan tentang bandar Semporna, Sabah.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626233000 +0800" stop="20210626235900 +0800" channel="RTMK03">
-    <title lang="en">Siaran Langsung : EURO 2020</title>
-    <desc lang="en">Saksikan siaran langsung EURO 2020.</desc>
+  <programme start="20210703223000 +0800" stop="20210703235900 +0800" channel="RTMK02">
+    <title lang="en">Suddenly Twenty</title>
+    <desc lang="en">Selepas mengambil gambar ajaib di sebuah kedai gambar, seorang wanita tua yang berumur 70an berubah menjadi gadis 20 tahun dan memutuskan untuk menjalani kehidupan yang selalu diimpikannya. Lakonan : Davika Hoorne, Saharat Sangkapreecha, Kritsanapoom Pibulsonggram, Neeranuch Patamasood, Rong Kaomoonkadee.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -5184,303 +4904,296 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626003000 +0800" channel="RTMK04">
-    <title lang="en">Berita Tengah Malam</title>
-    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20210703000000 +0800" stop="20210703021500 +0800" channel="RTMK03">
+    <title lang="en">Siaran Langsung : EURO 2020 (Winner 41 VS Winner 42)</title>
+    <desc lang="en">Saksikan siaran langsung EURO 2020 (Winner 41 VS Winner 42).</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626003000 +0800" stop="20210626010000 +0800" channel="RTMK04">
-    <title lang="en">Biz Malaysia</title>
-    <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia.</desc>
+  <programme start="20210703021500 +0800" stop="20210703023000 +0800" channel="RTMK03">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626010000 +0800" stop="20210626013000 +0800" channel="RTMK04">
-    <title lang="en">Pastikan Sahih (Ulangan)</title>
-    <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral dalam media social.</desc>
+  <programme start="20210703023000 +0800" stop="20210703030000 +0800" channel="RTMK03">
+    <title lang="en">Eksplorasi Kenyalang</title>
+    <desc lang="en">Sarawak menghasilkan pelbagai jenis kraf tangan yang unik daripada pelbagai kaum dan etnik yang berbilang.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="RTMK04">
-    <title lang="en">Destinasi Agung</title>
-    <desc lang="en">Bersama pengacara Alif AF, menjelajah ke 26 buah masjid secara backpackers di samping menceritkan mengenai sejarah penubuhan dan keunikan aktiviti yang dijalankan di masjid berkenaan.</desc>
+  <programme start="20210703030000 +0800" stop="20210703033000 +0800" channel="RTMK03">
+    <title lang="en">Ekstrem Walai Tokou</title>
+    <desc lang="en">Pengembaraan Putey ke tempat-tempat menarik di Sabah.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="RTMK04">
-    <title lang="en">Puisi Nusantara</title>
-    <desc lang="en">Bersama hos, Shafa Atussara Silahudin menjelajah seluruh Malaysia menjejak susur galur warisan Maulud Jawi.</desc>
+  <programme start="20210703033000 +0800" stop="20210703040000 +0800" channel="RTMK03">
+    <title lang="en">Uniknya</title>
+    <desc lang="en">Rancangan menarik khas untuk anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="RTMK04">
-    <title lang="en">Bicara Mawarith</title>
-    <desc lang="en">Hos, Imam Muda Asyraf bersama panel pensyarah Fiqh Universiti Kebangsaan Malaysia (UKM), Prof Madya Datuk Dr. Izhar Ariff dan Pakar Perancang Harta, Haji Ariffin Sabirin mengupas isu berkaitan pengurusan harta.  Episod kali ini mengenai Buta Faraid.</desc>
+  <programme start="20210703040000 +0800" stop="20210703043000 +0800" channel="RTMK03">
+    <title lang="en">Mogindalan</title>
+    <desc lang="en">Memaparkan kehidupan dan aktiviti masyarakat beberapa kaum atau etnik di Sabah.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626030000 +0800" stop="20210626033000 +0800" channel="RTMK04">
-    <title lang="en">Kembara Damai</title>
-    <desc lang="en">Program travelog ke destinasi pelancongan yang menampilkan gaya hidup dan rutin gaya hidup masyarakat muslim negara Asean.</desc>
+  <programme start="20210703043000 +0800" stop="20210703050000 +0800" channel="RTMK03">
+    <title lang="en">We Live Here</title>
+    <desc lang="en">Rancangan majalah yang memaparkan pelbagai tempat menarik di Malaysia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626033000 +0800" stop="20210626040000 +0800" channel="RTMK04">
-    <title lang="en">Ensiklopedia Hujung Jari</title>
-    <desc lang="en">Bersama hos, Amin Idris mengupas mengenai Dasar Industri 4.0 dan masa hadapan industri berkenaan.</desc>
+  <programme start="20210703050000 +0800" stop="20210703053000 +0800" channel="RTMK03">
+    <title lang="en">DIY Diva</title>
+    <desc lang="en">Bersama Nurul Azni Mohd Jesni yang akan memberi informasi mengenai seni kreatif barangan kitar semula.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626040000 +0800" stop="20210626043000 +0800" channel="RTMK04">
-    <title lang="en">Salah atau Tidak</title>
-    <desc lang="en">Salah Atau Tidak membongkar kekeliruan masyarakat mengenai perbuatan mereka sama ada melanggar undang-undang atau tidak daripada sudut pandang golongan profesional seperti pensyarah dan pakar perundangan. Episod kali ini mengenai aktiviti riadah di jalan raya bersama panel Presiden Persatuan Pengajar Memandu Malaysia, Tengku Ahmad Marwan Tengku Mahmud dan Peguam Nurzaki Mohd. Taib.</desc>
+  <programme start="20210703053000 +0800" stop="20210703060000 +0800" channel="RTMK03">
+    <title lang="en">Sufiyah SR2</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626043000 +0800" stop="20210626050000 +0800" channel="RTMK04">
-    <title lang="en">Psikosis</title>
-    <desc lang="en">Psikosis adalah sebuah rancangan yang memaparkan kisah-kisah, pengalaman dan rawatan tentang pelbagai penyakit mental bersama hos Aiman Amri. Psikosis pada minggu ini memaparkan tentang Subtance Abuse.</desc>
+  <programme start="20210703060000 +0800" stop="20210703060500 +0800" channel="RTMK03">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626050000 +0800" stop="20210626053000 +0800" channel="RTMK04">
-    <title lang="en">Teknologi Nano</title>
-    <desc lang="en">Teknologi Nano sebuah dokumentari yang memaparkan manfaat teknologi berkenaan dalam pelbagai bidang.</desc>
+  <programme start="20210703060500 +0800" stop="20210703070000 +0800" channel="RTMK03">
+    <title lang="en">Kuppa Kopi</title>
+    <desc lang="en">Bersama pengacara Anding dan tetamu undangan yang akan membincangkan pelbagai topik menarik.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626053000 +0800" stop="20210626060000 +0800" channel="RTMK04">
-    <title lang="en">Notes From Nature</title>
-    <desc lang="en">Bersama hos, Mat Dan dalam Notes From Nature membawa anda menyaksikan keindahan alam dan pembangunan teknologi hijau.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626060000 +0800" stop="20210626063000 +0800" channel="RTMK04">
-    <title lang="en">Rencah Hidup</title>
-    <desc lang="en">Rencah Hidup membawakan kisah keinsafan dari insan-insan yang pernah melakukan kesalahan. Episod ini memaparkan kisah insan yang terlibat dengan kes Pembuangan Bayi.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626063000 +0800" stop="20210626070000 +0800" channel="RTMK04">
-    <title lang="en">Dimensi Cergas</title>
-    <desc lang="en">Dimensi Cergas memaparkan kaedah melakukan senaman yang betul dan impaknya terhadap tubuh manusia.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626070000 +0800" stop="20210626073000 +0800" channel="RTMK04">
+  <programme start="20210703070000 +0800" stop="20210703080000 +0800" channel="RTMK03">
     <title lang="en">Berita Pagi</title>
-    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.</desc>
+    <desc lang="en">Menyiarkan berita-berita semasa dan terkini dari seluruh Malaysia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626073000 +0800" stop="20210626074500 +0800" channel="RTMK04">
-    <title lang="en">Berita Pagi Sabah</title>
-    <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa.</desc>
+  <programme start="20210703080000 +0800" stop="20210703083000 +0800" channel="RTMK03">
+    <title lang="en">Sayau Kopusan Borneo</title>
+    <desc lang="en">Memaparkan tentang bandar Semporna, Sabah.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626074500 +0800" stop="20210626080000 +0800" channel="RTMK04">
-    <title lang="en">Berita Pagi Sarawak</title>
-    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20210703083000 +0800" stop="20210703090000 +0800" channel="RTMK03">
+    <title lang="en">Projek Ruang</title>
+    <desc lang="en">Memaparkan pengisian dan perhiasan ruang dalam dan luar rumah dengan seorang pemilik rumah yang telah pun mendekorasi rumah mengikut konsep sendiri.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626080000 +0800" stop="20210626110000 +0800" channel="RTMK04">
-    <title lang="en">Selamat Pagi Malaysia</title>
-    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
+  <programme start="20210703090000 +0800" stop="20210703100000 +0800" channel="RTMK03">
+    <title lang="en">Kelas @ Rumah</title>
+    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulang kaji pelajaran mengikut subjek yang ditetapkan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626110000 +0800" stop="20210626120000 +0800" channel="RTMK04">
-    <title lang="en">Pesona XY 26 Jun 2021</title>
-    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu undangan, Datuk Saidatu Akhma Hassan, Timbalan Ketua Pengarah Penyiaran (Strategik), Jabatan Penyiaran Malaysia dan Dr. Nik Norma Nik Hassan (Pensyarah Kanan, Pusat Pengajian Komunikasi, Universiti Sains Malaysia).</desc>
+  <programme start="20210703100000 +0800" stop="20210703103000 +0800" channel="RTMK03">
+    <title lang="en">Roda Chef</title>
+    <desc lang="en">Pengembaraan dua orang chef bersahabat yang menjelajah tempat-tempat di Malaysia bagi mempelajari masakan tempatan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626120000 +0800" stop="20210626123000 +0800" channel="RTMK04">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626123000 +0800" stop="20210626130000 +0800" channel="RTMK04">
-    <title lang="en">Update@Noon</title>
-    <desc lang="en">Saksikan berita bahasa Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20210703103000 +0800" stop="20210703104500 +0800" channel="RTMK03">
+    <title lang="en">i Kadazan</title>
+    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626130000 +0800" stop="20210626133000 +0800" channel="RTMK04">
-    <title lang="en">Berita Tengah Hari</title>
-    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626133000 +0800" stop="20210626140000 +0800" channel="RTMK04">
-    <title lang="en">CEO NEO</title>
-    <desc lang="en">CEO Neo memaparkan tanggungjawab Ketua Pegawai Eksekutif (CEO) muda mendepani cabaran menguruskan perniagaan dan syarikat masing-masing.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626140000 +0800" stop="20210626141500 +0800" channel="RTMK04">
-    <title lang="en">i- Bajau</title>
-    <desc lang="en">Berita menarik  dalam bahasa Bajau.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626141500 +0800" stop="20210626143000 +0800" channel="RTMK04">
-    <title lang="en">Ethnogenesis</title>
-    <desc lang="en">Etnogenesis membongkar identiti etnik masyarakat asal di sekitar Tanah Melayu dan Kepulauan Borneo dalam setiap episod. Episod kali ini mengenai etnik Kimaragang di Sabah.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626143000 +0800" stop="20210626150000 +0800" channel="RTMK04">
-    <title lang="en">Misi Podium</title>
-    <desc lang="en">Misi Podium membincangkan pelbagai aspek berkaitan pembangunan dan kemampuan atlet negara dalam misi merangkul gelaran juara.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626150000 +0800" stop="20210626160000 +0800" channel="RTMK04">
-    <title lang="en">Vasantham</title>
-    <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan  di studio.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626160000 +0800" stop="20210626163000 +0800" channel="RTMK04">
-    <title lang="en">Titian Warisan</title>
-    <desc lang="en">Sebuah program yang memaparkan sejarah di setiap negeri di negara ini.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626163000 +0800" stop="20210626170000 +0800" channel="RTMK04">
-    <title lang="en">Lensa IPT</title>
-    <desc lang="en">Program yang memaparkan perkembangan semasa dunia Institusi Pengajian Tinggi Awam (IPTA) di Malaysia.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626170000 +0800" stop="20210626180000 +0800" channel="RTMK04">
-    <title lang="en">Berita Wilayah</title>
-    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626180000 +0800" stop="20210626181500 +0800" channel="RTMK04">
-    <title lang="en">Digital Preneur</title>
-    <desc lang="en">Setiap episod membawakan kisah berbeza anak tempatan yang menjana pendapatan menerusi platform digital. Episod kali ini bersama Pereka Grafik, Nur Akmal Sulaiman.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626181500 +0800" stop="20210626183000 +0800" channel="RTMK04">
-    <title lang="en">Digital Preneur</title>
-    <desc lang="en">Setiap episod membawakan kisah berbeza anak tempatan yang menjana pendapatan menerusi platform digital. Episod kali ini bersama Pereka Laman Web, Ismail Abd. Malek.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626183000 +0800" stop="20210626184500 +0800" channel="RTMK04">
+  <programme start="20210703104500 +0800" stop="20210703110000 +0800" channel="RTMK03">
     <title lang="en">i Iban</title>
     <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626184500 +0800" stop="20210626190000 +0800" channel="RTMK04">
+  <programme start="20210703110000 +0800" stop="20210703113000 +0800" channel="RTMK03">
+    <title lang="en">Kuali Sejoli</title>
+    <desc lang="en">Qi Razali memperkenalkan  Erwin Dawson yang akan berpasangan dengan ibunya iaitu Mama Zai.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703113000 +0800" stop="20210703120000 +0800" channel="RTMK03">
+    <title lang="en">Beauty Reward</title>
+    <desc lang="en">Memaparkan informasi, tip-tip berkenaan kecantikan, fesyen pakaian dan aksesori khas untuk kaum wanita.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703120000 +0800" stop="20210703130000 +0800" channel="RTMK03">
+    <title lang="en">Borak Dulu Sampai Menang #MenangBersama</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703130000 +0800" stop="20210703140000 +0800" channel="RTMK03">
+    <title lang="en">Kelas @ Rumah</title>
+    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulang kaji pelajaran mengikut subjek yang ditetapkan.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703140000 +0800" stop="20210703141500 +0800" channel="RTMK03">
+    <title lang="en">Berita i-Bajau</title>
+    <desc lang="en">Saksikan berita dalam bahasa Bajau.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703141500 +0800" stop="20210703143000 +0800" channel="RTMK03">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703143000 +0800" stop="20210703150000 +0800" channel="RTMK03">
+    <title lang="en">Sioknya Bayu</title>
+    <desc lang="en">Rancangan menarik yang memaparkan perkembangan industri muzik dan hiburan.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703150000 +0800" stop="20210703160000 +0800" channel="RTMK03">
+    <title lang="en">Infiniteen</title>
+    <desc lang="en">Sebuah rancangan bual bicara santai dan berinformasi yang memfokuskan minat dan perkembangan generasi muda dalam dunia digital.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703160000 +0800" stop="20210703170000 +0800" channel="RTMK03">
+    <title lang="en">Vasantham</title>
+    <desc lang="en">Membincangkan pelbagai topik mengenai ekonomi, kesihatan dan isu semasa.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703170000 +0800" stop="20210703173000 +0800" channel="RTMK03">
+    <title lang="en">Fuh...Beratur</title>
+    <desc lang="en">Hefny Sahad berada di Negeri Sembilan.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703173000 +0800" stop="20210703180000 +0800" channel="RTMK03">
+    <title lang="en">Refleksi Aktif</title>
+    <desc lang="en">Menampilkan Fariha Razak yang akan membawa kita mengenali pelbagai jenis aktivi sukan yang menarik.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703180000 +0800" stop="20210703183000 +0800" channel="RTMK03">
+    <title lang="en">Mumbai Ke London</title>
+    <desc lang="en">Menjelajah ke tempat-tempat menarik dari Mumbai ke London.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703183000 +0800" stop="20210703184500 +0800" channel="RTMK03">
+    <title lang="en">i Iban</title>
+    <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703184500 +0800" stop="20210703190000 +0800" channel="RTMK03">
     <title lang="en">i Dusun</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626190000 +0800" stop="20210626193000 +0800" channel="RTMK04">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626193000 +0800" stop="20210626200000 +0800" channel="RTMK04">
-    <title lang="en">Berita Tamil</title>
-    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20210703190000 +0800" stop="20210703193000 +0800" channel="RTMK03">
+    <title lang="en">Kembara 360</title>
+    <desc lang="en">Memaparkan perjalanan seorang jurufoto yang meneroka pelbagai tempat menarik.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626200000 +0800" stop="20210626210000 +0800" channel="RTMK04">
-    <title lang="en">Berita Perdana</title>
-    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20210703193000 +0800" stop="20210703200000 +0800" channel="RTMK03">
+    <title lang="en">3 Ke 5 Jerr</title>
+    <desc lang="en">Rancangan tempatan yang berkonsepkan percutian dengan bajet yang ditetapkan antara RM300 hingga RM500.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626210000 +0800" stop="20210626213000 +0800" channel="RTMK04">
-    <title lang="en">Covid Itu Benar</title>
-    <desc lang="en">Sakasikan rancangan khas Covid Itu Benar memaparkan fakta, menangkis pelbagai konspirasi dan kenyataan kewujudan pandemik Covid-19.</desc>
+  <programme start="20210703200000 +0800" stop="20210703203000 +0800" channel="RTMK03">
+    <title lang="en">Dapur Chef Zam</title>
+    <desc lang="en">Bersama Cef Zam yang akan memperkenalkan pelbagai resipi menarik dan lazat di dapur.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626213000 +0800" stop="20210626220000 +0800" channel="RTMK04">
-    <title lang="en">Bual Konti</title>
-    <desc lang="en">Bual bicara secara lansung tentang isu-isu semasa dari konti radio.</desc>
+  <programme start="20210703203000 +0800" stop="20210703210000 +0800" channel="RTMK03">
+    <title lang="en">O Inspired Living</title>
+    <desc lang="en">Bersama Jelisa Shanjana yang akan melihat pelbagai dekorasi menarik ruang tamu rumah.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626220000 +0800" stop="20210626223000 +0800" channel="RTMK04">
-    <title lang="en">News@10</title>
-    <desc lang="en">Saksikan Berita Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20210703210000 +0800" stop="20210703213000 +0800" channel="RTMK03">
+    <title lang="en">Glamper Girls</title>
+    <desc lang="en">Pengembaraan dua orang sahabat baik iaitu Liyana Jasmay dan Intan Ladyana ke seluruh Australia menggunakan Glamper Van.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626223000 +0800" stop="20210626230000 +0800" channel="RTMK04">
-    <title lang="en">Hello Asean</title>
-    <desc lang="en">Hello ASEAN adalah sebuah program majalah mengenai penjelajahan Vanessa Mering ke tempat-tempat menarik di seluruh ASEAN untuk meninjau cara kehidupan dan budaya komuniti setempat.</desc>
+  <programme start="20210703213000 +0800" stop="20210703220000 +0800" channel="RTMK03">
+    <title lang="en">Teh Antara Benua</title>
+    <desc lang="en">Sebuah rancangan travelog menarik untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626230000 +0800" stop="20210626233000 +0800" channel="RTMK04">
-    <title lang="en">Salah atau Tidak</title>
-    <desc lang="en">Salah Atau Tidak membongkar kekeliruan masyarakat mengenai perbuatan mereka sama ada melanggar undang-undang atau tidak daripada sudut pandang golongan profesional seperti pensyarah dan pakar perundangan. Episod kali ini mengenai aktiviti riadah di jalan raya bersama panel Presiden Persatuan Pengajar Memandu Malaysia, Tengku Ahmad Marwan Tengku Mahmud dan Peguam Nurzaki Mohd. Taib.</desc>
+  <programme start="20210703220000 +0800" stop="20210703223000 +0800" channel="RTMK03">
+    <title lang="en">Jom Pancing</title>
+    <desc lang="en">Haqiem bersama Cef Iwan berada di Taman Herba, Tasik Kenyir.Â.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626233000 +0800" stop="20210626235900 +0800" channel="RTMK04">
-    <title lang="en">Ensiklopedia Hujung Jari</title>
-    <desc lang="en">Bersama hos, Amin Idris mengupas mengenai Dasar Industri 4.0 dan masa hadapan industri berkenaan.</desc>
+  <programme start="20210703223000 +0800" stop="20210703230000 +0800" channel="RTMK03">
+    <title lang="en">Kaki Mendaki</title>
+    <desc lang="en">Terokai pelbagai jenis gunung pendakian yang mencabar bersama Sharifah Sofia sebagai pengacara.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703230000 +0800" stop="20210703233000 +0800" channel="RTMK03">
+    <title lang="en">Sayau Kopusan Borneo</title>
+    <desc lang="en">Memaparkan tentang bandar Semporna, Sabah.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703233000 +0800" stop="20210703235900 +0800" channel="RTMK03">
+    <title lang="en">Siaran Langsung : EURO 2020 (Winner 40 VS Winner 38)</title>
+    <desc lang="en">Saksikan siaran langsung EURO 2020 (Winner 40 VS Winner 38).</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -7298,233 +7011,303 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626003000 +0800" channel="RTMK05">
-    <title lang="en">Sukan Lejen</title>
-    <desc lang="en">Sebuah rancangan yang mengimbas kembali detik-detik kegemilangan atlet dan sukan Malaysia pada era 70-an sehingga kini.</desc>
+  <programme start="20210703000000 +0800" stop="20210703003000 +0800" channel="RTMK04">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626003000 +0800" stop="20210626013000 +0800" channel="RTMK05">
-    <title lang="en">Extreme E Race Highlights</title>
-    <desc lang="en">Saksikan imbasan menarik daripada pertandingan kelayakan Extreme E.</desc>
+  <programme start="20210703003000 +0800" stop="20210703010000 +0800" channel="RTMK04">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="RTMK05">
-    <title lang="en">Sports Max 2020</title>
-    <desc lang="en">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2020.</desc>
+  <programme start="20210703010000 +0800" stop="20210703013000 +0800" channel="RTMK04">
+    <title lang="en">Pastikan Sahih (Ulangan)</title>
+    <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral dalam media social.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="RTMK05">
-    <title lang="en">Sports Max 2020</title>
-    <desc lang="en">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2020.</desc>
+  <programme start="20210703013000 +0800" stop="20210703020000 +0800" channel="RTMK04">
+    <title lang="en">Destinasi Agung</title>
+    <desc lang="en">Bersama pengacara Alif AF, menjelajah ke 26 buah masjid secara backpackers di samping menceritkan mengenai sejarah penubuhan dan keunikan aktiviti yang dijalankan di masjid berkenaan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="RTMK05">
-    <title lang="en">Retro : Wira Sukan</title>
-    <desc lang="en">Sebuah rancangan santai bersama para atlet untuk mengenali mereka dari sisi yang belum pernah kita ketahui.</desc>
+  <programme start="20210703020000 +0800" stop="20210703023000 +0800" channel="RTMK04">
+    <title lang="en">Puisi Nusantara</title>
+    <desc lang="en">Bersama hos, Shafa Atussara Silahudin menjelajah seluruh Malaysia menjejak susur galur warisan Maulud Jawi.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626030000 +0800" stop="20210626033000 +0800" channel="RTMK05">
-    <title lang="en">Inovasi Prestasi</title>
-    <desc lang="en">Inovasi Prestasi sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
+  <programme start="20210703023000 +0800" stop="20210703030000 +0800" channel="RTMK04">
+    <title lang="en">Bicara Mawarith</title>
+    <desc lang="en">Hos, Imam Muda Asyraf bersama panel pensyarah Fiqh Universiti Kebangsaan Malaysia (UKM), Prof Madya Datuk Dr. Izhar Ariff dan Pakar Perancang Harta, Haji Ariffin Sabirin mengupas isu berkaitan pengurusan harta.  Episod kali ini mengenai Buta Faraid.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626033000 +0800" stop="20210626040000 +0800" channel="RTMK05">
-    <title lang="en">Laa Sak</title>
-    <desc lang="en">Sebuah rancangan dokumentari bersama Pablo Amirul dalam menjalankan aktiviti-aktiviti yang lasak.</desc>
+  <programme start="20210703030000 +0800" stop="20210703033000 +0800" channel="RTMK04">
+    <title lang="en">Kembara Damai</title>
+    <desc lang="en">Program travelog ke destinasi pelancongan yang menampilkan gaya hidup dan rutin gaya hidup masyarakat muslim negara Asean.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626040000 +0800" stop="20210626050000 +0800" channel="RTMK05">
-    <title lang="en">Highlights Formula E Race 2020</title>
-    <desc lang="en">Ikuti rangkuman aksi-aksi menarik dalam kejuaraan perlumbaan bermotor untuk kenderaan berkuasa elektrik  yang diiktiraf oleh Federation Internationale de lAutomobile (FIA).</desc>
+  <programme start="20210703033000 +0800" stop="20210703040000 +0800" channel="RTMK04">
+    <title lang="en">Ensiklopedia Hujung Jari</title>
+    <desc lang="en">Bersama hos, Amin Idris mengupas mengenai Dasar Industri 4.0 dan masa hadapan industri berkenaan.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626050000 +0800" stop="20210626053000 +0800" channel="RTMK05">
-    <title lang="en">Body And Soul</title>
-    <desc lang="en">Paparan gaya hidup sihat yang memberi tumpuan kepada panduan penjagaan kesihatan dan gaya hidup sihat untuk seisi keluarga.  Episod kali ini akan berkongsi beberapa teknik mudah bagi mereka yang menghadapi masalah cuba mengekalkan senaman di rumah mengikut jadual, perkongsian menu sihat iaitu Salad Nicoise dan perbincangan tentang topik sembelit yang boleh menyebabkan masalah kesihatan serius jika ia berpanjangan dan beberapa petua semulajadi dan gaya hidup sebagai pencegahan.</desc>
+  <programme start="20210703040000 +0800" stop="20210703043000 +0800" channel="RTMK04">
+    <title lang="en">Salah atau Tidak</title>
+    <desc lang="en">Salah Atau Tidak membongkar kekeliruan masyarakat mengenai perbuatan mereka sama ada melanggar undang-undang atau tidak daripada sudut pandang golongan profesional seperti pensyarah dan pakar perundangan. Episod kali ini mengenai aktiviti riadah di jalan raya bersama panel Presiden Persatuan Pengajar Memandu Malaysia, Tengku Ahmad Marwan Tengku Mahmud dan Peguam Nurzaki Mohd. Taib.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626053000 +0800" stop="20210626060000 +0800" channel="RTMK05">
-    <title lang="en">Cergas Dan Sihat</title>
-    <desc lang="en">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat.</desc>
+  <programme start="20210703043000 +0800" stop="20210703050000 +0800" channel="RTMK04">
+    <title lang="en">Psikosis</title>
+    <desc lang="en">Psikosis adalah sebuah rancangan yang memaparkan kisah-kisah, pengalaman dan rawatan tentang pelbagai penyakit mental bersama hos Aiman Amri. Psikosis pada minggu ini memaparkan tentang Subtance Abuse.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626060000 +0800" stop="20210626063000 +0800" channel="RTMK05">
-    <title lang="en">Kapsul RTM Sports</title>
-    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+  <programme start="20210703050000 +0800" stop="20210703053000 +0800" channel="RTMK04">
+    <title lang="en">Teknologi Nano</title>
+    <desc lang="en">Teknologi Nano sebuah dokumentari yang memaparkan manfaat teknologi berkenaan dalam pelbagai bidang.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626063000 +0800" stop="20210626070000 +0800" channel="RTMK05">
-    <title lang="en">Body And Soul</title>
-    <desc lang="en">Paparan gaya hidup sihat yang memberi tumpuan kepada panduan penjagaan kesihatan dan gaya hidup sihat untuk seisi keluarga.  Episod kali ini akan berkongsi fakta menarik tentang bagaimana berjalan boleh memberi manfaat kepada kesihatan dan menunjukkan beberapa petua bagaimana memulakan dan mempelajari teknik yang betul untuk mencapai faedah yang maksima. Seterusnya perkongsian menu sihat iaitu Light Char Koay Teow dan perbincangan tentang masalah pada gigi kuning dan cara mengelakkannya.</desc>
+  <programme start="20210703053000 +0800" stop="20210703060000 +0800" channel="RTMK04">
+    <title lang="en">Notes From Nature</title>
+    <desc lang="en">Bersama hos, Mat Dan dalam Notes From Nature membawa anda menyaksikan keindahan alam dan pembangunan teknologi hijau.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626070000 +0800" stop="20210626073000 +0800" channel="RTMK05">
-    <title lang="en">Cergas Dan Sihat</title>
-    <desc lang="en">Program majalah kesihatan memaparkan ketabahan individu obesiti menuju ke arah rutin kehidupan sihat.</desc>
+  <programme start="20210703060000 +0800" stop="20210703063000 +0800" channel="RTMK04">
+    <title lang="en">Rencah Hidup</title>
+    <desc lang="en">Rencah Hidup membawakan kisah keinsafan dari insan-insan yang pernah melakukan kesalahan. Episod ini memaparkan kisah insan yang terlibat dengan kes Pembuangan Bayi.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626073000 +0800" stop="20210626080000 +0800" channel="RTMK05">
-    <title lang="en">Sihat Cantik dan Menawan</title>
-    <desc lang="en">Sihat, Cantik &amp; Menawan sebuah program yang menawarkan pelbagai tip berkaitan kecantikan dan kesihatan.</desc>
+  <programme start="20210703063000 +0800" stop="20210703070000 +0800" channel="RTMK04">
+    <title lang="en">Dimensi Cergas</title>
+    <desc lang="en">Dimensi Cergas memaparkan kaedah melakukan senaman yang betul dan impaknya terhadap tubuh manusia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626080000 +0800" stop="20210626083000 +0800" channel="RTMK05">
-    <title lang="en">Sports Max 2020</title>
-    <desc lang="en">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2020.</desc>
+  <programme start="20210703070000 +0800" stop="20210703073000 +0800" channel="RTMK04">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626083000 +0800" stop="20210626090000 +0800" channel="RTMK05">
-    <title lang="en">Sports Max 2020</title>
-    <desc lang="en">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2020.</desc>
+  <programme start="20210703073000 +0800" stop="20210703074500 +0800" channel="RTMK04">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626090000 +0800" stop="20210626093000 +0800" channel="RTMK05">
-    <title lang="en">Gym In School</title>
-    <desc lang="en">Rancangan majalah ini memaparkan amalan senaman asas yang perlu dititikberatkan, mengenali personaliti sukan tempatan dan panduan  daripada pakar makanan tentang pemakanan yang sihat dan seimbang. Pengacara: Azlan Iskandar dan Muhammad Ikram.</desc>
+  <programme start="20210703074500 +0800" stop="20210703080000 +0800" channel="RTMK04">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626093000 +0800" stop="20210626100000 +0800" channel="RTMK05">
-    <title lang="en">Highlights EURO 2020</title>
-    <desc lang="en">Saksikan sorotan daripada aksi-aksi menarik daripada perlawanan EURO 2020.</desc>
+  <programme start="20210703080000 +0800" stop="20210703110000 +0800" channel="RTMK04">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626100000 +0800" stop="20210626103000 +0800" channel="RTMK05">
-    <title lang="en">Inovasi Prestasi</title>
-    <desc lang="en">Inovasi Prestasi sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
+  <programme start="20210703110000 +0800" stop="20210703120000 +0800" channel="RTMK04">
+    <title lang="en">Pesona XY</title>
+    <desc lang="en">Program bual bicara kekeluargaan untuk tontonan anda.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626103000 +0800" stop="20210626113000 +0800" channel="RTMK05">
-    <title lang="en">Highlights Formula E Race 2020</title>
-    <desc lang="en">Ikuti rangkuman aksi-aksi menarik dalam kejuaraan perlumbaan bermotor untuk kenderaan berkuasa elektrik  yang diiktiraf oleh Federation Internationale de lAutomobile (FIA).</desc>
+  <programme start="20210703120000 +0800" stop="20210703123000 +0800" channel="RTMK04">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210703123000 +0800" stop="20210703130000 +0800" channel="RTMK04">
+    <title lang="en">Update@Noon</title>
+    <desc lang="en">Saksikan berita bahasa Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626113000 +0800" stop="20210626120000 +0800" channel="RTMK05">
-    <title lang="en">Laa Sak</title>
-    <desc lang="en">Sebuah rancangan dokumentari bersama Pablo Amirul dalam menjalankan aktiviti-aktiviti yang lasak.</desc>
+  <programme start="20210703130000 +0800" stop="20210703133000 +0800" channel="RTMK04">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626120000 +0800" stop="20210626123000 +0800" channel="RTMK05">
-    <title lang="en">Demi Malaysia Mentari Tokyo</title>
-    <desc lang="en">Saksikan persiapan atlet-atlet Malaysia menuju ke Sukan Olimpik Tokyo 2020.</desc>
+  <programme start="20210703133000 +0800" stop="20210703140000 +0800" channel="RTMK04">
+    <title lang="en">CEO NEO</title>
+    <desc lang="en">CEO Neo memaparkan tanggungjawab Ketua Pegawai Eksekutif (CEO) muda mendepani cabaran menguruskan perniagaan dan syarikat masing-masing.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626123000 +0800" stop="20210626130000 +0800" channel="RTMK05">
-    <title lang="en">One Weekly 2021</title>
-    <desc lang="en">Bersama para peserta hebat One Championship 2021 yang menceritakan pengalaman mereka sebelum dan selepas perlawanan.</desc>
+  <programme start="20210703140000 +0800" stop="20210703141500 +0800" channel="RTMK04">
+    <title lang="en">i- Bajau</title>
+    <desc lang="en">Berita menarik  dalam bahasa Bajau.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626130000 +0800" stop="20210626133000 +0800" channel="RTMK05">
-    <title lang="en">Aspirasi Cub Prix 2021</title>
-    <desc lang="en">Saksikan paparan imbasan semula perjalanan kejuaraan Cub Prix musim lalu yang telah berlangsung melibatkan beberapa kategori pertandingan.</desc>
+  <programme start="20210703141500 +0800" stop="20210703143000 +0800" channel="RTMK04">
+    <title lang="en">Ethnogenesis</title>
+    <desc lang="en">Etnogenesis membongkar identiti etnik masyarakat asal di sekitar Tanah Melayu dan Kepulauan Borneo dalam setiap episod. Episod kali ini mengenai etnik Kimaragang di Sabah.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626133000 +0800" stop="20210626140000 +0800" channel="RTMK05">
-    <title lang="en">Retro : 3 2 1 Mula</title>
-    <desc lang="en">Saksikan paparan menarik, rangkuman sukan rakyat dan sukan lasak.</desc>
+  <programme start="20210703143000 +0800" stop="20210703150000 +0800" channel="RTMK04">
+    <title lang="en">Misi Podium</title>
+    <desc lang="en">Misi Podium membincangkan pelbagai aspek berkaitan pembangunan dan kemampuan atlet negara dalam misi merangkul gelaran juara.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626140000 +0800" stop="20210626150000 +0800" channel="RTMK05">
-    <title lang="en">Interaktif Sukan 2021</title>
-    <desc lang="en">Program Realiti Interaktif untuk mencungkil bakat baru dalam bidang pengulasan sukan bersama Ninie Ibrahim.</desc>
+  <programme start="20210703150000 +0800" stop="20210703160000 +0800" channel="RTMK04">
+    <title lang="en">Vasantham</title>
+    <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan  di studio.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626150000 +0800" stop="20210626153000 +0800" channel="RTMK05">
-    <title lang="en">Idola Bintang</title>
-    <desc lang="en">Kenali dan ikuti perjalanan atlet-atlet Malaysia yang telah mengharumkan nama negara dalam Idola Bintang.</desc>
+  <programme start="20210703160000 +0800" stop="20210703163000 +0800" channel="RTMK04">
+    <title lang="en">Titian Warisan</title>
+    <desc lang="en">Sebuah program yang memaparkan sejarah di setiap negeri di negara ini.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626153000 +0800" stop="20210626180000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Ulangan : Extreme E Round 2 - Ocean X-Prix (Lac, Rose Senegal)</title>
-    <desc lang="en">Ikuti kembali Extreme E Round 2 Ocean X-Prix (Lac, Rose Senegal).</desc>
+  <programme start="20210703163000 +0800" stop="20210703170000 +0800" channel="RTMK04">
+    <title lang="en">Lensa IPT</title>
+    <desc lang="en">Program yang memaparkan perkembangan semasa dunia Institusi Pengajian Tinggi Awam (IPTA) di Malaysia.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="RTMK05">
-    <title lang="en">GP Confidential</title>
-    <desc lang="en">Memaparkan sisi unik dunia Formula 1. Memfokuskan kemajuan aspek teknikal pasukan F1 untuk disesuaikan dalam setiap litar perlumbaan yang mereka lalui. Turut diselitkan detik-detik bersejarah sukan F1 yang mencorak arena perlumbaan  F1 pada waktu kini.</desc>
+  <programme start="20210703170000 +0800" stop="20210703180000 +0800" channel="RTMK04">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626183000 +0800" stop="20210626220000 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : Moto GP 2021 Motul TT Assen, Netherlands - Qualifying</title>
-    <desc lang="en">Ikuti siaran langsung perlumbaan Moto GP 2021 Motul  TT Assen, Netherlands peringkat kelayakan.</desc>
+  <programme start="20210703180000 +0800" stop="20210703181500 +0800" channel="RTMK04">
+    <title lang="en">Digital Preneur</title>
+    <desc lang="en">Setiap episod membawakan kisah berbeza anak tempatan yang menjana pendapatan menerusi platform digital. Episod kali ini bersama Pereka Grafik, Nur Akmal Sulaiman.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626220000 +0800" stop="20210626223000 +0800" channel="RTMK05">
-    <title lang="en">Demi Malaysia Mentari Tokyo</title>
-    <desc lang="en">Saksikan persiapan atlet-atlet Malaysia menuju ke Sukan Olimpik Tokyo 2020.</desc>
+  <programme start="20210703181500 +0800" stop="20210703183000 +0800" channel="RTMK04">
+    <title lang="en">Digital Preneur</title>
+    <desc lang="en">Setiap episod membawakan kisah berbeza anak tempatan yang menjana pendapatan menerusi platform digital. Episod kali ini bersama Pereka Laman Web, Ismail Abd. Malek.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626223000 +0800" stop="20210626233000 +0800" channel="RTMK05">
-    <title lang="en">Planet Sukan 2021</title>
-    <desc lang="en">Sebuah rancangan bual bicara yang membincangkan mengenai perkembangan semasa sukan tanah air dan antarabangsa.</desc>
+  <programme start="20210703183000 +0800" stop="20210703184500 +0800" channel="RTMK04">
+    <title lang="en">i Iban</title>
+    <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
     <rating>
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626233000 +0800" stop="20210626235900 +0800" channel="RTMK05">
-    <title lang="en">Siaran Langsung : EURO 2020 (Wales VS Denmark)</title>
-    <desc lang="en">ikuti siaran langsung perlawanan bola sepak EURO 2020 antara  Wales menentang Denmark.</desc>
+  <programme start="20210703184500 +0800" stop="20210703190000 +0800" channel="RTMK04">
+    <title lang="en">i Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703190000 +0800" stop="20210703193000 +0800" channel="RTMK04">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210703193000 +0800" stop="20210703200000 +0800" channel="RTMK04">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703200000 +0800" stop="20210703210000 +0800" channel="RTMK04">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703210000 +0800" stop="20210703213000 +0800" channel="RTMK04">
+    <title lang="en">Covid Itu Benar</title>
+    <desc lang="en">Sakasikan rancangan khas Covid Itu Benar memaparkan fakta, menangkis pelbagai konspirasi dan kenyataan kewujudan pandemik Covid-19.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703213000 +0800" stop="20210703220000 +0800" channel="RTMK04">
+    <title lang="en">Bual Konti</title>
+    <desc lang="en">Bual bicara secara lansung tentang isu-isu semasa dari konti radio.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703220000 +0800" stop="20210703223000 +0800" channel="RTMK04">
+    <title lang="en">News@10</title>
+    <desc lang="en">Saksikan Berita Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703223000 +0800" stop="20210703230000 +0800" channel="RTMK04">
+    <title lang="en">Hello Asean</title>
+    <desc lang="en">Hello ASEAN adalah sebuah program majalah mengenai penjelajahan Vanessa Mering ke tempat-tempat menarik di seluruh ASEAN untuk meninjau cara kehidupan dan budaya komuniti setempat.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703230000 +0800" stop="20210703233000 +0800" channel="RTMK04">
+    <title lang="en">Salah atau Tidak</title>
+    <desc lang="en">Salah Atau Tidak membongkar kekeliruan masyarakat mengenai perbuatan mereka sama ada melanggar undang-undang atau tidak daripada sudut pandang golongan profesional seperti pensyarah dan pakar perundangan. Episod kali ini mengenai aktiviti riadah di jalan raya bersama panel Presiden Persatuan Pengajar Memandu Malaysia, Tengku Ahmad Marwan Tengku Mahmud dan Peguam Nurzaki Mohd. Taib.</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210703233000 +0800" stop="20210703235900 +0800" channel="RTMK04">
+    <title lang="en">Ensiklopedia Hujung Jari</title>
+    <desc lang="en">Bersama hos, Amin Idris mengupas mengenai Dasar Industri 4.0 dan masa hadapan industri berkenaan.</desc>
     <rating>
       <value>U</value>
     </rating>
@@ -8754,13 +8537,6 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626235900 +0800" channel="RTMK06">
-    <title lang="en">TV6</title>
-    <desc lang="en">Rancangan menarik untuk tontonan seisi keluarga.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20210627000000 +0800" stop="20210627235900 +0800" channel="RTMK06">
     <title lang="en">TV6</title>
     <desc lang="en">Rancangan menarik untuk tontonan seisi keluarga.</desc>
@@ -8803,13 +8579,6 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626000000 +0800" stop="20210626235900 +0800" channel="RTMK07">
-    <title lang="en">Sidang Parlimen ke-14</title>
-    <desc lang="en">Dewan tidak bersidang. Akan kembali pada tarikh yang akan ditetapkan.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20210627000000 +0800" stop="20210627235900 +0800" channel="RTMK07">
     <title lang="en">Sidang Parlimen ke-14</title>
     <desc lang="en">Dewan tidak bersidang. Akan kembali pada tarikh yang akan ditetapkan.</desc>
@@ -8846,13 +8615,6 @@
     </rating>
   </programme>
   <programme start="20210702000000 +0800" stop="20210702235900 +0800" channel="RTMK07">
-    <title lang="en">Sidang Parlimen ke-14</title>
-    <desc lang="en">Dewan tidak bersidang. Akan kembali pada tarikh yang akan ditetapkan.</desc>
-    <rating>
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20210626000000 +0800" stop="20210626235900 +0800" channel="RTMK08">
     <title lang="en">Sidang Parlimen ke-14</title>
     <desc lang="en">Dewan tidak bersidang. Akan kembali pada tarikh yang akan ditetapkan.</desc>
     <rating>
