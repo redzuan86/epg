@@ -1,27 +1,8 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
-## Update (26/6/2021)
-Migration to Raspberry Pi. EPG will update as usual starting from tomorrow.
-
-Due to illegal characters on the address of unifi PlayTV (colon in playtv.unifi.com.my:7052 - cookies file can't be written), unifi TV EPG Update will not be available until tomorrow, after I finished migrating everything to my Raspberry Pi.
 
 ## Currently encountered problems
-unifi TV EPG only shows these channels
- - TV1
-
- - TV2
-
- - FOX Movies
-
- - FOX Family Movies
-
- - FOX Action Movies
-
- - Sky News
-
- - Al Jazeera
-
-  Other channels will show "Channel Information Not Available". I'm investigating into this issue.
+No problems.
 
 ## Solved problems
 - HITZ FM EPG Unavailable.
@@ -29,6 +10,17 @@ unifi TV EPG only shows these channels
   - Now using SiteIni by aa6my ([See here](https://github.com/weareblahs/epg/issues/2#issuecomment-841613022)), most of the channels that returned "String was not recognized as a valid DateTime" are fixed. All of the EPG data should be working now.
 - Some channels unavailable on Astro.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
+- unifi TV EPG only shows these channels
+  - TV1
+  - TV2
+  - FOX Movies
+  - FOX Family Movies
+  - FOX Action Movies
+  - Sky News
+  - Al Jazeera
+  - Other channels will show "Channel Information Not Available". I'm investigating into this issue.
+    - Fixed: unifi TV EPG should be back to normal now.
+
 
 ## Auto-update bot information
 The auto-update process will run daily.
