@@ -1,7 +1,23 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
 ## Currently encountered problems
-No Problems.
+unifi TV EPG only shows these channels
+ - TV1
+
+ - TV2
+
+ - FOX Movies
+
+ - FOX Family Movies
+
+ - FOX Action Movies
+
+ - Sky News
+
+ - Al Jazeera
+
+  Other channels will show "Channel Information Not Available". I'm investigating into this issue.
+
 ## Solved problems
 - HITZ FM EPG Unavailable.
 - BBC World News HD (String was not recognized as a valid DateTime)
