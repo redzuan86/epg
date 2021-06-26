@@ -2,6 +2,9 @@
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
 ## Update (26/6/2021)
 Migration to Raspberry Pi. EPG will update as usual starting from tomorrow.
+
+Due to illegal characters on the address of unifi PlayTV (colon in playtv.unifi.com.my:7052 - cookies file can't be written), unifi TV EPG Update will not be available until tomorrow, after I finished migrating everything to my Raspberry Pi.
+
 ## Currently encountered problems
 unifi TV EPG only shows these channels
  - TV1
