@@ -1,5 +1,7 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
+## Update (26/6/2021)
+Migration to Raspberry Pi. EPG will update as usual starting from tomorrow.
 ## Currently encountered problems
 unifi TV EPG only shows these channels
  - TV1

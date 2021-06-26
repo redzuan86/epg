@@ -1,1 +1,3414 @@
-﻿
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CHN">
+    <display-name lang="en">Not Available</display-name>
+  </channel>
+  <channel id="TV1">
+    <display-name lang="en">TV1</display-name>
+    <url>http://www.myklik.rtm.gov.my</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="en">TV2</display-name>
+    <url>http://www.myklik.rtm.gov.my</url>
+  </channel>
+  <channel id="103">
+    <display-name lang="zh">TV3</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" />
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="107">
+    <display-name lang="zh">NTV7</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073016510hja.png" />
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="108">
+    <display-name lang="zh">8TV</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" />
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="109">
+    <display-name lang="zh">TV9</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" />
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="113">
+    <display-name lang="zh">Salam HD</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" />
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="114">
+    <display-name lang="zh">TV AlHijrah HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="116">
+    <display-name lang="zh">HyppSensasi HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="118">
+    <display-name lang="zh">HyppInspirasi HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="128">
+    <display-name lang="zh">Dunia Sinema HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="141">
+    <display-name lang="zh">Pesona HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="151">
+    <display-name lang="zh">LAKU mall </display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="201">
+    <display-name lang="zh">tvN Movies HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="211">
+    <display-name lang="zh">tvN HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="226">
+    <display-name lang="zh">SCM Legend HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="228">
+    <display-name lang="zh">SCM HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="232">
+    <display-name lang="zh">STAR Chinese Channel HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="233">
+    <display-name lang="zh">Now Jelli HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="209">
+    <display-name lang="zh">SETI</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="301">
+    <display-name lang="zh"> Yupp Thirai HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="311">
+    <display-name lang="zh">Colors Tamil HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="312">
+    <display-name lang="zh">Polimer</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="313">
+    <display-name lang="zh">Jaya Max</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="331">
+    <display-name lang="zh">Sony Max</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="333">
+    <display-name lang="zh">Colors Cineplex</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="341">
+    <display-name lang="zh">Colors</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="342">
+    <display-name lang="zh">Sony SAB</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="343">
+    <display-name lang="zh">Sony SET</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="401">
+    <display-name lang="en">FOX Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="402">
+    <display-name lang="en">FOX Family Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="403">
+    <display-name lang="en">FOX Action Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="408">
+    <display-name lang="zh">Paramount HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="411">
+    <display-name lang="zh">CinemaWorld HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="451">
+    <display-name lang="zh">Warner TV HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="453">
+    <display-name lang="zh">FOX</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="454">
+    <display-name lang="zh">FX</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="455">
+    <display-name lang="zh">FOX Life</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="473">
+    <display-name lang="zh">Blue Ant Entertainment</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="474">
+    <display-name lang="zh">Blue Ant Extreme</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="501">
+    <display-name lang="zh">BBC Earth HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="502">
+    <display-name lang="zh">Love Nature HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="508">
+    <display-name lang="zh">National Geographic</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="509">
+    <display-name lang="zh">Nat Geo Wild</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="511">
+    <display-name lang="zh">Nat Geo People HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="512">
+    <display-name lang="zh">BBC Lifestyle HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="529">
+    <display-name lang="zh">Luxe.TV HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="531">
+    <display-name lang="zh">MTV Asia</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="550">
+    <display-name lang="zh">Dreamworks HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="552">
+    <display-name lang="zh">Nick Jr.</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="553">
+    <display-name lang="zh">CBeebies HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="554">
+    <display-name lang="zh">Nickelodeon</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="555">
+    <display-name lang="zh">Boomerang HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="601">
+    <display-name lang="zh">BBC World News HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="602">
+    <display-name lang="en">Al Jazeera English HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="603">
+    <display-name lang="en">Sky News HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="611">
+    <display-name lang="zh">Channel NewsAsia</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="612">
+    <display-name lang="zh">Euronews</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="633">
+    <display-name lang="zh">Parlimen Malaysia</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="641">
+    <display-name lang="zh">ABC Australia</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="642">
+    <display-name lang="zh">DW</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="643">
+    <display-name lang="zh">NHK WORLD-JAPAN</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="652">
+    <display-name lang="zh">France 24</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="701">
+    <display-name lang="zh">unifi Sports 1</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="702">
+    <display-name lang="zh">unifi Sports 2</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="703">
+    <display-name lang="zh">unifi Sports 3</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="704">
+    <display-name lang="zh">unifi Sports 4</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="705">
+    <display-name lang="zh">unifi Sports 5</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="706">
+    <display-name lang="zh">FOX Sports HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="707">
+    <display-name lang="zh">FOX Sports 2 HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <channel id="708">
+    <display-name lang="zh">FOX Sports 3 HD</display-name>
+    <url>http://www.unifi_zh.com.my</url>
+  </channel>
+  <programme start="20210626000000 +0000" stop="20210626235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210627000000 +0000" stop="20210627235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210628000000 +0000" stop="20210628235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210629000000 +0000" stop="20210629235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210630000000 +0000" stop="20210630235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210701000000 +0000" stop="20210701235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210702000000 +0000" stop="20210702235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210703000000 +0000" stop="20210703235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210704000000 +0000" stop="20210704235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210705000000 +0000" stop="20210705235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210706000000 +0000" stop="20210706235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210707000000 +0000" stop="20210707235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210708000000 +0000" stop="20210708235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210709000000 +0000" stop="20210709235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210710000000 +0000" stop="20210710235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20210626000000 +0800" stop="20210626003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626003000 +0800" stop="20210626004500 +0800" channel="TV1">
+    <title lang="en">Khutbah Jumaat 26 Jun 2021</title>
+    <desc lang="en">Ikuti Khutbah Jumaat yang bertajuk Bijak Memanfaat Peluang yang disampaikan oleh Haji Nor Azamir Haji Alias dari Masjid Tuanku Mizan Zainal Abidin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626004500 +0800" stop="20210626010000 +0800" channel="TV1">
+    <title lang="en">Sfera</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626010000 +0800" stop="20210626013000 +0800" channel="TV1">
+    <title lang="en">Al Mulk Nusantara</title>
+    <desc lang="en">Kembali ke masa lampau dan saksikan kehebatan kerajaan Melayu lama seperti Melaka, Acheh dan Pasai di seluruh Nusantara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="TV1">
+    <title lang="en">Mukjizat Dan Sains</title>
+    <desc lang="en">Menghayati tajuk Lautan, Ombak Dan Sungai dalam Mukjizat dan Sains.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="TV1">
+    <title lang="en">Aksi Ikan Malaysia</title>
+    <desc lang="en">Saksikan kehebatan kru aksi ikan Malaysia memancing di Lubuk Pulai (Api Boreng) yang terletak di Kuala Besut, Terengganu.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="TV1">
+    <title lang="en">Destinasi Hikmah Bersama Omar Mokhtar</title>
+    <desc lang="en">Omar berkunjung ke Teluk Intan, Perak dan memilih Hotel Merge Summit yang berkonsepkan hotel butik klasik sebagai tempat penginapannya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626030000 +0800" stop="20210626033000 +0800" channel="TV1">
+    <title lang="en">Simfoni Alam 26 Jun 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang kerakusan manusia dan juga faktor pemanasan global merupakan antara penyumbang kepada terjejasnya hidupan marin yang unik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626033000 +0800" stop="20210626043000 +0800" channel="TV1">
+    <title lang="en">Bicara DR (26 Jun 2021)</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang VAKSINASI COVID-19: KEPENTINGAN KEPADA WARGA EMAS bersama YTM Dato' Dr Tunku Muzafar Shah Tunku Jaafar (Pakar Perunding Kanan &amp; Ketua Unit Geriatrik Hospital Selayang).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626043000 +0800" stop="20210626050000 +0800" channel="TV1">
+    <title lang="en">Tahiyyatul Masjid</title>
+    <desc lang="en">Bersama Narzul Izwan Zolkiflee menikmati keunikan senibina Masjid Kampung Laut yang terletak di Negeri Kelantan dan menyaksikan sendiri kesungguhan Warga Kolej Islam Antarabangsa Sultan Ismail Petra yang sentiasa mengimarahkan Masjid ini.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626050000 +0800" stop="20210626053000 +0800" channel="TV1">
+    <title lang="en">Singgah Sini</title>
+    <desc lang="en">Saksikan Arja Lee berkongsi tentang inap desa yang menarik serta unik juga keindahan dan aktiviti yang boleh dilakukan di Lost World of Tambun dan Soham Valley Resort, Kampar Lost World of Tambun di Tambun, Perak.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626053000 +0800" stop="20210626060000 +0800" channel="TV1">
+    <title lang="en">Misi Dania Cun</title>
+    <desc lang="en">Misi Dania membawa Dr. Dani berjumpa dengan mama dan papanya, tapi boleh ke Dr. Dani kawal sikapnya yang kelam kabut tu? Akibat tertekan Tasya mahu bunuh diri!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626060000 +0800" stop="20210626070000 +0800" channel="TV1">
+    <title lang="en">My Halal 26 Jun 2021</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang KORBAN : DULU LAIN SEKARANG LAIN bersama Ustaz Hj. Mohd Amri Abdullah (Pengacara/Penganalisis Halal) serta Panel Undangan, Dr Mohammad Razli Abdul Razak, Datuk Haji Mohd Ajib Ismail dan Ustaz Haslin Baharim.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626070000 +0800" stop="20210626071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626071000 +0800" stop="20210626080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah As-Saf bersama pengacara Wasiril Aswad serta tetamu undangan, Ustaz Mohd Radhi Abdul Ghani (Imam Masjid Tunku Mizan Zainal Abidin, Putrajaya) dan Qari jemputan, Husaini Mahmur.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626080000 +0800" stop="20210626110000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626110000 +0800" stop="20210626120000 +0800" channel="TV1">
+    <title lang="en">Pesona XY 26 Jun 2021</title>
+    <desc lang="en">Bersama Hafez Dolson, Zahira Radzi serta tetamu undangan, Datuk Saidatu Akhma Hassan, Timbalan Ketua Pengarah Penyiaran (Strategik), Jabatan Penyiaran Malaysia dan Dr. Nik Norma Nik Hassan (Pensyarah Kanan, Pusat Pengajian Komunikasi, Universiti Sains Malaysia).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626120000 +0800" stop="20210626130000 +0800" channel="TV1">
+    <title lang="en">SELEKSI WIDURI : Dilema Wanita</title>
+    <desc lang="en">Sarah seorang wanita yang baik dan sering membantu kawan dan keluarganya mula mengenali Iskandar. Sarah mula menyayangi Iskandar dan hubungan mereka bertambah rapat. Iskandar berjanji akan berkahwin dengan Sarah dan mengajak Sarah melaburkan modal dalam projek hotelnya di sebuah pulau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626130000 +0800" stop="20210626133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626133000 +0800" stop="20210626134000 +0800" channel="TV1">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Saksikan paparan lanjut tentang 'AMARAH JELATA'.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626134000 +0800" stop="20210626140000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626140000 +0800" stop="20210626143000 +0800" channel="TV1">
+    <title lang="en">Memo Cergas</title>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi teknik-teknik senaman Tabata &amp; menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626143000 +0800" stop="20210626150000 +0800" channel="TV1">
+    <title lang="en">Sinei Kita Tok 26 Jun 2021</title>
+    <desc lang="en">Bersama Azam Pitt yang berada di Kampung Bukit Luba, Limbang untuk keindahan panoramanya serta mengenali budaya masyarakat Kedayan di sana.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626150000 +0800" stop="20210626170000 +0800" channel="TV1">
+    <title lang="en">MEMORI: Cinta Kapcai</title>
+    <desc lang="en">Awin berperwatakan kasar,pekerja baru di Syarikat Dato' Amran sebagai Despatch. Bos Awin, En Hassan sangat baik dengannya. Roslan pula anak kepada Dato' Amran bekerja bersama Awin dan suka membulinya dengan menghantar surat-surat ikut masa yang ditetapnya. Awin kemalangan motor semasa menghantar surat-surat!  Apakah seterusnya yang terjadi kepada Awin?(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626170000 +0800" stop="20210626180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="TV1">
+    <title lang="en">Bajet Bijak Belanja</title>
+    <desc lang="en">Bersama pengacara Munarwar Azmi berkongsi topik mengenai Pengurusan Hutang.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626183000 +0800" stop="20210626190000 +0800" channel="TV1">
+    <title lang="en">Nasyid Minggu Ini</title>
+    <desc lang="en">Saksikan perkembangan terkini Azmi Saat bersama pengacara Mohd Shoem Sairi serta klip video pilihan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626190000 +0800" stop="20210626200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Saksikan BORAK DULU Sampai Menang #MenangBersama tentang topik REZEKI ORANG, LAIN TAKDIRNYA bersama Amin Idris, Khir Rahman serta Panel Undangan, Mohamed Zambri Mohamed (Setiausaha Agung Persatuan Penjaja &amp; Peniaga Kecil Melayu Malaysia), Azad Jasmin, Azrin Mohamad Zawawi dan Nur Shareen Mohd Zaini.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626200000 +0800" stop="20210626210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626210000 +0800" stop="20210626213000 +0800" channel="TV1">
+    <title lang="en">Covid Itu Benar</title>
+    <desc lang="en">Saksikan dari dekat pengurusan uri pasca kehamilan ibu dijangkiti, menyingkap kisah benar di balik kawat duri PKPD, selain mengetengahkan realiti wira-wira tak didendang di medan juang memerangi pandemik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626213000 +0800" stop="20210626230000 +0800" channel="TV1">
+    <title lang="en">PANGGUNG RTM: Hijrah Cinta</title>
+    <desc lang="en">Erni merupakan pemilik sebuah Restoran. Walaupun, penampilannya agak kasar dan brutal, tanggungjawab kepada agama dan Allah tidak pernah diabaikan. Shahid pula seorang Ustaz di sebuah Masjid yang baru sahaja kecewa akibat kekasihnya telahpun berkahwin. Namun, pertemuan Shahid dan Erni di Masjid telah menimbulkan pelbagai konflik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626230000 +0800" stop="20210626235900 +0800" channel="TV1">
+    <title lang="en">Opah</title>
+    <desc lang="en">Saksikan kisah KABUS DI HATI.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627000000 +0800" stop="20210627003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627003000 +0800" stop="20210627013000 +0800" channel="TV1">
+    <title lang="en">SELEKSI WIDURI : Dilema Wanita</title>
+    <desc lang="en">Sarah seorang wanita yang baik dan sering membantu kawan dan keluarganya mula mengenali Iskandar. Sarah mula menyayangi Iskandar dan hubungan mereka bertambah rapat. Iskandar berjanji akan berkahwin dengan Sarah dan mengajak Sarah melaburkan modal dalam projek hotelnya di sebuah pulau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627013000 +0800" stop="20210627020000 +0800" channel="TV1">
+    <title lang="en">Memo Cergas</title>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi teknik-teknik senaman Tabata &amp; menu Roti Telur Ala Perancis serta dapatkan tip kesihatan daripada pelakon cantik, Dynaz Mokhtar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627020000 +0800" stop="20210627023000 +0800" channel="TV1">
+    <title lang="en">Nasyid Minggu Ini</title>
+    <desc lang="en">Saksikan perkembangan terkini Azmi Saat bersama pengacara Mohd Shoem Sairi serta klip video pilihan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627023000 +0800" stop="20210627051500 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : EURO 2020 (A1 VS 2C)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 pusingan Ke-16, ITALI lawan AUSTRIA.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627051500 +0800" stop="20210627053000 +0800" channel="TV1">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Saksikan mini dokumentari tentang DATANG TAK DIUNDANG.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627053000 +0800" stop="20210627060000 +0800" channel="TV1">
+    <title lang="en">Misi Dania Cun</title>
+    <desc lang="en">Marah sungguh Iliya dengan Pakcik Kasim. Cerewet sangat bila diminta buat pemeriksaan kesihatan, tapi kalau dengan Misi Dania senang sahaja dia berurusan. Misi Dania dapat cek bernilai 10 ribu?!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627060000 +0800" stop="20210627070000 +0800" channel="TV1">
+    <title lang="en">Tilawah Interaktif 27 Jun 2021</title>
+    <desc lang="en">Perdengarkan bacaan surah Al-Qamar, Ayat 17-21 dengan bacaan Tarannum : HIJAZ bersama pengacara, Nur Ashikin Mohd Abd Malik dan Juri Undangan, Ustaz Amirahman Abas.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627070000 +0800" stop="20210627071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627071000 +0800" stop="20210627080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al-Mulk 1-15 bersama pengacara Jalal Zaiki dan tetamu undangan, SS Ustaz Jamali Adnan (Timb. Mufti WP) serta qari jemputan Ustaz Husaini Mahmur.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627080000 +0800" stop="20210627110000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627110000 +0800" stop="20210627113000 +0800" channel="TV1">
+    <title lang="en">Solehah</title>
+    <desc lang="en">Saksikan Irma Hasmie dan tetamu jemputan, Sharifah Nabilla Syed Al-Yahya (Pengasas Bella Ammara), berkongsi kisah kejayaannya dalam industri fesyen muslimah tanah air.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627113000 +0800" stop="20210627120000 +0800" channel="TV1">
+    <title lang="en">2 Hati Satu Cinta</title>
+    <desc lang="en">Memaparkan adat perkahwinan kaum India Muslim di Malaysia iaitu perkahwinan antara Mohd Azrin dan Amrein yang telah dilangsungkan di Cyberjaya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627120000 +0800" stop="20210627123000 +0800" channel="TV1">
+    <title lang="en">Doku Khas FINAS: Banteras Covid 19</title>
+    <desc lang="en">Saksikan Dokumentari Khas terbitan FINAS berkait dengan penularan COVID-19 di Malaysia selain usaha dan tanggungjawab kita untuk membenterasnya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627123000 +0800" stop="20210627130000 +0800" channel="TV1">
+    <title lang="en">Penginapan Unik</title>
+    <desc lang="en">Bersama Ellyas Abdullah, saksikan keunikan penginapan LAMIN DANA TELIAN HERITAGE LODGE MUKAH, MUKAH SARAWAK serta aktiviti yang ditawarkan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627130000 +0800" stop="20210627133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627133000 +0800" stop="20210627140000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627140000 +0800" stop="20210627143000 +0800" channel="TV1">
+    <title lang="en">Memo Cergas</title>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi cara-cara senaman Kick Boxing, menu sarapan Sandiwch Telur Mayo serta berkongsi tip kesihatan daripada selebriti jemputan Shah Iskandar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627143000 +0800" stop="20210627150000 +0800" channel="TV1">
+    <title lang="en">Rona Sabah (S8)</title>
+    <desc lang="en">Saksikan tentang kuih Penjaram yang mula tular semasa Perintah Kawalan Pergerakan dan menarik perhatian seorang pelajar Universiti Malaysia Sabah (UMS) untuk menjadikan penjaram sebagai tajuk kajian kursusnya dalam episod 'Penjaram'.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627150000 +0800" stop="20210627160000 +0800" channel="TV1">
+    <title lang="en">Jaguh Joran</title>
+    <desc lang="en">Saksikan Danny X-Factor bersama peserta episod kali ini Adzrul Adnan Musa, Mohd Al Ridzuan Roslan dan Mior Azian Mohd Ariffin yang menyahut cabaran kali ini di Marina Bay.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627160000 +0800" stop="20210627170000 +0800" channel="TV1">
+    <title lang="en">Monograf Seni Bina Malaysia</title>
+    <desc lang="en">Saksikan dokumentari tentang teknologi Seni Bina Dan Sukan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627170000 +0800" stop="20210627180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627180000 +0800" stop="20210627183000 +0800" channel="TV1">
+    <title lang="en">Bajet Bijak Belanja</title>
+    <desc lang="en">Bersama pengacara Munawar Azmi berkongsi topik mengenai Insurans dan Takaful.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627183000 +0800" stop="20210627190000 +0800" channel="TV1">
+    <title lang="en">Persada Jurnal 27 Jun 2021</title>
+    <desc lang="en">Saksikan paparan mengenai SKUAD PENGURUSAN JENAZAH.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627190000 +0800" stop="20210627200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Saksikan BORAK DULU SAMPAI MENANG #menangbersama dengan tajuk PKP TIRAI BESI bersama Amin Idris dan Khir Rahman serta tetamu undangan, Abdul Mushawwir Baderi &amp; Irham Basir (Jabatan Penjara) juga selebriti undangan, Dato' Ustaz Kazim Elyas, Ameng Spring dan Ringgo Fotograf.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627200000 +0800" stop="20210627210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627210000 +0800" stop="20210627220000 +0800" channel="TV1">
+    <title lang="en">Keris Pusaka</title>
+    <desc lang="en">Sebuah rancangan dokumentari yang menyingkap sejarah pahlawan terdahulu dalam melawan penjajah. Episod kali ini berkongsi tentang kehebatan Tok Gajah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627220000 +0800" stop="20210627230000 +0800" channel="TV1">
+    <title lang="en">Planet Sukan 27 Jun 2021</title>
+    <desc lang="en">Bersama pengacara Tabah Sazwan dan Jeed Zulkifli dengan kupasan topik DEMI LENCANA DI DADA ATAU HABUAN bersama panel jemputan Datuk Ong Kim Swee, Azrai Khor Abdullah &amp; Azlan Johar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627230000 +0800" stop="20210627233000 +0800" channel="TV1">
+    <title lang="en">Solehah</title>
+    <desc lang="en">Saksikan Irma Hasmie dan tetamu jemputan, Sharifah Nabilla Syed Al-Yahya (Pengasas Bella Ammara), berkongsi kisah kejayaannya dalam industri fesyen muslimah tanah air.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627233000 +0800" stop="20210627235900 +0800" channel="TV1">
+    <title lang="en">2 Hati Satu Cinta</title>
+    <desc lang="en">Memaparkan adat perkahwinan kaum India Muslim di Malaysia iaitu perkahwinan antara Mohd Azrin dan Amrein yang telah dilangsungkan di Cyberjaya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628000000 +0800" stop="20210628003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628003000 +0800" stop="20210628010000 +0800" channel="TV1">
+    <title lang="en">Penginapan Unik</title>
+    <desc lang="en">Bersama Ellyas Abdullah, saksikan keunikan penginapan LAMIN DANA TELIAN HERITAGE LODGE MUKAH, MUKAH SARAWAK serta aktiviti yang ditawarkan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628010000 +0800" stop="20210628013000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628013000 +0800" stop="20210628023000 +0800" channel="TV1">
+    <title lang="en">Memo Cergas</title>
+    <desc lang="en">Bersama Norman Hakim, Kit Mah &amp; Dr. Ezani berkongsi cara-cara senaman Kick Boxing, menu sarapan Sandiwch Telur Mayo serta berkongsi tip kesihatan daripada selebriti jemputan Shah Iskandar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628023000 +0800" stop="20210628051500 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : EURO 2020 (1B VS 3A/D/E/F)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 BELGIUM lwn PORTUGAL.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628051500 +0800" stop="20210628053000 +0800" channel="TV1">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Saksikan mini dokumentari tentang DATANG TAK DIUNDANG.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628053000 +0800" stop="20210628060000 +0800" channel="TV1">
+    <title lang="en">Misi Dania Cun</title>
+    <desc lang="en">Bersepah-sepah sangat rumah Midah, sampaikan jentik-jentik penuh dalam air yang bertakung! Puas Kiah tegur, tetap tidak di pedulinya. Hakimi mengadu, badannya lemah sangat akibat demam panas. Tetapi, dimarahi pula oleh Midah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628060000 +0800" stop="20210628063000 +0800" channel="TV1">
+    <title lang="en">Islam Today</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628063000 +0800" stop="20210628070000 +0800" channel="TV1">
+    <title lang="en">Persada Jurnal 28 Jun 2021</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628070000 +0800" stop="20210628071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628071000 +0800" stop="20210628080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al-Mulk 1-15 bersama pengacara Jalal Zaiki dan tetamu undangan, SS Ustaz Jamali Adnan (Timb. Mufti WP) serta qari jemputan Ustaz Husaini Mahmur.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628080000 +0800" stop="20210628120000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628120000 +0800" stop="20210628123000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Made By Destruction</title>
+    <desc lang="en">Saksikan tentang paparan transformasi tiga jenis bahan buangan iaitu peti sejuk, botol kaca dan bateri. Bahan buangan dari peti sejuk dikitar semula untuk dijadikan tangan prostetik atau lebih dikenali tangan palsu. Sejurus itu, proses botol kaca dihancurkan dan di transformasi menjadi âtable topâ dapur. Manakala, bateri pula telah diproses untuk dijadikan baja kimia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628123000 +0800" stop="20210628130000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Innovation In Medicine</title>
+    <desc lang="en">Saksikan informasi dan teknologi terkini tentang Cannabis Research, Fighting Disease, Cannabis &amp; Pain dan Accurate Dosing.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628130000 +0800" stop="20210628133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628133000 +0800" stop="20210628140000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628140000 +0800" stop="20210628143000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Biz Malaysia</title>
+    <desc lang="en">Ikuti perkembangan dunia perniagaan dan ekonomi dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628143000 +0800" stop="20210628150000 +0800" channel="TV1">
+    <title lang="en">Simfoni Alam 28 Jun 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang kerakusan manusia dan juga faktor pemanasan global merupakan antara penyumbang kepada terjejasnya hidupan marin yang unik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628150000 +0800" stop="20210628160000 +0800" channel="TV1">
+    <title lang="en">Kami Bah Ini 28 Jun 2021</title>
+    <desc lang="en">Episod kali ini berkongsi tentang produk mandian herba bidara lemon dan kelebihannya bersama Puan Juridah Yussof, Leader Gold dari Mirath SW Sdn Bhd. Juga ada demonstrasi hiasan pulut kuning oleh Puan Lamini Buhari serta temubual bersama Artis Kita minggu ini, Asmi Andi Yakin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628160000 +0800" stop="20210628163000 +0800" channel="TV1">
+    <title lang="en">Snap</title>
+    <desc lang="en">Bersama hos Kodi Rasheed dan tetamu undangan jurufoto Mohd Shahrizan, berkongsi tip, info serta teknik melakukan Jurufoto Sukan Permotoran bagi menghasilkan imej terbaik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628163000 +0800" stop="20210628170000 +0800" channel="TV1">
+    <title lang="en">Tempur Gempur</title>
+    <desc lang="en">Rancangan realiti ini mengumpulkan peserta yang berbadan tegap dan sasa bertanding kecergasan sesama mereka melalui permainan yang ditetapkan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628170000 +0800" stop="20210628180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628180000 +0800" stop="20210628183000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628183000 +0800" stop="20210628190000 +0800" channel="TV1">
+    <title lang="en">Rencah Hidup</title>
+    <desc lang="en">Rencah Hidup membawakan kisah keinsafan dari insan-insan yang pernah melakukan kesalahan. Episod ini memaparkan kisah insan yang terlibat dengan Pengguguran Anak.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628190000 +0800" stop="20210628200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628200000 +0800" stop="20210628210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628210000 +0800" stop="20210628220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Naratif (28 Jun 2021)</title>
+    <desc lang="en">Program bualbicara eksklusif untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628220000 +0800" stop="20210628223000 +0800" channel="TV1">
+    <title lang="en">Panorama 28 Jun 2021</title>
+    <desc lang="en">Saksikan Rosnani Nasir menyingkap perjuangan barisan hadapan kesihatan memerangi Covid-19.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628223000 +0800" stop="20210628230000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628230000 +0800" stop="20210628233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628233000 +0800" stop="20210628235900 +0800" channel="TV1">
+    <title lang="en">Aksi Roda</title>
+    <desc lang="en">Jom! Saksikan Aepul Bakri bertemu dengan Pereka Basikal, Ali Ahmad &amp; Azizi Mat Omar dan ketahui dengan lanjut tentang Fat Bike.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629000000 +0800" stop="20210629003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629003000 +0800" stop="20210629013000 +0800" channel="TV1">
+    <title lang="en">Planet Sukan 29 Jun 2021</title>
+    <desc lang="en">Bersama Tabah Sazwan dan Jeed Zulkifli serta tetamu YBhg Datuk M Noor Azman Bin Taib (KSU Kem. Belia dan Sukan) yang akan berbicara lanjut tentang COVID-19 : KBS PRIHATIN.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629013000 +0800" stop="20210629023000 +0800" channel="TV1">
+    <title lang="en">Keris Pusaka</title>
+    <desc lang="en">Program dokumentari yang menceritakan tentang sejarah dan perjuangan pahlawan yang menentang penjajahan Brtitish di Tanah Melayu.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629023000 +0800" stop="20210629051500 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : EURO 2020 (1 F VS 3 A/B/C)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 1F menentang 3A/B/C.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629051500 +0800" stop="20210629053000 +0800" channel="TV1">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Memaparkan informasi mengenai Covid-19 di Malaysia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629053000 +0800" stop="20210629060000 +0800" channel="TV1">
+    <title lang="en">Misi Dania Cun</title>
+    <desc lang="en">Misi Dania mula bertugas di klinik desa dan melayani beberapa orang pesakit yang datang meminta bantuan kesihatan. Selain itu, Misi Dania juga menghadapi seorang bomoh yang menjalankan aktiviti pengubatan tanpa mempunyai tauliah pengubatan yang betul.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629060000 +0800" stop="20210629063000 +0800" channel="TV1">
+    <title lang="en">Islam Today</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629063000 +0800" stop="20210629070000 +0800" channel="TV1">
+    <title lang="en">Nasyid Minggu Ini</title>
+    <desc lang="en">Saksikan perkembangan terkini, Muhamad Razin Che Mud (Kumpulan Mestica) bersama Mohd Shoem Sairi serta klip video pilihan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629070000 +0800" stop="20210629071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629071000 +0800" stop="20210629080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al- Mulk ayat 16-30, bersama pengacara Wasiril Aswad serta tetamu undangan, Sahibus Samahah Ustaz Jamali Adnan (Timbalan Mufti Wilayah Persekutuan) dan Qari jemputan, Dr Anuar Hasin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629080000 +0800" stop="20210629120000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629120000 +0800" stop="20210629123000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Made By Destruction</title>
+    <desc lang="en">Saksikan pemprosesan bahan kitar semula iaitu botol plastic , tayar getah dan bongkah jambatan menjadi produk baru yang hebat dengan menggunakan teknologi terkini.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629123000 +0800" stop="20210629130000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Innovation In Medicine</title>
+    <desc lang="en">Saksikan informasi dan teknologi terkini tentang Hearing Loss, Kidney Disease, Facing Adversity, Persistent Cough, Fasting and Diet.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629130000 +0800" stop="20210629133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629133000 +0800" stop="20210629140000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629140000 +0800" stop="20210629143000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Biz Malaysia</title>
+    <desc lang="en">Ikuti perkembangan dunia perniagaan dan ekonomi dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629143000 +0800" stop="20210629150000 +0800" channel="TV1">
+    <title lang="en">Agrotek 29 Jun 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang Inovasi Memory Form, Usahawan Arnab Goodtree Garden dan perkongsian tentang bagaimana cara yang betul memegang arnab.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629150000 +0800" stop="20210629160000 +0800" channel="TV1">
+    <title lang="en">Kuppa Kopi 29 Jun 2021</title>
+    <desc lang="en">Minggu ini bersama dengan Anding Indrawani untuk mengupas tentang Rumahku Syurgaku -  jenis-jenis atap bagi menghasilkan keindahan landskap hiasan rumah idaman selain itu juga memaparkan Badang - persiapan atlit bina badan bagi mengekalkan prestasi dalam keadaan pendemik. Saksikan #KuppaKopi : RUMAHKU SYURGAKU &amp; BADANG.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629160000 +0800" stop="20210629163000 +0800" channel="TV1">
+    <title lang="en">Snap</title>
+    <desc lang="en">Bersama Kodi Rasheed mempelajari seni dan proses fotografi dalam mengenali perbezaan jenis aliran (genre) yang berbeza.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629163000 +0800" stop="20210629170000 +0800" channel="TV1">
+    <title lang="en">Tempur Gempur</title>
+    <desc lang="en">Rancangan realiti ini mengumpulkan peserta yang berbadan tegap dan sasa bertanding kecergasan sesama mereka melalui permainan yang ditetapkan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629170000 +0800" stop="20210629180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629180000 +0800" stop="20210629183000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629183000 +0800" stop="20210629190000 +0800" channel="TV1">
+    <title lang="en">Rencah Hidup</title>
+    <desc lang="en">Rencah Hidup membawakan kisah keinsafan dari insan-insan yang pernah melakukan kesalahan. Episod ini memaparkan kisah insan yang terlibat dengan kes Sumbang Mahram.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629190000 +0800" stop="20210629200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629200000 +0800" stop="20210629210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629210000 +0800" stop="20210629220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Politikonomi (29 Jun 2021)</title>
+    <desc lang="en">Program bualbicara eksklusif untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629220000 +0800" stop="20210629223000 +0800" channel="TV1">
+    <title lang="en">LENSA: Sinei Kita Tok 2020</title>
+    <desc lang="en">Bersama Azam Pit yang berada di Kampung Bukit Luba, Limbang untuk keindahan panoramanya serta mengenali budaya masyarakat Kedayan di sana.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629223000 +0800" stop="20210629230000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629230000 +0800" stop="20210629233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629233000 +0800" stop="20210629235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : NBA Action</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630000000 +0800" stop="20210630003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630003000 +0800" stop="20210630010000 +0800" channel="TV1">
+    <title lang="en">Inomedik</title>
+    <desc lang="en">Bagaimana prosedur pembedahan injap tanpa membuang injap lama yang rosak? Saksikan paparan tentang " Transcatheter Aortic Valve Implantation".(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630010000 +0800" stop="20210630013000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630013000 +0800" stop="20210630020000 +0800" channel="TV1">
+    <title lang="en">Snap</title>
+    <desc lang="en">Bersama hos Kodi Rasheed dan tetamu undangan jurufoto Mohd Shahrizan, berkongsi tip, info serta teknik melakukan Jurufoto Sukan Permotoran bagi menghasilkan imej terbaik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630020000 +0800" stop="20210630023000 +0800" channel="TV1">
+    <title lang="en">Tempur Gempur</title>
+    <desc lang="en">Rancangan realiti ini mengumpulkan peserta yang berbadan tegap dan sasa bertanding kecergasan sesama mereka melalui permainan yang ditetapkan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630023000 +0800" stop="20210630051500 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : EURO 2020 (1 E VS 3 A/B/C)</title>
+    <desc lang="en">Saksikan siaran langsung perlawanan bola sepak EURO 2020 antara 1E menentang 3A/B/C.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630051500 +0800" stop="20210630053000 +0800" channel="TV1">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Saksikan paparan lanjut tentang 'ANTARA JASAD DAN NYAWA'.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630053000 +0800" stop="20210630060000 +0800" channel="TV1">
+    <title lang="en">Bacaan Yassin</title>
+    <desc lang="en">Bacaan Yassin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630060000 +0800" stop="20210630063000 +0800" channel="TV1">
+    <title lang="en">Muqaddam (30 Jun 2021)</title>
+    <desc lang="en">Pelajari tentang Makhraj dan Tajwid serta Fashohah daripada Surah Al-Inshirah Ayat : 3-4, bersama Ustaz Mohamad Taha Hj. Hassan Azahari.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630063000 +0800" stop="20210630070000 +0800" channel="TV1">
+    <title lang="en">Solehah</title>
+    <desc lang="en">Saksikan Irma Hasmie dan tetamu undangan Ustazah Sharifah Khasif Syed Badiuzzaman, seorang Qariah yang pernah menjadi johan ketika mewakili negara dalam Tilawah Al-Quran Peringkat Kebangsaan.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210630070000 +0800" stop="20210630071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630071000 +0800" stop="20210630080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al- Mulk ayat 16-30, bersama pengacara Wasiril Aswad serta tetamu undangan, Sahibus Samahah Ustaz Jamali Adnan (Timbalan Mufti Wilayah Persekutuan) dan Qari jemputan, Dr Anuar Hasin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630080000 +0800" stop="20210630120000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630120000 +0800" stop="20210630123000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Made By Destruction</title>
+    <desc lang="en">Saksikan pemprosesan bahan kitar semula iaitu filem x-ray, kilang lama dan basikal menjadi produk baru yang hebat dengan menggunakan teknologi terkini.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630123000 +0800" stop="20210630130000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Innovation In Medicine</title>
+    <desc lang="en">Saksikan informasi dan teknologi terkini tentang Spine Surgery, Atrial Fibrillation, Breast Cancer dan Sports Medicine.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630130000 +0800" stop="20210630133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630133000 +0800" stop="20210630140000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630140000 +0800" stop="20210630143000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Biz Malaysia</title>
+    <desc lang="en">Ikuti perkembangan dunia perniagaan dan ekonomi dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630143000 +0800" stop="20210630150000 +0800" channel="TV1">
+    <title lang="en">Panorama 30 Jun 2021</title>
+    <desc lang="en">Saksikan Rosnani Nasir menyingkap perjuangan barisan hadapan kesihatan memerangi Covid-19.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630150000 +0800" stop="20210630160000 +0800" channel="TV1">
+    <title lang="en">Fikrah (30 Jun 2021)</title>
+    <desc lang="en">Ikuti diskusi lanjut tentang Belanjawan 2021 : Hala Tuju Pentadbiran Islam bersama panel undangan, YB Tuan Ahmad Marzuk Shaary, Timbalan Menteri Di Jabatan Perdana Menteri (Hal Ehwal Agama) dan Prof. Dr. Mohd Roslan Mohd Noor, Akademi Pengajian Islam, Universiti Malaya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630160000 +0800" stop="20210630163000 +0800" channel="TV1">
+    <title lang="en">Joran Selebriti</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630163000 +0800" stop="20210630170000 +0800" channel="TV1">
+    <title lang="en">Aksi Ikan Malaysia</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630170000 +0800" stop="20210630180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630180000 +0800" stop="20210630183000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630183000 +0800" stop="20210630190000 +0800" channel="TV1">
+    <title lang="en">Cina Muslim Malaysia</title>
+    <desc lang="en">Dihoskan oleh Iswan Ismail, episod kali ini cina muslim malaysia memaparkan warisan dan budaya cina muslim di Malaysia bersama pakar dari muzium, Siti Marina, Dr Hassan Bai (Penulis Kaligrafi) dan Datin Aishah Sim, Ibu kepada peserta pertandingan topeng muka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630190000 +0800" stop="20210630200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630200000 +0800" stop="20210630210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630210000 +0800" stop="20210630220000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung : Bicara Inspirasi (30 Jun 2021)</title>
+    <desc lang="en">Program bicarawara bertema inspirasi bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630220000 +0800" stop="20210630223000 +0800" channel="TV1">
+    <title lang="en">Rona Sabah (S8)</title>
+    <desc lang="en">Saksikan tentang kuih Penjaram yang mula tular semasa Perintah Kawalan Pergerakan dan menarik perhatian seorang pelajar Universiti Malaysia Sabah (UMS) untuk menjadikan penjaram sebagai tajuk kajian kursusnya dalam episod 'Penjaram'.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630223000 +0800" stop="20210630230000 +0800" channel="TV1">
+    <title lang="en">Singgah Sini</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630230000 +0800" stop="20210630233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630233000 +0800" stop="20210630235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : World Strongest Man</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701000000 +0800" stop="20210701003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701003000 +0800" stop="20210701010000 +0800" channel="TV1">
+    <title lang="en">Inomedik</title>
+    <desc lang="en">Saksikan paparan tentang Pembedahan Cyberknife bagi merawat pesakit kanser.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701010000 +0800" stop="20210701013000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701013000 +0800" stop="20210701020000 +0800" channel="TV1">
+    <title lang="en">Snap</title>
+    <desc lang="en">Bersama Kodi Rasheed mempelajari seni dan proses fotografi dalam mengenali perbezaan jenis aliran (genre) yang berbeza.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701020000 +0800" stop="20210701023000 +0800" channel="TV1">
+    <title lang="en">Tempur Gempur</title>
+    <desc lang="en">Rancangan realiti ini mengumpulkan peserta yang berbadan tegap dan sasa bertanding kecergasan sesama mereka melalui permainan yang ditetapkan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701023000 +0800" stop="20210701030000 +0800" channel="TV1">
+    <title lang="en">Sihat Cantik dan Menawan</title>
+    <desc lang="en">Sihat, Cantik &amp; Menawan sebuah program yang menawarkan pelbagai tip berkaitan kecantikan dan kesihatan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701030000 +0800" stop="20210701033000 +0800" channel="TV1">
+    <title lang="en">Rona Sabah (S8)</title>
+    <desc lang="en">Ikuti paparan menarik mengenai Sogit Mahkamah Anak Negeri dalam Rona Sabah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701033000 +0800" stop="20210701040000 +0800" channel="TV1">
+    <title lang="en">Awas!</title>
+    <desc lang="en">Bersama pengacara Kieran dan Nik Nur Shuhadah mengupas tentang isu GANGGUAN SEKSUAL DI TEMPAT KERJA .(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701040000 +0800" stop="20210701043000 +0800" channel="TV1">
+    <title lang="en">Jangan Panik</title>
+    <desc lang="en">Ikuti penjelasan tentang jenayah GANGSTERISME bersama Mardiana Alwi (Pengacara) dan Master Saiful Hamiruzzaman (Pakar Perunding Keselamatan Peribadi &amp; Penganalisis Jenayah).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701043000 +0800" stop="20210701050000 +0800" channel="TV1">
+    <title lang="en">Jauhari: Pada Suatu Ketika</title>
+    <desc lang="en">Bersama Eyka Farhana menyingkap sejarah peninggalan Kota Johor Lama yang dahulunya merupakan ibu negeri Johor.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701050000 +0800" stop="20210701053000 +0800" channel="TV1">
+    <title lang="en">Mumbai Ke London</title>
+    <desc lang="en">Saksikan pengembaraan Firdaus dari Turki, menuju ke negara seterusnya, Bulgaria yang terkenal dengan pelbagai bangunan bersejarah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701053000 +0800" stop="20210701060000 +0800" channel="TV1">
+    <title lang="en">Bacaan Yassin</title>
+    <desc lang="en">Bacaan Yassin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701060000 +0800" stop="20210701070000 +0800" channel="TV1">
+    <title lang="en">Fikrah (1 Julai 2021)</title>
+    <desc lang="en">Ikuti diskusi lanjut tentang Belanjawan 2021 : Hala Tuju Pentadbiran Islam bersama panel undangan, YB Tuan Ahmad Marzuk Shaary, Timbalan Menteri Di Jabatan Perdana Menteri (Hal Ehwal Agama) dan Prof. Dr. Mohd Roslan Mohd Noor, Akademi Pengajian Islam, Universiti Malaya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701070000 +0800" stop="20210701071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701071000 +0800" stop="20210701080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al- Mulk ayat 16-30, bersama pengacara Wasiril Aswad serta tetamu undangan, Sahibus Samahah Ustaz Jamali Adnan (Timbalan Mufti Wilayah Persekutuan) dan Qari jemputan, Dr Anuar Hasin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701080000 +0800" stop="20210701120000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701120000 +0800" stop="20210701123000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Made By Destruction</title>
+    <desc lang="en">Saksikan pemprosesan bahan kitar semula iaitu abu manusia, papan luncur dan kereta lupus menjadi produk baru yang hebat dengan menggunakan teknologi terkini.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701123000 +0800" stop="20210701130000 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : Innovation In Medicine</title>
+    <desc lang="en">Saksikan informasi dan teknologi terkini tentang Joint Replacement, Wound Care, Brain Surgery While A Wake dan Stomach Ulcers.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701130000 +0800" stop="20210701133000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701133000 +0800" stop="20210701140000 +0800" channel="TV1">
+    <title lang="en">TV1 KIDS: Trains</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701140000 +0800" stop="20210701143000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Biz Malaysia</title>
+    <desc lang="en">Ikuti perkembangan dunia perniagaan dan ekonomi dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701143000 +0800" stop="20210701150000 +0800" channel="TV1">
+    <title lang="en">Gemilang</title>
+    <desc lang="en">Sebuah rancangan yang memaparkan kejayaan tokoh Âtokoh industri kreatif.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701150000 +0800" stop="20210701160000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Anda Musykil 1 Julai 2021</title>
+    <desc lang="en">Bersama Azrin Md Isa dan panel undangan, Ustaz Fauwaz Fadzil (Pendakwah) membincangkan tentang  Ibu Duit.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701160000 +0800" stop="20210701163000 +0800" channel="TV1">
+    <title lang="en">Pancing Seribu rasa</title>
+    <desc lang="en">Bersama Nasrul Anuar berkongsi pengalaman menarik memancing di Tasik Bukit Merah, Taiping Perak dan berkongsi resipi Pecel Kaloi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701163000 +0800" stop="20210701170000 +0800" channel="TV1">
+    <title lang="en">Aksi Ikan Malaysia</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701170000 +0800" stop="20210701180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701180000 +0800" stop="20210701183000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701183000 +0800" stop="20210701190000 +0800" channel="TV1">
+    <title lang="en">Cina Muslim Malaysia</title>
+    <desc lang="en">Pada episod kali ini, hos Iswan Ismail akan mengupas tentang adat dan tradisi seorang cina muslim setelah memeluk agama Islam. Bersama Prof. Dr. Taufek Yap (Presiden Persatuan Cina Muslim Malaysia) serta Datin Norhana NG (Pengerusi Persatuan Cina Muslim Terengganu) dan Datin Norlisa Hoo (Pemilik Restoran).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701190000 +0800" stop="20210701200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701200000 +0800" stop="20210701210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701210000 +0800" stop="20210701223000 +0800" channel="TV1">
+    <title lang="en">Forum Perdana Ehwal Islam (1 Julai 2021)</title>
+    <desc lang="en">Saksikan diskusi lanjut dengan tajuk TAKUT ALLAH ATAU TAKUT COVID-19? bersama perantara, Ustaz Ahmad Shukri Yusoff serta Ustaz Mohd Hariri Mohd Daud dan panel undangan, YB Senator Datuk Dr. Zulkifli Mohamad Al-Bakri, Menteri di Jabatan Perdana Menteri (Hal Ehwal Agama).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701223000 +0800" stop="20210701230000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701230000 +0800" stop="20210701233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701233000 +0800" stop="20210701235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : World Strongest Man</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702000000 +0800" stop="20210702003000 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702003000 +0800" stop="20210702010000 +0800" channel="TV1">
+    <title lang="en">Inomedik</title>
+    <desc lang="en">Saksikan paparan tentang Ã¢ÂÂTerapi Sel TunjangÃ¢ÂÂ.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702010000 +0800" stop="20210702013000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702013000 +0800" stop="20210702020000 +0800" channel="TV1">
+    <title lang="en">Gemilang</title>
+    <desc lang="en">Sebuah rancangan yang memaparkan kejayaan tokoh Âtokoh industri kreatif.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702020000 +0800" stop="20210702023000 +0800" channel="TV1">
+    <title lang="en">Aksi Ikan Malaysia</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702023000 +0800" stop="20210702030000 +0800" channel="TV1">
+    <title lang="en">Sihat Cantik dan Menawan</title>
+    <desc lang="en">Sihat, Cantik &amp; Menawan sebuah program yang menawarkan pelbagai tip berkaitan kecantikan dan kesihatan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702030000 +0800" stop="20210702033000 +0800" channel="TV1">
+    <title lang="en">Agrotek 2 Julai 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang Inovasi Memory Form, Usahawan Arnab Goodtree Garden dan perkongsian tentang bagaimana cara yang betul memegang arnab.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702033000 +0800" stop="20210702040000 +0800" channel="TV1">
+    <title lang="en">Awas!</title>
+    <desc lang="en">Mengupas tentang  isu Kebakaran Rumah bersama Puan Nur Hafizah Mohammad (Penguasa Bomba, Bahagian Keselamatan Kebakaran, Jabatan Bomba dan Penyelamat Malaysia) dan Encik Mohd Shahrul Nizam Abdul Rahim (Penguasa Kanan Bomba 1, Bahagian Penyiasat Kebakaran, Jabatan Bomba dan Penyelamat Malaysia)  dalam Awas!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702040000 +0800" stop="20210702043000 +0800" channel="TV1">
+    <title lang="en">Jangan Panik</title>
+    <desc lang="en">Ikuti penjelasan tentang jenayah CEROBOH DAN ROMPAKAN RUMAH bersama Mardiana Alwi (Pengacara) dan Master Saiful Hamiruzzaman (Pakar Perunding Keselamatan Peribadi &amp; Penganalisis Jenayah).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702043000 +0800" stop="20210702050000 +0800" channel="TV1">
+    <title lang="en">Jauhari: Pada Suatu Ketika</title>
+    <desc lang="en">Bersama Eyka Farhana menyingkap tentang Chetti Di Melaka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702050000 +0800" stop="20210702053000 +0800" channel="TV1">
+    <title lang="en">Mumbai Ke London</title>
+    <desc lang="en">Jom! Ikut Firdaus tiba di terminal keretapi Keleti Palyaudvar yang merupakan terminal terbesar di Hungary.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702053000 +0800" stop="20210702060000 +0800" channel="TV1">
+    <title lang="en">Bacaan Yassin</title>
+    <desc lang="en">Bacaan Yassin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702060000 +0800" stop="20210702070000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Anda Musykil 2 Julai 2021</title>
+    <desc lang="en">Bersama Azrin Md Isa dan panel undangan, Ustaz Fauwaz Fadzil (Pendakwah) membincangkan tentang  Ibu Duit.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702070000 +0800" stop="20210702071000 +0800" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702071000 +0800" stop="20210702080000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Salam Pagi</title>
+    <desc lang="en">Saksikan tadabbur Al-Quran daripada Surah Al- Mulk ayat 16-30, bersama pengacara Wasiril Aswad serta tetamu undangan, Sahibus Samahah Ustaz Jamali Adnan (Timbalan Mufti Wilayah Persekutuan) dan Qari jemputan, Dr Anuar Hasin.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702080000 +0800" stop="20210702110000 +0800" channel="TV1">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan wanita.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210702110000 +0800" stop="20210702120000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Tilawah Interaktif 2 Julai 2021</title>
+    <desc lang="en">Perdengarkan bacaan Surah ADZ-DZAARIYAAT ayat: 1-11 dengan bacaan Tarannum: Soba bersama Nur Asyikin Mohd Abd Malik dan Juri Undangan, Ustaz Ahmad Tarmizi Abdul Rahman.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702120000 +0800" stop="20210702121500 +0800" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702121500 +0800" stop="20210702123000 +0800" channel="TV1">
+    <title lang="en">Sfera / Zikir</title>
+    <desc lang="en">Saksikan paparan lanjut tentang PERAK MAN.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702123000 +0800" stop="20210702130000 +0800" channel="TV1">
+    <title lang="en">Al-Mulk Nusantara</title>
+    <desc lang="en">Al-Mulk Nusantara episod ini membawa penonton untuk melihat islam di Kerajaan Melayu Melaka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702130000 +0800" stop="20210702131400 +0800" channel="TV1">
+    <title lang="en">Zikir / Promo</title>
+    <desc lang="en">Zikir / Promo.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702131400 +0800" stop="20210702140000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Solat Jumaat (2 Julai 2021)</title>
+    <desc lang="en">Siaran langsung Solat Jumaat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702140000 +0800" stop="20210702150000 +0800" channel="TV1">
+    <title lang="en">Mauizah 2 Julai 2021</title>
+    <desc lang="en">Saksikan perkongsian lanjut tentang WAHAI JIWA YANG TENANG bersama Ustaz Haslin Baharim (Pendakwah).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702150000 +0800" stop="20210702153000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Biz Malaysia</title>
+    <desc lang="en">Ikuti perkembangan dunia perniagaan dan ekonomi dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702153000 +0800" stop="20210702163000 +0800" channel="TV1">
+    <title lang="en">Bicara DR (2 Julai 2021)</title>
+    <desc lang="en">Saksikan diskusi lanjut tentang VAKSINASI COVID-19: KEPENTINGAN KEPADA WARGA EMAS bersama YTM Dato' Dr Tunku Muzafar Shah Tunku Jaafar (Pakar Perunding Kanan &amp; Ketua Unit Geriatrik Hospital Selayang).(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702163000 +0800" stop="20210702170000 +0800" channel="TV1">
+    <title lang="en">Tahiyyatul Masjid</title>
+    <desc lang="en">Rancangan keagamaan untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702170000 +0800" stop="20210702180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702180000 +0800" stop="20210702183000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702183000 +0800" stop="20210702190000 +0800" channel="TV1">
+    <title lang="en">Muqaddam (2 Julai 2021)</title>
+    <desc lang="en">Pelajari tentang Makhraj dan Tajwid serta Fashohah daripada Surah Al-Inshirah Ayat : 3-4, bersama Ustaz Mohamad Taha Hj. Hassan Azahari.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702190000 +0800" stop="20210702200000 +0800" channel="TV1">
+    <title lang="en">Siaran Langsung: Borak Dulu #sampaimenang</title>
+    <desc lang="en">Bersama Amin Idris dan Khir Rahman membincangkan topik menarik bersama tetamu jemputan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702200000 +0800" stop="20210702210000 +0800" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702210000 +0800" stop="20210702220000 +0800" channel="TV1">
+    <title lang="en">My Halal 2 Julai 2021</title>
+    <desc lang="en">Rancangan bualbicara eksklusif untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702220000 +0800" stop="20210702223000 +0800" channel="TV1">
+    <title lang="en">Simfoni Alam 2 Julai 2021</title>
+    <desc lang="en">Saksikan paparan lanjut tentang kerakusan manusia dan juga faktor pemanasan global merupakan antara penyumbang kepada terjejasnya hidupan marin yang unik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702223000 +0800" stop="20210702230000 +0800" channel="TV1">
+    <title lang="en">Promo / PSA Covid-19</title>
+    <desc lang="en">Sentiasa ingatkan diri kita supaya kekal berada di rumah, patuh dengan SOP dan jaga kawalan kendiri. Melawan COVID-19 adalah tanggungjawab kita bersama!(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702230000 +0800" stop="20210702233000 +0800" channel="TV1">
+    <title lang="en">Berita Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702233000 +0800" stop="20210702235900 +0800" channel="TV1">
+    <title lang="en">SPECIAL ON 1 : World Strongest Man</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626000000 +0800" stop="20210626003000 +0800" channel="TV2">
+    <title lang="en">Syy... Rahsia</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626003000 +0800" stop="20210626013000 +0800" channel="TV2">
+    <title lang="en">Si Capik</title>
+    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626013000 +0800" stop="20210626020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626020000 +0800" stop="20210626023000 +0800" channel="TV2">
+    <title lang="en">Mannipu</title>
+    <desc lang="en">Drama bersiri yang mengisahkan konflik diantara dua keluarga usahawan iaitu Ramamurthy dan Renganathan yang saling bersaing  untuk membina empayar perniagaan dan mereka sanggup melakukan apa sahaja untuk mencapai matlamat mereka. Lakonan : Vasant dan So. Paramjothi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626023000 +0800" stop="20210626030000 +0800" channel="TV2">
+    <title lang="en">Dr. Love</title>
+    <desc lang="en">Magen seorang DJ Radio online yang terkenal diberi tiga bulan untuk memperbaiki rancangannya dan beliau dinasihatkan bahawa beliau perlu mengalami alam percintaan dirinya sebelum dapat memberi nasihat mengenai percintaan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626030000 +0800" stop="20210626040000 +0800" channel="TV2">
+    <title lang="en">Taste Of Life</title>
+    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626040000 +0800" stop="20210626060000 +0800" channel="TV2">
+    <title lang="en">Nyanyi Ayah</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626060000 +0800" stop="20210626070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626070000 +0800" stop="20210626073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626073000 +0800" stop="20210626080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626080000 +0800" stop="20210626083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626083000 +0800" stop="20210626090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626090000 +0800" stop="20210626093000 +0800" channel="TV2">
+    <title lang="en">Max &amp; Maestro</title>
+    <desc lang="en">Max teruja menganjurkan sambutan hari jadi buat bapanya, sehingga memaksanya memikirkan kejutan yang sesuai. Pada mulanya bapa Max seolah-olah dapat meneka kejutan yang akan diberikan, namun dengan idea yang diberikan Maestro, Max akhirnya berjaya memberikan kejutan buat bapanya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626093000 +0800" stop="20210626100000 +0800" channel="TV2">
+    <title lang="en">Bila Bayan Bercerita</title>
+    <desc lang="en">Sebuah cereka yang memapar kisah Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan cara menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri untuk menyelesaikan masalah yang mereka hadapi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626100000 +0800" stop="20210626103000 +0800" channel="TV2">
+    <title lang="en">Pendekar Cilik</title>
+    <desc lang="en">Animasi yang mengisahkan Hang Tuah bersama 4 sahabatnya yang hidup dalam dunia siber. Mereka berganding bersama Noni dan Habib untuk menentang Daning, penjahat zalim yang berdendam dengan Hang Tuah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626103000 +0800" stop="20210626110000 +0800" channel="TV2">
+    <title lang="en">Kacang</title>
+    <desc lang="en">Animasi yang mengisahkan karenah pelbagai jenis kacang antaranya kacang dal, kacang kuda, kacang soya, kacang merah, kacang gajus dan kacang hijau yang mencuit hati, lucu dan menghiburkan, malah turut diselitkan dengan pelbagai nasihat yang berguna yang boleh diambil sebagai pengajaran.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626110000 +0800" stop="20210626113000 +0800" channel="TV2">
+    <title lang="en">Muzika</title>
+    <desc lang="en">Bersama Marsha Milan sebagai pengacara dan menampilkan penyanyi-penyanyi yang berbakat sambil berkongsi pengalaman mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626113000 +0800" stop="20210626120000 +0800" channel="TV2">
+    <title lang="en">Kelas Sebelah</title>
+    <desc lang="en">Kelas Sebelah mengisahkan mengenai pelajar kelas 4 Harapan yang mempunyai pelbagai masalah sehingga tampil seorang guru baru iaitu Cikgu Azman yang berjaya membantu mereka meningkatkan prestasi dalam pelajaran. Lakonan : Nafiez Zaidi, Afifah Nasir, Farah Wahida, Ungku Hariz, Kay Maria.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626120000 +0800" stop="20210626123000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210626123000 +0800" stop="20210626130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626130000 +0800" stop="20210626140000 +0800" channel="TV2">
+    <title lang="en">Detak Cinta Stetoskop</title>
+    <desc lang="en">Semasa Maisarah bercuti di kampung, keluarganya merancang mencari jodoh untuknya supaya Azman tidak mengganggunya lagi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626140000 +0800" stop="20210626150000 +0800" channel="TV2">
+    <title lang="en">Istimewa Bersama</title>
+    <desc lang="en">Rancangan hiburan terbitan RTM khas buat anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626150000 +0800" stop="20210626160000 +0800" channel="TV2">
+    <title lang="en">Vasantham 2021</title>
+    <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626160000 +0800" stop="20210626173000 +0800" channel="TV2">
+    <title lang="en">Running Man</title>
+    <desc lang="en">TV Game Show ini merupakan program yang mengisahkan cabaran dan dugaan yang dihadapi oleh sekumpulan selebriti semasa mereka bersaing di dalam pelbagai jenis permainan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626173000 +0800" stop="20210626180000 +0800" channel="TV2">
+    <title lang="en">Oh My Netizen</title>
+    <desc lang="en">Medina bimbang dengan perkembangan anaknya yang masih tidak dapat membaca, lalu pergi mendapatkan bantuan dengan menemui seorang ustaz yang juga dikatakan seorang saintis makanan. Pada mulanya Medina teragak-agak untuk berbuat demikian, namun bersetuju jua demi mencari penawar buat anaknya itu. Lakonan : Saliha M. Shahul Hameed, Muhammad Shafeeq dan Mimi Ernida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626180000 +0800" stop="20210626183000 +0800" channel="TV2">
+    <title lang="en">SPECIAL ON 1 : NBA Action</title>
+    <desc lang="en">Saksikan persiapan pasukan Boston Celtics juga kisah hidup, Harrison Barnse serta Theo Pinson, seorang pemain bola keranjang, Lauri Markkanen dari pasukan Chicago Bulls.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626183000 +0800" stop="20210626190000 +0800" channel="TV2">
+    <title lang="en">Beyblade Burst Evolution</title>
+    <desc lang="en">Kisah seorang kanak-kanak Jepun yang handal bermain dengan sejenis permainan gasing yang digelar sebagai Beyblade. Dia di hantar ke negara Spain untuk menyertai European League Championship.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626190000 +0800" stop="20210626193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210626193000 +0800" stop="20210626200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210626200000 +0800" stop="20210626210000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Arjuna mengupah beberapa orang untuk mencari Ara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626210000 +0800" stop="20210626223000 +0800" channel="TV2">
+    <title lang="en">Konsert Minggu Ini</title>
+    <desc lang="en">Rancangan hiburan terbitan Unit Hiburan TV RTM khas untuk anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210626223000 +0800" stop="20210626235900 +0800" channel="TV2">
+    <title lang="en">Mekanik</title>
+    <desc lang="en">Syamil, seorang mekanik terjumpa bungkusan mengandungi wang dalam teksi yang dibaikinya. Kerana enggan memulangkan wang tersebut, dia berada dalam kesusahan kerana diburu perompak yang tertinggal wang tersebut sewaktu dikejar polis. Lakonan : Azmil Mustapha, Julie Faridah, Susan Lankester dan Yusof Haslam.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627000000 +0800" stop="20210627003000 +0800" channel="TV2">
+    <title lang="en">Mekanik</title>
+    <desc lang="en">Syamil, seorang mekanik terjumpa bungkusan mengandungi wang dalam teksi yang dibaikinya. Kerana enggan memulangkan wang tersebut, dia berada dalam kesusahan kerana diburu perompak yang tertinggal wang tersebut sewaktu dikejar polis. Lakonan : Azmil Mustapha, Julie Faridah, Susan Lankester dan Yusof Haslam.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627003000 +0800" stop="20210627010000 +0800" channel="TV2">
+    <title lang="en">Kelas Sebelah</title>
+    <desc lang="en">Kelas Sebelah mengisahkan mengenai pelajar kelas 4 Harapan yang mempunyai pelbagai masalah sehingga tampil seorang guru baru iaitu Cikgu Azman yang berjaya membantu mereka meningkatkan prestasi dalam pelajaran. Lakonan : Nafiez Zaidi, Afifah Nasir, Farah Wahida, Ungku Hariz, Kay Maria.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627010000 +0800" stop="20210627013000 +0800" channel="TV2">
+    <title lang="en">Bila Bayan Bercerita</title>
+    <desc lang="en">Sebuah cereka yang memapar kisah Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan cara menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri untuk menyelesaikan masalah yang mereka hadapi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627013000 +0800" stop="20210627020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627020000 +0800" stop="20210627030000 +0800" channel="TV2">
+    <title lang="en">Brindavanam</title>
+    <desc lang="en">Rajan merupakan seorang pelukis potret yang tinggal di sebuah pusat jagaan orang tua bernama ÃÂ¢ÃÂÃÂBrindavanamÃÂ¢ÃÂÃÂ. Rajan merupakan seorang yang aktif dan terkenal dalam bidang seni lukis dan khususnya lukisan potret. Rajan mempunyai sebuah keluarga yang bahagia terdiri daripada isterinya Kalyani, anak lelakinya Rakesh, menantunya Dania dan dua orang cucu. Rajan amat menyayangi keluargannya namun ianya sama penting dengan kerjayanya sebagai pelukis. Lakonan : K.S Maniam dan Ratna Gowri.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627030000 +0800" stop="20210627040000 +0800" channel="TV2">
+    <title lang="en">The Big Mistakes</title>
+    <desc lang="en">Kisah suka duka kehidupan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627040000 +0800" stop="20210627060000 +0800" channel="TV2">
+    <title lang="en">Before I Sleep</title>
+    <desc lang="en">Mengisahkan tentang Faye yang mempunyai ayah yang menghidap penyakit dan mempunyai kesukaran untuk makan ubat. Namun rupa-rupanya Faye yang menghidapi Alzheimer dan dia terpaksa mengaturkan kehidupan ayahnya sebelum dia kehilangan memorinya. Lakonan : Roby Faye, Mike Chuah Bee Seoung dan Ivan Law Yee Hung.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627060000 +0800" stop="20210627070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627070000 +0800" stop="20210627073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627073000 +0800" stop="20210627080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627080000 +0800" stop="20210627083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627083000 +0800" stop="20210627090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627090000 +0800" stop="20210627093000 +0800" channel="TV2">
+    <title lang="en">Kuu Kuu Harajuku</title>
+    <desc lang="en">Salah seorang ahli kumpulan âHJ5â menerima seekor anak anjing yang bermata besar dan sangat comel. Ketika dia sedang bermain bersama anak anjing tersebut, dia mendapati âChewieâ, salah seorang rakannya telah diberikan arahan oleh âJeneral No-Funâ untuk mensabotaj konsert yang akan datang.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627093000 +0800" stop="20210627100000 +0800" channel="TV2">
+    <title lang="en">Bila Bayan Bercerita</title>
+    <desc lang="en">Sebuah cereka yang memapar kisah Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan cara menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri untuk menyelesaikan masalah yang mereka hadapi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627100000 +0800" stop="20210627103000 +0800" channel="TV2">
+    <title lang="en">Chop Chop Ninja</title>
+    <desc lang="en">Seorang pelatih ninja, Iro dan tiga orang rakannya, Neeko, Tetsuo dan Jo berusaha berlatih demi mendapatkan nama samaran ninja. Kesemua ahli telah berjaya mendapatkan nama samaran ninja kecuali Iro yang gagal mendapatkan nama samaran yang sesuai.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627103000 +0800" stop="20210627110000 +0800" channel="TV2">
+    <title lang="en">Noddy : Toyland Detective</title>
+    <desc lang="en">Kisah Noddy yang bertukar menjadi detektif. Ditemani oleh anjingnya Bumpy dan kereta Revs, Noddy melakukan perjalanan ke empat penjuru Toyland untuk menyiasat pelbagai misteri. Noddy seorang kanak-kanak lelaki bersama rakan-rakannya menyelesaikan kes baru. Noddy mencari jalan penyelesaian untuk meneruskan perlumbaan âDareâDare Challengeâ yang terpaksa di tangguhkan apabila di dapati âMemori Kristalâ rosak.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627110000 +0800" stop="20210627113000 +0800" channel="TV2">
+    <title lang="en">Atur Langkahmu</title>
+    <desc lang="en">Jom busking bersama artis-artis popular yang akan membuat persembahan di pelbagai tempat-tempat menarik. Artis : Adira Suhaimi, Fiq Mentor, Bob Yusof, Drama Band, Azharina Azhar, Rosario, Kumpulan Zero dan Salma Asis.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627113000 +0800" stop="20210627120000 +0800" channel="TV2">
+    <title lang="en">Nyanyi Dari Rumah</title>
+    <desc lang="en">Ikuti artis kegemaran anda setiap minggu untuk mempersembahkan nyanyian mereka secara santai di rumah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627120000 +0800" stop="20210627123000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627123000 +0800" stop="20210627130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627130000 +0800" stop="20210627140000 +0800" channel="TV2">
+    <title lang="en">Detak Cinta Stetoskop</title>
+    <desc lang="en">Berlaku pertengkaran kecil antara Dr. Farah dengan Dr. Razlan dan Dr. Micheal berjaya menyelesaikan masalah tersebut,sementara itu Dr  Farah juga dapat menyelesaikan kes pesakitnya setelah mengadakan perbincangan dengan suaminya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627140000 +0800" stop="20210627150000 +0800" channel="TV2">
+    <title lang="en">Istimewa Bersama</title>
+    <desc lang="en">Rancangan hiburan terbitan RTM khas buat anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627150000 +0800" stop="20210627160000 +0800" channel="TV2">
+    <title lang="en">What Say You</title>
+    <desc lang="en">Program bicarawara berbahasa Mandarin yang membincangkan isu-isu semasa tanah air.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627160000 +0800" stop="20210627173000 +0800" channel="TV2">
+    <title lang="en">Running Man</title>
+    <desc lang="en">TV Game Show ini merupakan program yang mengisahkan cabaran dan dugaan yang dihadapi oleh sekumpulan selebriti semasa mereka bersaing di dalam pelbagai jenis permainan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627173000 +0800" stop="20210627180000 +0800" channel="TV2">
+    <title lang="en">Oh My Netizen</title>
+    <desc lang="en">Ratna ditinggalkan sehelai sepinggang oleh menantunya di masjid lalu dibawa oleh seorang pemuda ke rumah Alam Kasih 12, sebuah rumah jagaan orang-orang tua dan OKU. Setelah tinggal beberapa hari di situ, dia mula menyaksikan beberapa perkara yang tidak menyenangkan berlaku di rumah tersebut. Tuan Darwish, pemilik rumah jagaan tersebut telah menyalahgunakan sumbangan orang ramai untuk kepentingan diri sendiri. Lakonan : Delimawati Ismail dan Koperal Ridzuan Yaakob.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627180000 +0800" stop="20210627183000 +0800" channel="TV2">
+    <title lang="en">Kitak Karok Bah</title>
+    <desc lang="en">Program yang menggabungkan dua konsep travelog dan nyanyian yang akan membawa penonton ke tempat-tempat menarik untuk dilawati di sekitar kawasan Borneo.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627183000 +0800" stop="20210627190000 +0800" channel="TV2">
+    <title lang="en">Beyblade Burst Evolution</title>
+    <desc lang="en">Kisah seorang kanak-kanak Jepun yang handal bermain dengan sejenis permainan gasing yang digelar sebagai Beyblade. Dia di hantar ke negara Spain untuk menyertai European League Championship.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627190000 +0800" stop="20210627193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627193000 +0800" stop="20210627200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.(n)</desc>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627200000 +0800" stop="20210627210000 +0800" channel="TV2">
+    <title lang="en">Hotspot 2021</title>
+    <desc lang="en">Bual bicara santai Azrel Ismail bersama tetamu jemputan yang membicarakan pelbagai isu-isu semasa dan hiburan tanah air.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627210000 +0800" stop="20210627233000 +0800" channel="TV2">
+    <title lang="en">Zindagi Na Milegi Dobara</title>
+    <desc lang="en">3 rakan baik memutuskan untuk bercuti ke Sepanyol selepas salah seorang dari mereka akan melangsungkan perkahwinan. Namun tanpa disangka, perjalanan tersebut berubah menjadi kesempatan mereka untuk menyembuhkan luka, jatuh cinta dengan kehidupan dan menentang ketakutan mereka yang paling hebat. Lakonan : Hrithik Roshan, Farhan Akhtar, Abhay Deol dan Katrina Kaif.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627233000 +0800" stop="20210627235900 +0800" channel="TV2">
+    <title lang="en">Nyanyi Dari Rumah</title>
+    <desc lang="en">Ikuti artis kegemaran anda setiap minggu untuk mempersembahkan nyanyian mereka secara santai di rumah.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628000000 +0800" stop="20210628003000 +0800" channel="TV2">
+    <title lang="en">Muzika</title>
+    <desc lang="en">Memaparkan pengalaman personaliti dan juga penyanyi berbakat dalam bidang muzik.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628003000 +0800" stop="20210628010000 +0800" channel="TV2">
+    <title lang="en">Atur Langkahmu</title>
+    <desc lang="en">Menampilkan persembahan busking bersama artis-artis terkenal dengan lagu masing-masing.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628010000 +0800" stop="20210628013000 +0800" channel="TV2">
+    <title lang="en">Bila Bayan Bercerita</title>
+    <desc lang="en">Sebuah cereka yang memapar kisah Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan cara menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri untuk menyelesaikan masalah yang mereka hadapi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628013000 +0800" stop="20210628020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusuf SR2</title>
+    <desc lang="en">Mengisahkan Ehsan dan Nek Munah yang meninggalkan Umairah untuk hidup bersama Yusuf dan menjalani kehidupan cara kampung.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628020000 +0800" stop="20210628030000 +0800" channel="TV2">
+    <title lang="en">Tamil - Brindavanam</title>
+    <desc lang="en">Rajan telah kehilangan isterinya Kalyani, namun memori bersama isterinya tidak dapat dilupakan. Satu Ketika dahulu, anaknya Rakesh sentiasa menjaga Rajan dengan penuh kasih saying. Namun kini, Rajan tinggal Bersama rakan-rakan di Brindavanam. Sebelum dihantar ke pusat jagaan, Rajan mengalami gangguan emosi dan beranggapan bahawa isterinya masih Bersama dengannya walaupun dia telah meninggal dunia. Lakonan : K.S Maniam dan Ratna Gowri.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628030000 +0800" stop="20210628040000 +0800" channel="TV2">
+    <title lang="en">The Big Mistakes</title>
+    <desc lang="en">Mary, adik ipar kepada Lim Fan mengambil kesempatan masalah yang dihadapi mereka untuk mengantikan Shio Ni sebagai CEO. Tindakannya itu menyebabkan Lim Fan marah hingga diserang sakit jantung dan terpaksa dikejarkan ke hospital untuk mendapat rawatan. Lakonan : Candy Lee Lim Peng, Emily, Vinz Lim Yi Xin, Wong Chun, Adrian Tan dan Angeline Tan.(n)</desc>
+    <rating>
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210628040000 +0800" stop="20210628060000 +0800" channel="TV2">
+    <title lang="en">Anbulla Appa</title>
+    <desc lang="en">Kisah seorang bapa penyayang yang berusaha menyelesaikan masalah kehidupan dan perkahwinan anak-anaknya.   Lakonan : K. Subramaniam, Premanand, Saravanan, Selvi, Vijaya, Kogila dan Narina.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628060000 +0800" stop="20210628070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628070000 +0800" stop="20210628073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628073000 +0800" stop="20210628080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628080000 +0800" stop="20210628083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628083000 +0800" stop="20210628090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628090000 +0800" stop="20210628100000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Ara tidak mahu menyertai percutian tahunan syarikat yang telah dirancang ke Pulau Langkawi. Dia bingung apabila Arjuna memaksanya untuk turut serta dalam percutian tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628100000 +0800" stop="20210628110000 +0800" channel="TV2">
+    <title lang="en">Jom Shoppee</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628110000 +0800" stop="20210628120000 +0800" channel="TV2">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan rancangan hiburan terbitan Unit Hiburan RTM khas untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628120000 +0800" stop="20210628122000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628122000 +0800" stop="20210628123000 +0800" channel="TV2">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628123000 +0800" stop="20210628130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628130000 +0800" stop="20210628133000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628133000 +0800" stop="20210628143000 +0800" channel="TV2">
+    <title lang="en">Matahari Cerah Lagi</title>
+    <desc lang="en">Saida dan Zul berjumpa Awie untuk membayar ganti rugi ke atas lembu yang dicuri Arsyad. Zul meminta Awie menarik balik laporan polis.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628143000 +0800" stop="20210628150000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628150000 +0800" stop="20210628160000 +0800" channel="TV2">
+    <title lang="en">Brindavanam</title>
+    <desc lang="en">Murugappan merupakan seorang ahli muzik yang bergiat aktif bersama rakan-rakannya. Perkara ini kurang disenangi oleh menantunya yang tidak menyukai muzik. Pada suatu hari, Shamala, anak perempuan Murugappan bertengkar dengan suaminya kerana anak mereka iaitu Karthini telah menghadiri satu konsert bersama datuknya. Setelah pulang dari konsert tersebut, pertengkaran besar berlaku hingga menyebabkan Murugappan keluar dari rumah. Lakonan : K.S Maniam dan Ratna Gowri.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628160000 +0800" stop="20210628170000 +0800" channel="TV2">
+    <title lang="en">The Big Mistakes</title>
+    <desc lang="en">Kisah Lim Fan, seorang peniaga yang berjaya dan mempunyai sebuah keluarga yang bahagia pada mulanya. Dia telah membuka sebuah syarikat dan kilang biskut bersama adiknya, Lim Man. Mereka terpaksa menempuh pelbagai dugaan untuk memajukan syarikat. Lakonan : Candy Lee Lim Peng, Emily, Vinz Lim Yi Xin, Wong Chun, Adrian Tan dan Angeline Tan.(n)</desc>
+    <rating>
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210628170000 +0800" stop="20210628180000 +0800" channel="TV2">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Benjy telah mendapat maklumat tentang rancangan pertemuan antara Johan dengan Ira di panggung wayang lalu dia bertindak untuk bertemu Ira terlebih dahulu.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628180000 +0800" stop="20210628190000 +0800" channel="TV2">
+    <title lang="en">Mask</title>
+    <desc lang="en">Min Woo sanggup membayar ganti rugi kepada Ji Sook sekiranya Ji Sook bersetuju untuk membatalkan perkahwinan mereka. Pada masa sama, Ji Sook mula tersepit apabila mengetahui ahli keluarganya menangis kesedihan di majlis pengebumiannya. Lakonan : Ju Ji-Hoon, Soo Ae dan Jeong-Hun Yeon.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628190000 +0800" stop="20210628193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628193000 +0800" stop="20210628200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Tamil.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628200000 +0800" stop="20210628210000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Razi berusaha untuk menawan dan memujuk kembali hati Alana sekembalinya Alana dari Paris. Alana berterus terang kepadaRazi bahawa dia tidak dapat menerima cinta Razi dan masih mengharapkan cinta Arjuna. Lakonan : Zara Zya , Fadlan Hazim dan Syazwan Zulkifli.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628210000 +0800" stop="20210628230000 +0800" channel="TV2">
+    <title lang="en">Penjaga Garisan Itu Suami Aku</title>
+    <desc lang="en">Kisah Osman seorang penjaga garisan yang bertengkar dengan isterinya kerana ingin berpoligami. Osman cuba menipu bakal isteri keduanya dengan memberitahu bahawa isterinya telah memberi izin dia berkahwin seorang lagi. Lakonan : Adik Carl Zali, Rita Rudaini,Tasha Shila dan Fahrin Ahmad.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210628230000 +0800" stop="20210628235900 +0800" channel="TV2">
+    <title lang="en">Trans World Sports</title>
+    <desc lang="en">Ikuti kisah pencapaian yang luar biasa oleh dua legenda pelumba motor, iaitu Lewis Hamilton dan Valentino Rossi dalam kejohanan Formula One dan MotoGP masing-masing di peringkat antarabangsa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629000000 +0800" stop="20210629003000 +0800" channel="TV2">
+    <title lang="en">Syy... Rahsia</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629003000 +0800" stop="20210629013000 +0800" channel="TV2">
+    <title lang="en">Si Capik</title>
+    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629013000 +0800" stop="20210629020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629020000 +0800" stop="20210629023000 +0800" channel="TV2">
+    <title lang="en">Mannipu</title>
+    <desc lang="en">Drama bersiri yang mengisahkan konflik diantara dua keluarga usahawan iaitu Ramamurthy dan Renganathan yang saling bersaing  untuk membina empayar perniagaan dan mereka sanggup melakukan apa sahaja untuk mencapai matlamat mereka. Lakonan : Vasant dan So. Paramjothi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629023000 +0800" stop="20210629030000 +0800" channel="TV2">
+    <title lang="en">Dr. Love</title>
+    <desc lang="en">Magen seorang DJ Radio online yang terkenal diberi tiga bulan untuk memperbaiki rancangannya dan beliau dinasihatkan bahawa beliau perlu mengalami alam percintaan dirinya sebelum dapat memberi nasihat mengenai percintaan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629030000 +0800" stop="20210629040000 +0800" channel="TV2">
+    <title lang="en">Taste Of Life</title>
+    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629040000 +0800" stop="20210629060000 +0800" channel="TV2">
+    <title lang="en">Suamiku Yang Tak Perfect</title>
+    <desc lang="en">Mengisahkan tentang Baharum seorang suami yang tidak romantik tetapi berlainan pula dengan isterinya Ku, seorang isteri yang romantik. Ini menyebabkan Ku selalu merasakan Baharum kurang memberi perhatian kepadanya. Lakonan Kazar Saisi, Balkisyh Semundur Khan, Elly Mazlein, Bella Astilah, Ikmal Amry dan Issey Fazlisham.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629060000 +0800" stop="20210629070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629070000 +0800" stop="20210629073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629073000 +0800" stop="20210629080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629080000 +0800" stop="20210629083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629083000 +0800" stop="20210629090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629090000 +0800" stop="20210629100000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Alana bertekak dengan kakaknya yang mempertikaikan sikap Alana yang masih cuba untuk menghubungi kekasih lamanya, Arjuna sedangkan dirinya sudah bertunang dengan Razi.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629100000 +0800" stop="20210629110000 +0800" channel="TV2">
+    <title lang="en">Jom Shoppee</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629110000 +0800" stop="20210629120000 +0800" channel="TV2">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan rancangan hiburan terbitan Unit Hiburan RTM khas untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629120000 +0800" stop="20210629122000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629122000 +0800" stop="20210629123000 +0800" channel="TV2">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629123000 +0800" stop="20210629130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629130000 +0800" stop="20210629133000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629133000 +0800" stop="20210629143000 +0800" channel="TV2">
+    <title lang="en">Matahari Cerah Lagi</title>
+    <desc lang="en">Kisah Suha, gadis yang dianiaya ibu tiri dan suaminya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629143000 +0800" stop="20210629150000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629150000 +0800" stop="20210629160000 +0800" channel="TV2">
+    <title lang="en">Brindavanam</title>
+    <desc lang="en">Sewaktu sambutan hari lahirnya dahulu, menantu Rajan membuat kejutan dengan menghadiahkan cek bernilai RM300,000.00 untuk dijadikan modal pameran seni hasil karya seni Rajan. Kerana teruja, Rajan mula bertungkus lumus untuk menghasilkan karya seninya hingga dia mengabaikan isterinya yang tiba-tiba jatuh sakit. Lakonan : K.S Maniam dan Ratna Gowri.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629160000 +0800" stop="20210629170000 +0800" channel="TV2">
+    <title lang="en">The Big Mistakes</title>
+    <desc lang="en">Kisah Lim Fan, seorang peniaga yang berjaya dan mempunyai sebuah keluarga yang bahagia pada mulanya. Dia telah membuka sebuah syarikat dan kilang biskut bersama adiknya, Lim Man. Mereka terpaksa menempuh pelbagai dugaan untuk memajukan syarikat. Lakonan : Candy Lee Lim Peng, Emily, Vinz Lim Yi Xin, Wong Chun, Adrian Tan dan Angeline Tan.(n)</desc>
+    <rating>
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210629170000 +0800" stop="20210629180000 +0800" channel="TV2">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Ira telah diekori oleh seorang lelaki yang telah diupah oleh Iriani untuk menakut-nakutkannya. Ira mula panik apabila menerima nota amaran yang ditujukan buat dirinya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629180000 +0800" stop="20210629190000 +0800" channel="TV2">
+    <title lang="en">Mask</title>
+    <desc lang="en">Ji Sook gelisah setelah mengetahui ibunya tiba-tiba menghilangkan diri. Seok Hoon berjanji untuk mencari ibu Ji Sook sekiranya Ji Sook mengikut arahannya yang mahu menggagalkan perjanjian antara Datuk Bandar dan Min Woo dalam membina sebuah kompleks beli-belah. Lakonan : Ju Ji-Hoon, Soo Ae dan Jeong-Hun Yeon.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629190000 +0800" stop="20210629193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629193000 +0800" stop="20210629200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Tamil.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629200000 +0800" stop="20210629210000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Ara berbincang dengan ibu Arjuna tentang hasratnya untuk meminta Intan mengahwini Arjuna namun ibu Arjuna mendesak Ara memilih Alana yang sememangnya cintakan Arjuna. Alana terkejut dengan permintaan Ara yang disifatkannya sebagai âtidak masuk akalâ namun Ara memberikan cincin perkahwinannya kepada Alana sebagai tanda yang dia serius dengan niatnya. Lakonan : Zara Zya , Fadlan Hazim dan Syazwan Zulkifli.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629210000 +0800" stop="20210629230000 +0800" channel="TV2">
+    <title lang="en">Papa Bergaya</title>
+    <desc lang="en">Niel seorang yang ego dan suka berbelanja besar. Akibat sikapnya yang boros, dia akhirnya ditipu oleh Joe seorang penjual kereta dan juga kekasihnya Tess. Niel sekali lagi diuji apabila dia dipenjara atas kes kecurian. Lakonan : Fahrin Ahmad, Zizan Nin dan Dira Abu Zahar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210629230000 +0800" stop="20210629235900 +0800" channel="TV2">
+    <title lang="en">Trans World Sports</title>
+    <desc lang="en">Ikuti kisah pencapaian yang luar biasa oleh dua legenda pelumba motor, iaitu Lewis Hamilton dan Valentino Rossi dalam kejohanan Formula One dan MotoGP masing-masing di peringkat antarabangsa.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630000000 +0800" stop="20210630003000 +0800" channel="TV2">
+    <title lang="en">Syy... Rahsia</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630003000 +0800" stop="20210630013000 +0800" channel="TV2">
+    <title lang="en">Si Capik</title>
+    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630013000 +0800" stop="20210630020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630020000 +0800" stop="20210630023000 +0800" channel="TV2">
+    <title lang="en">Panimalar</title>
+    <desc lang="en">Kisah suka duka kehidupan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630023000 +0800" stop="20210630030000 +0800" channel="TV2">
+    <title lang="en">Dr. Love</title>
+    <desc lang="en">Magen seorang DJ Radio online yang terkenal diberi tiga bulan untuk memperbaiki rancangannya dan beliau dinasihatkan bahawa beliau perlu mengalami alam percintaan dirinya sebelum dapat memberi nasihat mengenai percintaan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630030000 +0800" stop="20210630040000 +0800" channel="TV2">
+    <title lang="en">Taste Of Life</title>
+    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630040000 +0800" stop="20210630060000 +0800" channel="TV2">
+    <title lang="en">Penjaga Garisan Itu Suami Aku</title>
+    <desc lang="en">Kisah Osman seorang penjaga garisan yang bertengkar dengan isterinya kerana ingin berpoligami. Osman cuba menipu bakal isteri keduanya dengan memberitahu bahawa isterinya telah memberi izin dia berkahwin seorang lagi. Lakonan : Adik Carl Zali, Rita Rudaini,Tasha Shila dan Fahrin Ahmad.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630060000 +0800" stop="20210630070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630070000 +0800" stop="20210630073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630073000 +0800" stop="20210630080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630080000 +0800" stop="20210630083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630083000 +0800" stop="20210630090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630090000 +0800" stop="20210630100000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Bakhtiar berkenalan dengan Alana. Dalam masa yang sama, Alana sedang berusaha mengambil hati Arjuna kembali. Lakonan Zara Zya, Fadlan Hazim, Aprena Manrose, Syazwan Zulkifly, Zera Hariz, Puteri Khareeza, Jasper Supayah, Sazrin Aizul, Zalfa Zin dan Zulkifli Ismail.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630100000 +0800" stop="20210630110000 +0800" channel="TV2">
+    <title lang="en">Jom Shoppee</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630110000 +0800" stop="20210630120000 +0800" channel="TV2">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan rancangan hiburan terbitan Unit Hiburan RTM khas untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630120000 +0800" stop="20210630122000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630122000 +0800" stop="20210630123000 +0800" channel="TV2">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630123000 +0800" stop="20210630130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630130000 +0800" stop="20210630133000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630133000 +0800" stop="20210630143000 +0800" channel="TV2">
+    <title lang="en">Matahari Cerah Lagi</title>
+    <desc lang="en">Adam mengugut untuk menyebarkan gambar Suha yang mengaibkan, Utih pula merajuk dengan suaminya Jalil.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630143000 +0800" stop="20210630150000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630150000 +0800" stop="20210630170000 +0800" channel="TV2">
+    <title lang="en">Santhya@facebook.com</title>
+    <desc lang="en">Santhya seorang gadis kolej telah jatuh cinta dengan Santosh yang dikenalinya di Facebook. Santosh sebenarnya adalah seorang penagih, pengedar dadah dan juga bekas banduan. Setelah menjalinkan hubungan, Santosh dengan tidak sengaja telah mendedahkan indentitinya yang sebenar. Santhya terperanjat tetapi tidak mahu menamatkan hubungan dengan harapan Santosh akan berubah demi masa depan mereka. Lakonan : Devika, Rathi, Aghoderan dan Rekha.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630170000 +0800" stop="20210630180000 +0800" channel="TV2">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Iriani geram dengan tindakan Johan kerana menyerahkan projek ubah suai rumah ke tangan Zaid. Dia berhubung dengan Benjy untuk berbincang mengenai tindakan selanjutnya.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630180000 +0800" stop="20210630190000 +0800" channel="TV2">
+    <title lang="en">Mask</title>
+    <desc lang="en">Seok Hoon membocorkan keputusan mesyuarat projek pembinaan sebuah kompleks beli-belah di tapak penjaja tradisional kepada penjaja-penjaja. Hal tersebut menaikkan kemarahan para penjaja dan mereka meluahkan rasa marah melalui demonstrasi membantah projek tersebut. Min Woo cuba menenangkan keadaan dengan bertemu kesemua para penjaja namun, usaha tersebut gagal. Lakonan : Ju Ji-Hoon, Soo Ae dan Jeong-Hun Yeon.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630190000 +0800" stop="20210630193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630193000 +0800" stop="20210630200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Tamil.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630200000 +0800" stop="20210630210000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Fikiran Ara semakin bercelaru semenjak Arjuna menghilangkan diri. Bak memarahi Ara yang mahu mengatur jodoh lain buat Arjuna walaupun Ara berniat baik demi kebahagiaan Arjuna untuk memiliki zuriat. Miasara mencadangkan agar Ara mencari suaminya di Paris yang dianggap seperti rumah kedua buat Arjuna. Lakonan : Zara Zya , Fadlan Hazim dan Syazwan Zulkifli.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630210000 +0800" stop="20210630230000 +0800" channel="TV2">
+    <title lang="en">Pusaraku Pelamin Ayah</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Siti Fazurina, Zul Huzaimi &amp; Azean Irdawati.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210630230000 +0800" stop="20210630235900 +0800" channel="TV2">
+    <title lang="en">Infiniteen</title>
+    <desc lang="en">Sebuah program bicarawara yang akan mengupas tentang isu-isu terkini.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701000000 +0800" stop="20210701003000 +0800" channel="TV2">
+    <title lang="en">Syy... Rahsia</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701003000 +0800" stop="20210701013000 +0800" channel="TV2">
+    <title lang="en">Si Capik</title>
+    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701013000 +0800" stop="20210701020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701020000 +0800" stop="20210701023000 +0800" channel="TV2">
+    <title lang="en">Panimalar</title>
+    <desc lang="en">Kisah suka duka kehidupan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701023000 +0800" stop="20210701030000 +0800" channel="TV2">
+    <title lang="en">Kangal Thiranthaal</title>
+    <desc lang="en">Kisah menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701030000 +0800" stop="20210701040000 +0800" channel="TV2">
+    <title lang="en">Taste Of Life</title>
+    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701040000 +0800" stop="20210701060000 +0800" channel="TV2">
+    <title lang="en">Papa Bergaya</title>
+    <desc lang="en">Niel seorang yang ego dan suka berbelanja besar. Akibat sikapnya yang boros, dia akhirnya ditipu oleh Joe seorang penjual kereta dan juga kekasihnya Tess. Niel sekali lagi diuji apabila dia dipenjara atas kes kecurian. Lakonan : Fahrin Ahmad, Zizan Nin dan Dira Abu Zahar.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701060000 +0800" stop="20210701070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701070000 +0800" stop="20210701073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701073000 +0800" stop="20210701080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701080000 +0800" stop="20210701083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701083000 +0800" stop="20210701090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701090000 +0800" stop="20210701100000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Ara merajuk dan Arjuna cuba untuk memujuk dengan memberikan kejutan.  Lakonan Zara Zya, Fadlan Hazim, Aprena Manrose, Syazwan Zulkifly, Zera Hariz, Puteri Khareeza, Jasper Supayah, Sazrin Aizul, Zalfa Zin dan Zulkifli Ismail.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701100000 +0800" stop="20210701110000 +0800" channel="TV2">
+    <title lang="en">Jom Shoppee</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701110000 +0800" stop="20210701120000 +0800" channel="TV2">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan rancangan hiburan terbitan Unit Hiburan RTM khas untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701120000 +0800" stop="20210701122000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701122000 +0800" stop="20210701123000 +0800" channel="TV2">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701123000 +0800" stop="20210701130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701130000 +0800" stop="20210701133000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701133000 +0800" stop="20210701143000 +0800" channel="TV2">
+    <title lang="en">Matahari Cerah Lagi</title>
+    <desc lang="en">Nazri memulakan tugas beliau di Syarikat baru, dan dalam amsa yang sama Irsyad telah ditangkap oleh polis akibat mencuri.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701143000 +0800" stop="20210701150000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701150000 +0800" stop="20210701170000 +0800" channel="TV2">
+    <title lang="en">Kelas Terakhir</title>
+    <desc lang="en">Zhang Wei, seorang guru mengimbas kembali kisah dirinya. Beliau selalu melepak bersama samseng lalu menyebabkan seorang samseng marah kepadanya. Beliau menyembunyikan diri dengan menyamar menjadi seorang guru. Perangainya telah berubah dan membantu kanak-kanak daripada keluarga yang miskin untuk mendapatkan pendidikan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701170000 +0800" stop="20210701180000 +0800" channel="TV2">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Johan ternampak Benjy bersembang dengan Ira, selepas dia meninggalkan Ira untuk membeli minuman.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701180000 +0800" stop="20210701190000 +0800" channel="TV2">
+    <title lang="en">Mask</title>
+    <desc lang="en">Majlis tari-menari bagi meraikan kejayaan Min Woo diceroboh oleh adik Ji Hyuk yang menyelinap masuk ke dewan majlis kerana menyangka Eun Ha adalah Ji Sook. Tergamam dengan tindakan Ji Hyuk tersebut, Ji Sook dengan berat hati menyangkal dakwaan Ji Hyuk bahawa dia adalah kakak kepada Ji Hyuk. Lakonan : Ju Ji-Hoon, Soo Ae dan Jeong-Hun Yeon.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701190000 +0800" stop="20210701193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701193000 +0800" stop="20210701200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Tamil.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701200000 +0800" stop="20210701210000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Percubaan Ara memujuk Arjuna gagal. Arjuna tidak mengendahkan Ara sebaliknya menyuruh Ara pulang ke Malaysia. Ara menghubungi Bak untuk memaklumkan situasi terkini di Paris dan dia seolah-olah seperti berputus asa. Ara nekad untuk membawa diri dan tidak mahu pulang ke Malaysia lagi. Lakonan : Zara Zya , Fadlan Hazim dan Syazwan Zulkifli.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701210000 +0800" stop="20210701230000 +0800" channel="TV2">
+    <title lang="en">SPL2</title>
+    <desc lang="en">Kit, seorang pegawai polis yang sedang dalam penyamaran telah ditangkap dan dikurung di sebuah penjara Thailand di mana warden penjara tersebut merupakan penjenayah yang terlibat dalam penyeludupan organ manusia. Lakonan : Tony Jaa, Jing Wu dan Simon Yam.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210701230000 +0800" stop="20210701235900 +0800" channel="TV2">
+    <title lang="en">Hotspot 2021</title>
+    <desc lang="en">Bual bicara santai Azrel Ismail bersama tetamu jemputan yang membicarakan pelbagai isu-isu semasa dan hiburan tanah air.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702000000 +0800" stop="20210702003000 +0800" channel="TV2">
+    <title lang="en">Syy... Rahsia</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zain Hamid, Aghonderan dan Kelvin Lau.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702003000 +0800" stop="20210702013000 +0800" channel="TV2">
+    <title lang="en">Si Capik</title>
+    <desc lang="en">Reza, Farish, Mira dan Sherin merupakan 4 sahabat yang sedang menuntut di sebuah pusat pengajian tinggi di ibu kota. Reza yang dilahirkan cacat di bahagian kakinya merupakan seorang pelajar cerdik dan tinggi budi pekerti. Bapanya, Halim bekerja sebagai pemandu kepada Tuan Hazim, seorang pengusaha dan peniaga yang berjaya. Mira bersimpati dengan Reza yang sering di pandang rendah di kalangan pelajar-pelajar kolej kerana kecacatannya itu.  Selain Mira,Farish juga sentiasa melindungi Reza dari ejekan dan usikan pelajar-pelajar di kolej mereka. Lakonan : Zack X-Factor dan Hetty Sarlene.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702013000 +0800" stop="20210702020000 +0800" channel="TV2">
+    <title lang="en">Ilaika Yusof</title>
+    <desc lang="en">Kisah Umaira seorang gadis bandar dan Yusuf, jejaka kampung yang bertemu dan jatuh cinta namun hubungan mereka mendapat tentangan hebat keluarga masing-masing. Ibu Yusuf lebih rela bermenantukan gadis bertudung seperti Salina manakala ayah dan nenek Umaira mahu menjodohkannya dengan Rafiq yang dirasakan setaraf dengan mereka. Lakonan : Jue Aziz, Azam Pitt dan Aida Khalida.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702020000 +0800" stop="20210702023000 +0800" channel="TV2">
+    <title lang="en">Panimalar</title>
+    <desc lang="en">Kisah suka duka kehidupan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702023000 +0800" stop="20210702030000 +0800" channel="TV2">
+    <title lang="en">Kangal Thiranthaal</title>
+    <desc lang="en">Kisah menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702030000 +0800" stop="20210702040000 +0800" channel="TV2">
+    <title lang="en">Taste Of Life</title>
+    <desc lang="en">Drama bersiri yang memaparkan kisah kehidupan penuh dugaan dan cabaran. Lakonan : Leslie Chai, Sam Chong dan Queenz Cheng.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702040000 +0800" stop="20210702060000 +0800" channel="TV2">
+    <title lang="en">Pusaraku Pelamin Ayah</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Siti Fazurina, Zul Huzaimi &amp; Azean Irdawati.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702060000 +0800" stop="20210702070000 +0800" channel="TV2">
+    <title lang="en">Dia Anak Jeneral</title>
+    <desc lang="en">Drama bersiri Dia Anak Jeneral yang diadaptasi daripada novel tulisan Hezzy Azra. Drama terbitan produksi A.Aida Production ini diarahkan oleh Khalid Nazri. Menampilkan gandingan Fattah Amin dan Niena Baharun sebagai teraju utama. Saksikan drama Dia Anak Jeneral sebanyak 26 episod.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702070000 +0800" stop="20210702073000 +0800" channel="TV2">
+    <title lang="en">CJ The DJ</title>
+    <desc lang="en">Kisah CJ, kanak-kanak perempuan berusia 13 tahun menubuhkan kumpulan DJ bersama Lesley dan Si. Mereka berlatih bersungguh-sungguh dan mengadakan promosi tentang kumpulan mereka namun tiada siapa yang peduli kewujudan kumpulan tersebut.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702073000 +0800" stop="20210702080000 +0800" channel="TV2">
+    <title lang="en">Doplo Doplo (2020)</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702080000 +0800" stop="20210702083000 +0800" channel="TV2">
+    <title lang="en">Raihan Rangers</title>
+    <desc lang="en">Siri animasi yang menunjukkan perjuangan kebaikan melawan kejahatan. Pejuang-pejuang ini terdiri daripada sekumpulan 4 orang anak muda NAZ, CHAMPZ, BAKRZ dan RONZ yang sangat patuh dengan pesanan sifu-sifu mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702083000 +0800" stop="20210702090000 +0800" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702090000 +0800" stop="20210702100000 +0800" channel="TV2">
+    <title lang="en">Alergi Mamat Romantik</title>
+    <desc lang="en">Kereta Ara rosak ketika sibuk membeli barang pekahwinan dan dia meminta bantuan Bakhtiar.  Lakonan Zara Zya, Fadlan Hazim, Aprena Manrose, Syazwan Zulkifly, Zera Hariz, Puteri Khareeza, Jasper Supayah, Sazrin Aizul, Zalfa Zin dan Zulkifli Ismail.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702100000 +0800" stop="20210702110000 +0800" channel="TV2">
+    <title lang="en">Jom Shoppee</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702110000 +0800" stop="20210702120000 +0800" channel="TV2">
+    <title lang="en">Hiburan Minggu Ini Retro - Rahimah Rahim</title>
+    <desc lang="en">Hiburan HMI-Retro bersama Rahimah Rahim.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702120000 +0800" stop="20210702122000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702122000 +0800" stop="20210702123000 +0800" channel="TV2">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702123000 +0800" stop="20210702130000 +0800" channel="TV2">
+    <title lang="en">Updates@Noon</title>
+    <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702130000 +0800" stop="20210702133000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702133000 +0800" stop="20210702143000 +0800" channel="TV2">
+    <title lang="en">Matahari Cerah Lagi</title>
+    <desc lang="en">Saidah dan Zul kecewa dan sedih atas penangkapan Irsyad, namun Widad telah berjaya dijumpai dengan selamat.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702143000 +0800" stop="20210702150000 +0800" channel="TV2">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702150000 +0800" stop="20210702165000 +0800" channel="TV2">
+    <title lang="en">Raja Tom Yam</title>
+    <desc lang="en">Kerana amat gemarkan âTom Yamâ seorang gadis cuba bermacam cara mencari jejaka yang pandai menyediakan masakan tersebut untuk mengisi kekosongan hatinya. Lakonan : Dee Jangan Ketawa, Azza Elite, Emelda Rosemila, Delimawati dan Sabri Yunus.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702165000 +0800" stop="20210702170000 +0800" channel="TV2">
+    <title lang="en">Cerita Kita</title>
+    <desc lang="en">Memaparkan informasi mengenai Covid-19 di Malaysia.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702170000 +0800" stop="20210702180000 +0800" channel="TV2">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Tindakan Lydia yang cuba untuk mendamaikan Johan dengan Ira tidak semudah yang disangka.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702180000 +0800" stop="20210702190000 +0800" channel="TV2">
+    <title lang="en">Mask</title>
+    <desc lang="en">Majlis temu bual Min Woo dan Eun Ha (Ji Sook) tidak berjalan lancar kerana Eun Ha (Ji Sook) tidak dapat mengawal sebak menyesali tindakan kasarnya terhadap Ji Hyuk sebelum ini. Bagi menenangkan keadaan, Min Woo membawanya ke kampung untuk menziarahi kubur ibu Min Woo. Sewaktu di kampung, beberapa perkara tidak dijangka berlaku yang menimbulkan kemesraan antara mereka. Lakonan : Ju Ji-Hoon, Soo Ae dan Jeong-Hun Yeon.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702190000 +0800" stop="20210702193000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702193000 +0800" stop="20210702200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Tamil.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702200000 +0800" stop="20210702210000 +0800" channel="TV2">
+    <title lang="en">Ayat-ayat Halal</title>
+    <desc lang="en">Eb bercinta dengan gadis sekampungnya Murni dan akhirnya bertunang dengan gadis tersebut. Eb kemudiannya mendapat tawaran bekerja di Qatar dan Murni tidak setuju dengan keputusan Eb untuk bekerja di sana. Eb menerangkan yang dia memikirkan masa depan keluarganya dan disokong oleh ibunya, Mak Esah. Murni menyuruh Eb membuat pilihan samada dirinya atau menurut kehendak ibu Eb yang membuatkan Eb dalam dilema. Lakonan : Amar Baharin, Nadiya Nisaa, Fikhree Bakar, Razak Ahmad dan Lan Siro.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702210000 +0800" stop="20210702230000 +0800" channel="TV2">
+    <title lang="en">Spiderman Home Coming</title>
+    <desc lang="en">Teruja dengan pengalaman bersama Avengers, Peter Parker pulang ke rumah untuk tinggal bersama Aunty May. Di bawah pengawasan mentornya, Tony Stark. Parker mula menerima identiti baru sebagai Spider-Man. Dia juga cuba untuk mengimbangi hidupnya sebagai pelajar sekolah menengah biasa di Queens dengan kehidupan sebagai superhero Spider-Man. Lakonan : Tom Holland, Michael Keaton, Jon Favreau, Gwyneth Paltrow dan Robert Downey Jr.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210702230000 +0800" stop="20210702235900 +0800" channel="TV2">
+    <title lang="en">i-Popular</title>
+    <desc lang="en">Saksikan persembahan artis-artis popular tanah air dalam rancangan hiburan terbitan Unit Hiburan TV, RTM.(n)</desc>
+    <rating>
+      <value>U</value>
+    </rating>
+  </programme>
+</tv>
