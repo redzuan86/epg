@@ -39,6 +39,8 @@ copy G:\git-working\epg_encrypted\unifitv.config.xml "WebGrab++.config.xml"
 Run.lnk
 G:
 ren unifitv-debug.xml unifitv.xml
+fart unifitv.xml "ΓÇ£" """
+fart unifitv.xml "ΓÇ¥" """
 fart unifitv.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\unifitv.xml.gz unifitv.xml
 git add unifitv.xml compressed/unifitv.xml.gz
